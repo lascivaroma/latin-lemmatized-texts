@@ -12,7 +12,6 @@ Cite this corpus using the following:
   month        = oct,
   year         = 2020,
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.3883589},
   url          = {https://github.com/lascivaroma/latin-lemmatized-texts}
 }
 ```
