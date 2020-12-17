@@ -35,14 +35,22 @@ The texts are distributed using the same licence as the original, annotation are
 
 ## Information about the model
 
-They were tagged with Pie-Extended LASLA model using the [0.0.4](https://github.com/PonteIneptique/latin-lasla-models/releases/tag/0.0.4) version's Vulgate Model.
+They were tagged with Pie-Extended LASLA model using the [0.0.5a](https://github.com/PonteIneptique/latin-lasla-models/releases/tag/0.0.5a) LASLA + model (trained with aligned PROIEL Vulgate as well as Priapea and a Late Latin Corpus to be published soon).
 
 
 *Note:* the model is currently being fine-tuned in the context of my PhD. I'll fill this part when it will be done.
 
-- Enclitics duplicates the whole token (-que are not separated). They are identifiable through as their form starts and ends with `{` and `}`.
+- Enclitics duplicate the whole token (-que are not separated). They are identifiable through as their form starts and ends with `{` and `}`. Example : 
+
+```xml
+  <w lemma="breuis" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos" n="1.18" pos="ADJqua" rend="section">breuibusque</w>
+  <w lemma="que" msd="MORPH=empty" n="1.18" pos="CON" rend="section">{breuibusque}</w>
+```
+
 - Roman numbers are lemmatized as Arabic numbers.
+
 - The model is highly susceptible of wrong annotation for wrong tokens such as `7AP`.
+
 - Tokens ending with `?` are known as needing disambiguation but disambiguation was not possible (there seems to have been an issue with some automatic ones in this version of the corpus).
 
 ## Information about the schema
@@ -55,7 +63,7 @@ XML Files are TEI compliant (normally) and the text in separated in passages, th
           <ab n="urn:cts:latinLit:phi0119.phi009.perseus-lat2:1" type="line">
 ```
 
-Tokens use the standard TEI annotation elements:
+Tokens use the standard TEI annotation elements `@pos`, `@msd` and `@lemma`:
 
 ```xml
 <w lemma="gaudeo" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1" n="7" pos="VER" rend="line">gaudeo</w>
