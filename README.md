@@ -9,10 +9,12 @@ Cite this corpus using the following:
 @software{thibault_clerice_2020_corpus_latin,
   author       = {Clérice, Thibault},
   title        = {Corpus Latin antiquité et antiquité tardive lemmatisé},
-  month        = oct,
+  month        = dec,
   year         = 2020,
   publisher    = {Zenodo},
-  url          = {https://github.com/lascivaroma/latin-lemmatized-texts}
+  version      = {0.0.1},
+  doi          = {10.5281/zenodo.4337146},
+  url          = {https://doi.org/10.5281/zenodo.4337146}
 }
 ```
 
