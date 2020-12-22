@@ -70,3 +70,40 @@ Tokens use the standard TEI annotation elements `@pos`, `@msd` and `@lemma`:
 <w lemma="gaudeo" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1" n="7" pos="VER" rend="line">gaudeo</w>
 ```
 
+## Lexical information and tags
+
+### POS
+
+| Tag        | French                          | English                          | UD POS | Example                                          |
+|------------|---------------------------------|----------------------------------|--------|--------------------------------------------------|
+| ADJadv.mul | Numéral Adverbial Multiplicatif | Multiplicative numeral adverbial | ADV    | quadragies                                       |
+| ADJadv.ord | Numéral Adverbial Ordinal       | Ordinal numeral adverb           | ADV    | secundo                                          |
+| ADJcar     | Numéral Cardinal                | Cardinal                         | NUM    | decem, ducenti, duo                              |
+| ADJdis     | Numéral Distributif             | Distributive numeral             | ADJ    | tricenus, trinus, uicenus, undenus               |
+| ADJmul     | Numéral Multiplicatif           | Multiplicative numeral           | ADJ    | septemplex, simplex, triplex                     |
+| ADJord     | Numéral Ordinal                 | Ordinal numeral                  | ADJ    | octogesimus, primus, prior                       |
+| ADJqua     | Adjectif qualificatif           | Adjective                        | ADJ    |                                                  |
+| ADV        | Adverbe                         | Adverb                           | ADV    |                                                  |
+| ADVint     | Adverbe interrogatif            | Interogative Adverb              | ADV    | an, anne, cuicuimodi2                            |
+| ADVint.neg | Adverbe interrogatif négatif    | Negative Interrogative Adverb    | ADV    | necne, nonne, quidni                             |
+| ADVneg     | Adverbe négatif                 | Negative Adverb                  | ADV    | haud, ne3, nec1                                  |
+| ADVrel     | Adverbe relatif                 | Relative Adverb                  | ADV    | proquam, prout                                   |
+| CONcoo     | Conjonction de coordination     | Coordinating conjunction         | CCONJ  |                                                  |
+| CONsub     | Conjonction de subordination    | Subordinating conjunction        | SCONJ  |                                                  |
+| INJ        | Interjection                    | Interjection                     | INTJ   |                                                  |
+| NOMcom     | Nom commun                      | Noun                             | NOUN   |                                                  |
+| NOMpro     | Nom propre                      | Proper Noun                      | PROPN  |                                                  |
+| OUT        | Non-Géré                        | Out                              | X      |                                                  |
+| PRE        | Préposition                     | Preposition                      | ADP    |                                                  |
+| PROdem     | Pronom démonstratif             | Demonstrative Pronoun            | PRON   | hic, idem, ille                                  |
+| PROind     | Pronom indéfini                 | Indefinite Pronoun               | PRON   | aliquantus, aliquis, aliquot, alis, alius, alter |
+| PROint     | Pronom interrogatif             | Interrogative Pronoun            | PRON   | cuias, cuius, ecquis                             |
+| PROper     | Pronom personnel                | Personal Pronoun                 | PRON   | ego, nos, tu, uos                                |
+| PROpos     | Pronom possessif                | Possessive Pronoun               | PRON   | mei, meus, noster                                |
+| PROpos.ref | Pronom possessif réfléchi       | Relfexive Possessive Pronoun     | PRON   | Sui, suus                                        |
+| PROref     | Pronom réfléchi                 | Reflexive Pronoun                | PRON   | sepse, sui                                       |
+| PROrel     | Pronom relatif                  | Relative Pronoun                 | PRON   | cuius, qualis, qualiscumque                      |
+| PUNC       | Ponctuation                     | Punctuation                      | PUNCT  |                                                  |
+| VER        | Verbe                           | Verb                             | VERB   |                                                  |
+| VERaux     | Verbe auxiliaire                | Auxiliary Verb                   | AUX    |                                                  |
+| FOR        | Termes étrangers                | Foreign words                    | X      |                                                  |
