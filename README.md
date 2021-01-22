@@ -24,17 +24,17 @@ This corpus contains the whole set of Capitains compliant classical and late Lat
 
 | Name                                                                            | Version | Project you need to cite                       |  
 | ------------------------------------------------------------------------------- | ------- | ---------------------------------------------- | 
-| [PerseusDL/canonical-latinLit](https://github.com/PerseusDL/canonical-latinLit) | 0.0.621 | https://www.perseus.org                        |
-| [OpenGreekAndLatin/csel-dev](https://github.com/OpenGreekAndLatin/csel-dev)     | 1.0.67  | https://www.perseus.org                        |
+| [PerseusDL/canonical-latinLit](https://github.com/PerseusDL/canonical-latinLit) | 0.0.644 | https://www.perseus.org                        |
+| [OpenGreekAndLatin/csel-dev](https://github.com/OpenGreekAndLatin/csel-dev)     | 1.0.77  | https://www.perseus.org                        |
 | [OpenGreekAndLatin/Latin](https://github.com/OpenGreekAndLatin/Latin)           | v1.10.0 | https://www.perseus.org                        |
-| [ponteineptique/digiliblt](https://github.com/ponteineptique/digiliblt)         | 0.0.32  | https://digiliblt.uniupo.it                    |
+| [ponteineptique/digiliblt](https://github.com/ponteineptique/digiliblt)         | 0.0.37  | https://digiliblt.uniupo.it                    |
 | [lascivaroma/priapeia](https://github.com/lascivaroma/priapeia)                 | 1.1.18  | [Lasciva Roma](https://github.com/lascivaroma) |
-| [lascivaroma/additional-texts](https://github.com/lascivaroma/additional-texts) | 1.0.123 | [Lasciva Roma](https://github.com/lascivaroma) |
+| [lascivaroma/additional-texts](https://github.com/lascivaroma/additional-texts) | 1.0.136 | [Lasciva Roma](https://github.com/lascivaroma) |
 
 
 The texts are distributed using the same licence as the original, annotation are CC-BY-SA 4.0. 
 
-**Number of tokens**: 14,932,423 (according to `grep -roh '<w' . | wc -l`)
+**Number of tokens**: 15,396,256 (according to `grep -roh '<w' . | wc -l`)
 
 ## Information about the model
 
