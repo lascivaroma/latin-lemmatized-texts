@@ -14,9 +14,9 @@
             <sourceDesc>
                 <bibl>
                     <idno>urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1</idno>
-                    <link target="https://github.com/ponteineptique/digiliblt/archive/0.0.37.zip"/>
+                    <link target="https://github.com/ponteineptique/digiliblt/archive/0.0.39.zip"/>
                     <dim source="xml" type="md5-checksum">58152e9fdf703f7141e606c9ad2b1236</dim>
-                    <dim source="plaintext-transformation" type="md5-checksum">6c3d107261ce55817aa94ae9aff6f168</dim>
+                    <dim source="plaintext-transformation" type="md5-checksum">dcd67c6022e4bed64495b082f0c7d189</dim>
                     <dim source="xsl" type="md5-checksum">22f0c529b7ecf86f9fc04cc8de63d204</dim>
                 </bibl>
             </sourceDesc>
@@ -25,7 +25,9 @@
     <text n="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1">
         <body>
             
-        <ab n="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:I.1" type="part">
+        <ab n="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:I" type="book">
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:I.1" type="part">
                 <w lemma="quoniam" msd="MORPH=empty" n="I.1" pos="CONsub" rend="part">Quoniam</w>
                 <w lemma="specialis" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos" n="I.1" pos="ADJqua" rend="part">specialia</w>
                 <w lemma="quidam" msd="Case=Nom|Numb=Plur|Gend=Neut" n="I.1" pos="PROind" rend="part">quedam</w>
@@ -90,7 +92,7 @@
                 <w lemma="irruo" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act" n="I.1" pos="VER" rend="part">irruentibus</w>
                 <w lemma="morbus" msd="Case=Abl|Numb=Plur" n="I.1" pos="NOMcom" rend="part">morbis</w>
                 <w lemma="," msd="MORPH=empty" n="I.1" pos="PUNC" rend="part">,</w>
-                <w lemma="pudendus" msd="Case=Gen|Numb=Plur|Gend=MascNeut" n="I.1" pos="ADJqua" rend="part">pudendorum</w>
+                <w lemma="pudendus" msd="Case=Gen|Numb=Plur|Gend=MascNeut|Deg=Pos" n="I.1" pos="ADJqua" rend="part">pudendorum</w>
                 <w lemma="locus" msd="Case=Nom|Numb=Plur" n="I.1" pos="NOMcom" rend="part">loca</w>
                 <w lemma="tango" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3" n="I.1" pos="VER" rend="part">tangantur</w>
                 <w lemma="." msd="MORPH=empty" n="I.1" pos="PUNC" rend="part">.</w>
@@ -15703,6 +15705,8 @@
                 <w lemma="constituo" msd="Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass" n="I.171" pos="VER" rend="part">constituta</w>
                 <w lemma="." msd="MORPH=empty" n="I.171" pos="PUNC" rend="part">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:II" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:II.1" type="part">
                 <w lemma="de" msd="MORPH=empty" n="II.1" pos="PRE" rend="part">De</w>
                 <w lemma="abstinentia" msd="Case=Abl|Numb=Sing" n="II.1" pos="NOMcom" rend="part">abstinentia</w>
@@ -15716,7 +15720,7 @@
                 <w lemma="tumor" msd="Case=Abl|Numb=Sing" n="II.1" pos="NOMcom" rend="part">tumore</w>
                 <w lemma="matricus" msd="Case=Abl|Numb=Sing" n="II.1" pos="NOMcom" rend="part">matricis</w>
                 <w lemma="de" msd="MORPH=empty" n="II.1" pos="PRE" rend="part">De</w>
-                <w lemma="satirio" msd="Numb=Sing" n="II.1" pos="VER" rend="part">satiriasi</w>
+                <w lemma="satirio" msd="Case=Gen|Numb=Sing" n="II.1" pos="VER" rend="part">satiriasi</w>
                 <w lemma="de" msd="MORPH=empty" n="II.1" pos="PRE" rend="part">De</w>
                 <w lemma="prefocatio" msd="Case=Abl|Numb=Sing" n="II.1" pos="NOMcom" rend="part">prefocatione</w>
                 <w lemma="matricus" msd="Case=Gen|Numb=Sing" n="II.1" pos="NOMcom" rend="part">matricis</w>
@@ -15731,7 +15735,7 @@
                 <w lemma="matrix" msd="Case=Abl|Numb=Sing" n="II.1" pos="NOMcom" rend="part">matrice</w>
                 <w lemma="de" msd="MORPH=empty" n="II.1" pos="PRE" rend="part">De</w>
                 <w lemma="duritia" msd="Case=Abl|Numb=Sing" n="II.1" pos="NOMcom" rend="part">duritia</w>
-                <w lemma="matricus" msd="Case=Gen|Numb=Sing" n="II.1" pos="NOMcom" rend="part">matricis</w>
+                <w lemma="matrix" msd="Case=Gen|Numb=Sing" n="II.1" pos="NOMcom" rend="part">matricis</w>
                 <w lemma="de" msd="MORPH=empty" n="II.1" pos="PRE" rend="part">De</w>
                 <w lemma="mola" msd="Case=Abl|Numb=Sing" n="II.1" pos="NOMcom" rend="part">mola</w>
                 <w lemma="," msd="MORPH=empty" n="II.1" pos="PUNC" rend="part">,</w>
@@ -15756,7 +15760,7 @@
                 <w lemma="matrix" msd="Case=Abl|Numb=Sing" n="II.1" pos="NOMcom" rend="part">matricis</w>
                 <w lemma="debilitas" msd="Case=Abl|Numb=Sing" n="II.1" pos="NOMcom" rend="part">debilitate</w>
                 <w lemma="de" msd="MORPH=empty" n="II.1" pos="PRE" rend="part">De</w>
-                <w lemma="paralis" msd="Case=Gen|Numb=Sing|Gend=Com|Deg=Pos" n="II.1" pos="ADJqua" rend="part">paralisi</w>
+                <w lemma="paralis" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos" n="II.1" pos="ADJqua" rend="part">paralisi</w>
                 <w lemma="matrix" msd="Case=Abl|Numb=Sing" n="II.1" pos="NOMcom" rend="part">matricis</w>
                 <w lemma="de" msd="MORPH=empty" n="II.1" pos="PRE" rend="part">De</w>
                 <w lemma="matrix" msd="Case=Abl|Numb=Plur" n="II.1" pos="NOMcom" rend="part">matricis</w>
@@ -15766,8 +15770,8 @@
                 <w lemma="de" msd="MORPH=empty" n="II.1" pos="PRE" rend="part">De</w>
                 <w lemma="sterilitas" msd="Case=Abl|Numb=Sing" n="II.1" pos="NOMcom" rend="part">sterilitate</w>
                 <w lemma="," msd="MORPH=empty" n="II.1" pos="PUNC" rend="part">,</w>
-                <w lemma="qui1" msd="Case=Acc|Gend=Fem" n="II.1" pos="PROrel" rend="part">quam</w>
-                <w lemma="grex" msd="Case=Nom|Numb=Plur" n="II.1" pos="NOMcom" rend="part">Greci</w>
+                <w lemma="quam1" msd="Case=Acc|Numb=Sing" n="II.1" pos="PROrel" rend="part">quam</w>
+                <w lemma="grex" msd="Case=Nom|Numb=Sing" n="II.1" pos="NOMcom" rend="part">Greci</w>
                 <w lemma="stirosis" msd="Case=Acc|Numb=Sing" n="II.1" pos="NOMcom" rend="part">stirosim</w>
                 <w lemma="uoco" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="II.1" pos="VER" rend="part">vocant</w>
                 <w lemma="," msd="MORPH=empty" n="II.1" pos="PUNC" rend="part">,</w>
@@ -15809,7 +15813,7 @@
                 <w lemma="retineo" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass" n="II.1" pos="VER" rend="part">retento</w>
                 <w lemma="folliculus" msd="Case=Abl|Numb=Sing" n="II.1" pos="NOMcom" rend="part">folliculo</w>
                 <w lemma="qui1" msd="Case=Acc|Numb=Sing|Gend=Masc" n="II.1" pos="PROrel" rend="part">quem</w>
-                <w lemma="secundinus" msd="Case=Acc|Numb=Sing|Gend=Fem" n="II.1" pos="ADJord" rend="part">secundinam</w>
+                <w lemma="secundina" msd="Case=Acc|Numb=Sing|Gend=Fem" n="II.1" pos="ADJord" rend="part">secundinam</w>
                 <w lemma="uoco" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="II.1" pos="VER" rend="part">vocant</w>
                 <w lemma="de" msd="MORPH=empty" n="II.1" pos="PRE" rend="part">De</w>
                 <w lemma="collectio" msd="Case=Abl|Numb=Plur" n="II.1" pos="NOMcom" rend="part">collectionibus</w>
@@ -15825,7 +15829,7 @@
                 <w lemma="matrix" msd="Case=Abl|Numb=Sing" n="II.1" pos="NOMcom" rend="part">matrice</w>
                 <w lemma="de" msd="MORPH=empty" n="II.1" pos="PRE" rend="part">De</w>
                 <w lemma="immodicus" msd="Case=Abl|Numb=Plur|Gend=Fem|Deg=Pos" n="II.1" pos="ADJqua" rend="part">immodica</w>
-                <w lemma="landicus" msd="Case=Abl|Numb=Sing|Gend=Fem" n="II.1" pos="VER" rend="part">landica</w>
+                <w lemma="landico" msd="Case=Abl|Numb=Sing|Gend=Fem" n="II.1" pos="VER" rend="part">landica</w>
                 <w lemma="de" msd="MORPH=empty" n="II.1" pos="PRE" rend="part">De</w>
                 <w lemma="tyma" msd="Case=Abl|Numb=Plur" n="II.1" pos="NOMcom" rend="part">tymis</w>
                 <w lemma="in" msd="MORPH=empty" n="II.1" pos="PRE" rend="part">in</w>
@@ -15844,7 +15848,7 @@
                 <w lemma="matrix" msd="Case=Abl|Numb=Sing" n="II.1" pos="NOMcom" rend="part">matrice</w>
                 <w lemma="pono" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass" n="II.1" pos="VER" rend="part">positis</w>
                 <w lemma="de" msd="MORPH=empty" n="II.1" pos="PRE" rend="part">De</w>
-                <w lemma="emorroyna" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos" n="II.1" pos="ADJqua" rend="part">emorroydis</w>
+                <w lemma="emorroyndus" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos" n="II.1" pos="ADJqua" rend="part">emorroydis</w>
                 <w lemma="in" msd="MORPH=empty" n="II.1" pos="PRE" rend="part">in</w>
                 <w lemma="matrix" msd="Case=Abl|Numb=Sing" n="II.1" pos="NOMcom" rend="part">matrice</w>
                 <w lemma="constituo" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass" n="II.1" pos="VER" rend="part">constitutis</w>
@@ -15898,7 +15902,7 @@
                 <w lemma="pregno" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act" n="II.2" pos="VER" rend="part">pregnantes</w>
                 <w lemma="," msd="MORPH=empty" n="II.2" pos="PUNC" rend="part">,</w>
                 <w lemma="aut" msd="MORPH=empty" n="II.2" pos="CONcoo" rend="part">aut</w>
-                <w lemma="exercitio" msd="Case=Nom|Numb=Sing" n="II.2" pos="NOMcom" rend="part">exercitio</w>
+                <w lemma="exercitium" msd="Case=Nom|Numb=Sing" n="II.2" pos="NOMcom" rend="part">exercitio</w>
                 <w lemma="," msd="MORPH=empty" n="II.2" pos="PUNC" rend="part">,</w>
                 <w lemma="aut" msd="MORPH=empty" n="II.2" pos="CONcoo" rend="part">aut</w>
                 <w lemma="uirago" msd="Case=Nom|Numb=Plur" n="II.2" pos="NOMcom" rend="part">viragines</w>

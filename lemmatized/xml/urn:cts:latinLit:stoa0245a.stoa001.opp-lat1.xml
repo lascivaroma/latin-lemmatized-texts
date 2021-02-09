@@ -14,9 +14,9 @@
             <sourceDesc>
                 <bibl>
                     <idno>urn:cts:latinLit:stoa0245a.stoa001.opp-lat1</idno>
-                    <link target="https://github.com/OpenGreekAndLatin/csel-dev/archive/1.0.89.zip"/>
+                    <link target="https://github.com/OpenGreekAndLatin/csel-dev/archive/1.0.109.zip"/>
                     <dim source="xml" type="md5-checksum">60cef6ad929b133d96189902700a7c66</dim>
-                    <dim source="plaintext-transformation" type="md5-checksum">f391107e0d26bfc2ff99df9d53a77319</dim>
+                    <dim source="plaintext-transformation" type="md5-checksum">8bd8978b39bebd5be5d2ebfba8255b3f</dim>
                     <dim source="xsl" type="md5-checksum">22f0c529b7ecf86f9fc04cc8de63d204</dim>
                 </bibl>
             </sourceDesc>
@@ -25,7 +25,9 @@
     <text n="urn:cts:latinLit:stoa0245a.stoa001.opp-lat1">
         <body>
             
-        <ab n="urn:cts:latinLit:stoa0245a.stoa001.opp-lat1:1.1" type="letter">
+        <ab n="urn:cts:latinLit:stoa0245a.stoa001.opp-lat1:1" type="book">
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0245a.stoa001.opp-lat1:1.1" type="letter">
                 <w lemma="olim" msd="Deg=Pos" n="1.1" pos="ADV" rend="letter">Olim</w>
                 <w lemma="tu" msd="Case=Acc|Numb=Sing" n="1.1" pos="PROper" rend="letter">te</w>
                 <w lemma="," msd="MORPH=empty" n="1.1" pos="PUNC" rend="letter">,</w>
@@ -95,8 +97,8 @@
                 <w lemma="ut1" msd="MORPH=empty" n="1.1" pos="ADVrel" rend="letter">ut</w>
                 <w lemma="sitis" msd="Case=Acc|Numb=Sing" n="1.1" pos="NOMcom" rend="letter">sitim</w>
                 <w lemma="," msd="MORPH=empty" n="1.1" pos="PUNC" rend="letter">,</w>
-                <w lemma="quam1" msd="Case=Acc" n="1.1" pos="PROrel" rend="letter">quam</w>
-                <w lemma="opusculum" msd="Case=Nom|Numb=Plur" n="1.1" pos="NOMcom" rend="letter">opuscula</w>
+                <w lemma="quam1" msd="Case=Acc" n="1.1" pos="ADVrel" rend="letter">quam</w>
+                <w lemma="opusculum" msd="Case=Acc|Numb=Plur" n="1.1" pos="NOMcom" rend="letter">opuscula</w>
                 <w lemma="uester" msd="Case=Acc|Numb=Plur|Gend=Neut" n="1.1" pos="PROpos" rend="letter">uestra</w>
                 <w lemma="lego2" msd="Case=Abl|Numb=Sing|Mood=Ger|Voice=Act" n="1.1" pos="VER" rend="letter">legendo</w>
                 <w lemma="concipio" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1" n="1.1" pos="VER" rend="letter">concepi</w>
@@ -5033,6 +5035,8 @@
                 <w lemma="quies" msd="Case=Gen|Numb=Sing" n="1.18" pos="NOMcom" rend="letter">quietis</w>
                 <w lemma="adduco" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3" n="1.18" pos="VER" rend="letter">adducat</w>
                 <w lemma="." msd="MORPH=empty" n="1.18" pos="PUNC" rend="letter">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0245a.stoa001.opp-lat1:2" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:stoa0245a.stoa001.opp-lat1:2.1" type="letter">
                 <w lemma="antiquus" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos" n="2.1" pos="ADJqua" rend="letter">Antiqui</w>
@@ -22659,6 +22663,8 @@
                 <w lemma="sustineo" msd="Mood=Inf|Tense=Pres|Voice=Act" n="2.65" pos="VER" rend="letter">sustinere</w>
                 <w lemma="domesticus2" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos" n="2.65" pos="ADJqua" rend="letter">domesticum</w>
                 <w lemma="." msd="MORPH=empty" n="2.65" pos="PUNC" rend="letter">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0245a.stoa001.opp-lat1:letters" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:stoa0245a.stoa001.opp-lat1:letters.1" type="letter">
                 <w lemma="gratia" msd="Case=Acc|Numb=Plur" n="letters.1" pos="NOMcom" rend="letter">Gratias</w>

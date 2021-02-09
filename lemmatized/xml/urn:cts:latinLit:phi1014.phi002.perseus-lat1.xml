@@ -14,9 +14,9 @@
             <sourceDesc>
                 <bibl>
                     <idno>urn:cts:latinLit:phi1014.phi002.perseus-lat1</idno>
-                    <link target="https://github.com/PerseusDL/canonical-latinLit/archive/0.0.699.zip"/>
+                    <link target="https://github.com/PerseusDL/canonical-latinLit/archive/0.0.715.zip"/>
                     <dim source="xml" type="md5-checksum">e37c5083298e871edfe4969727cbf66d</dim>
-                    <dim source="plaintext-transformation" type="md5-checksum">b63921c7dfe49f29d287a2adcc8e5dba</dim>
+                    <dim source="plaintext-transformation" type="md5-checksum">a99f702a3242a3c4d90ae783ec79808b</dim>
                     <dim source="xsl" type="md5-checksum">22f0c529b7ecf86f9fc04cc8de63d204</dim>
                 </bibl>
             </sourceDesc>
@@ -25,7 +25,9 @@
     <text n="urn:cts:latinLit:phi1014.phi002.perseus-lat1">
         <body>
             
-        <ab n="urn:cts:latinLit:phi1014.phi002.perseus-lat1:1.1" type="chapter">
+        <ab n="urn:cts:latinLit:phi1014.phi002.perseus-lat1:1" type="book">
+                </ab>
+            <ab n="urn:cts:latinLit:phi1014.phi002.perseus-lat1:1.1" type="chapter">
                 <w lemma="liberi" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos" n="1.1" pos="ADJqua" rend="chapter">Liberi</w>
                 <w lemma="parens1" msd="Case=Nom|Numb=Plur" n="1.1" pos="NOMcom" rend="chapter">parentes</w>
                 <w lemma="alo" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="1.1" pos="VER" rend="chapter">alant</w>
@@ -2199,6 +2201,8 @@
                 <w lemma="ego" msd="Case=Nom|Numb=Sing" n="1.8" pos="PROper" rend="chapter">ego</w>
                 <w lemma="mereo" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1" n="1.8" pos="VER" rend="chapter">merui</w>
                 <w lemma="." msd="MORPH=empty" n="1.8" pos="PUNC" rend="chapter">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi1014.phi002.perseus-lat1:2" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi1014.phi002.perseus-lat1:2.1" type="chapter">
                 <w lemma="diues" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos" n="2.1" pos="ADJqua" rend="chapter">Diues</w>
@@ -4529,6 +4533,8 @@
                 <w lemma="consultum" msd="Case=Abl|Numb=Sing" n="2.7" pos="NOMcom" rend="chapter">consulto</w>
                 <w lemma="facio" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3" n="2.7" pos="VER" rend="chapter">fecit</w>
                 <w lemma="." msd="MORPH=empty" n="2.7" pos="PUNC" rend="chapter">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi1014.phi002.perseus-lat1:3" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi1014.phi002.perseus-lat1:3.pr" type="chapter">
                 <w lemma="caepa" msd="Case=Nom|Numb=Plur" n="3.pr" pos="NOMcom" rend="chapter">ca</w>
@@ -8279,6 +8285,17 @@
                 <w lemma="tuus" msd="Case=Dat|Numb=Sing|Gend=MascNeut" n="3.9" pos="PROpos" rend="chapter">tuo</w>
                 <w lemma="?" msd="MORPH=empty" n="3.9" pos="PUNC" rend="chapter">?</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi1014.phi002.perseus-lat1:4" type="book">
+                <w lemma="seneca" msd="Case=Nom|Numb=Sing" n="4" pos="NOMcom" rend="book">Seneca</w>
+                <w lemma="nouo" msd="Case=Dat|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass" n="4" pos="VER" rend="book">Nouato</w>
+                <w lemma="," msd="MORPH=empty" n="4" pos="PUNC" rend="book">,</w>
+                <w lemma="seneca" msd="Case=Dat|Numb=Sing" n="4" pos="NOMcom" rend="book">Senecae</w>
+                <w lemma="," msd="MORPH=empty" n="4" pos="PUNC" rend="book">,</w>
+                <w lemma="mela" msd="Case=Gen|Numb=Sing" n="4" pos="NOMcom" rend="book">Melae</w>
+                <w lemma="filius" msd="Case=Dat|Numb=Plur" n="4" pos="NOMcom" rend="book">filiis</w>
+                <w lemma="salus" msd="Case=Acc|Numb=Sing" n="4" pos="NOMcom" rend="book">salutem</w>
+                <w lemma="." msd="MORPH=empty" n="4" pos="PUNC" rend="book">.</w>
+                </ab>
             <ab n="urn:cts:latinLit:phi1014.phi002.perseus-lat1:4.pr" type="chapter">
                 <w lemma="qui1" msd="Case=Acc|Numb=Sing|Gend=Neut" n="4.pr" pos="PROrel" rend="chapter">Quod</w>
                 <w lemma="munerarius" msd="Case=Nom|Numb=Plur" n="4.pr" pos="NOMcom" rend="chapter">munerarii</w>
@@ -11934,6 +11951,8 @@
                 <w lemma="uideo" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=1" n="4.8" pos="VER" rend="chapter">uideamur</w>
                 <w lemma="?" msd="MORPH=empty" n="4.8" pos="PUNC" rend="chapter">?</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi1014.phi002.perseus-lat1:5" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi1014.phi002.perseus-lat1:5.1" type="chapter">
                 <w lemma="inscribo" msd="Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass" n="5.1" pos="VER" rend="chapter">Inscripti</w>
                 <w lemma="maleficium" msd="Case=Gen|Numb=Sing" n="5.1" pos="NOMcom" rend="chapter">maleficii</w>
@@ -14069,6 +14088,8 @@
                 <w lemma="noceo" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3" n="5.8" pos="VER" rend="chapter">noceret</w>
                 <w lemma="obicio" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass" n="5.8" pos="VER" rend="chapter">obiectum</w>
                 <w lemma="." msd="MORPH=empty" n="5.8" pos="PUNC" rend="chapter">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi1014.phi002.perseus-lat1:6" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi1014.phi002.perseus-lat1:6.1" type="chapter">
                 <w lemma="abdico1" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass" n="6.1" pos="VER" rend="chapter">Abdicato</w>
@@ -16441,6 +16462,8 @@
                 <w lemma="," msd="MORPH=empty" n="6.8" pos="PUNC" rend="chapter">,</w>
                 <w lemma="humanitas" msd="Case=Acc|Numb=Sing" n="6.8" pos="NOMcom" rend="chapter">humanitatem</w>
                 <w lemma="." msd="MORPH=empty" n="6.8" pos="PUNC" rend="chapter">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi1014.phi002.perseus-lat1:7" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi1014.phi002.perseus-lat1:7.1" type="chapter">
                 <w lemma="duo" msd="Case=Abl|Numb=Plur|Gend=MascNeut" n="7.1" pos="ADJcar" rend="chapter">Duobus</w>
@@ -19262,6 +19285,8 @@
                 <w lemma="semel" msd="MORPH=empty" n="7.8" pos="ADJadv.mul" rend="chapter">semel</w>
                 <w lemma="." msd="MORPH=empty" n="7.8" pos="PUNC" rend="chapter">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi1014.phi002.perseus-lat1:8" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi1014.phi002.perseus-lat1:8.1" type="chapter">
                 <w lemma="magistratus" msd="Case=Nom|Numb=Plur" n="8.1" pos="NOMcom" rend="chapter">Magistratus</w>
                 <w lemma="de" msd="MORPH=empty" n="8.1" pos="PRE" rend="chapter">de</w>
@@ -21430,6 +21455,8 @@
                 <w lemma="qui1" msd="Case=Acc|Numb=Plur|Gend=Fem" n="8.6" pos="PROrel" rend="chapter">quas</w>
                 <w lemma="habeo" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="8.6" pos="VER" rend="chapter">habet</w>
                 <w lemma="." msd="MORPH=empty" n="8.6" pos="PUNC" rend="chapter">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi1014.phi002.perseus-lat1:9" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi1014.phi002.perseus-lat1:9.1" type="chapter">
                 <w lemma="adulter1" msd="Case=Acc|Numb=Sing" n="9.1" pos="NOMcom" rend="chapter">Adulterum</w>
@@ -24160,6 +24187,8 @@
                 <w lemma="et2" msd="MORPH=empty" n="9.6" pos="CONcoo" rend="chapter">et</w>
                 <w lemma="conscius" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos" n="9.6" pos="ADJqua" rend="chapter">consciam</w>
                 <w lemma="." msd="MORPH=empty" n="9.6" pos="PUNC" rend="chapter">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi1014.phi002.perseus-lat1:10" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi1014.phi002.perseus-lat1:10.1" type="chapter">
                 <w lemma="iniuria" msd="Case=Gen|Numb=Plur" n="10.1" pos="NOMcom" rend="chapter">Iniuriarum</w>

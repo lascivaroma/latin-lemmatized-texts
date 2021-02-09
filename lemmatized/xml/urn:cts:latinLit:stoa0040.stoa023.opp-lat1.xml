@@ -14,9 +14,9 @@
             <sourceDesc>
                 <bibl>
                     <idno>urn:cts:latinLit:stoa0040.stoa023.opp-lat1</idno>
-                    <link target="https://github.com/OpenGreekAndLatin/csel-dev/archive/1.0.89.zip"/>
+                    <link target="https://github.com/OpenGreekAndLatin/csel-dev/archive/1.0.109.zip"/>
                     <dim source="xml" type="md5-checksum">ac9501cc692485608636d64560c0710c</dim>
-                    <dim source="plaintext-transformation" type="md5-checksum">c524328bef6bebb0c6cf28e0dd359a62</dim>
+                    <dim source="plaintext-transformation" type="md5-checksum">0d361716b7dcfa1a297a2e3e96411eda</dim>
                     <dim source="xsl" type="md5-checksum">22f0c529b7ecf86f9fc04cc8de63d204</dim>
                 </bibl>
             </sourceDesc>
@@ -25,7 +25,9 @@
     <text n="urn:cts:latinLit:stoa0040.stoa023.opp-lat1">
         <body>
             
-        <ab n="urn:cts:latinLit:stoa0040.stoa023.opp-lat1:1.1" type="section">
+        <ab n="urn:cts:latinLit:stoa0040.stoa023.opp-lat1:1" type="book">
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0040.stoa023.opp-lat1:1.1" type="section">
                 <w lemma="multus" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos" n="1.1" pos="ADJqua" rend="section">Multa</w>
                 <w lemma="quidem" msd="Deg=Pos" n="1.1" pos="ADV" rend="section">quidem</w>
                 <w lemma="alias" msd="Numb=Plur" n="1.1" pos="ADV" rend="section">alias</w>
@@ -6501,6 +6503,8 @@
                 <w lemma="aperio" msd="Mood=Inf|Tense=Pres|Voice=Act" n="1.21" pos="VER" rend="section">aperire</w>
                 <w lemma="." msd="MORPH=empty" n="1.21" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:stoa0040.stoa023.opp-lat1:2" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:stoa0040.stoa023.opp-lat1:2.1" type="section">
                 <w lemma="quis1" msd="Case=Nom|Numb=Sing|Gend=Fem" n="2.1" pos="PROrel" rend="section">Quae</w>
                 <w lemma="tandem" msd="Deg=Pos" n="2.1" pos="ADV" rend="section">tandem</w>
@@ -6562,7 +6566,7 @@
                 <w lemma="nos" msd="Case=Nom|Numb=Plur" n="2.1" pos="PROper" rend="section">nos</w>
                 <w lemma="uideo" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3" n="2.1" pos="VER" rend="section">uidentur</w>
                 <w lemma="," msd="MORPH=empty" n="2.1" pos="PUNC" rend="section">,</w>
-                <w lemma="qualis1" msd="Case=Nom|Numb=Plur|Gend=MascFem" n="2.1" pos="PROrel" rend="section">quales</w>
+                <w lemma="qualis2" msd="Case=Nom|Numb=Plur|Gend=MascFem" n="2.1" pos="PROint" rend="section">quales</w>
                 <w lemma="is" msd="Case=Acc|Numb=Plur|Gend=Masc" n="2.1" pos="PROdem" rend="section">eos</w>
                 <w lemma="sum1" msd="Mood=Inf|Tense=Pres|Voice=Act" n="2.1" pos="VER" rend="section">esse</w>
                 <w lemma="ipse" msd="Case=Nom|Numb=Sing|Gend=Fem" n="2.1" pos="PROdem" rend="section">ipsa</w>
@@ -21091,6 +21095,8 @@
                 <w lemma="sum1" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="2.43" pos="VER" rend="section">sunt</w>
                 <w lemma="." msd="MORPH=empty" n="2.43" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:stoa0040.stoa023.opp-lat1:3" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:stoa0040.stoa023.opp-lat1:3.1" type="section">
                 <w lemma="cum3" msd="MORPH=empty" n="3.1" pos="CONsub" rend="section">Cum</w>
                 <w lemma="omnis" msd="Case=Nom|Numb=Sing|Gend=MascFem" n="3.1" pos="PROind" rend="section">omnis</w>
@@ -21152,8 +21158,8 @@
                 <w lemma="suus" msd="Case=Gen|Numb=Plur|Gend=Fem" n="3.1" pos="PROpos.ref" rend="section">suarum</w>
                 <w lemma="infirmus" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos" n="3.1" pos="ADJqua" rend="section">infirmas</w>
                 <w lemma="plebs" msd="Case=Nom|Numb=Sing" n="3.1" pos="NOMcom" rend="section">plebes</w>
-                <w lemma="iactantia" msd="Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act" n="3.1" pos="VER" rend="section">iactantia</w>
-                <w lemma="suus" msd="Case=Gen|Numb=Sing|Gend=MascNeut" n="3.1" pos="PROpos.ref" rend="section">sui</w>
+                <w lemma="iactantia" msd="Case=Nom|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act" n="3.1" pos="VER" rend="section">iactantia</w>
+                <w lemma="sui2" msd="Case=Gen|Numb=Sing|Gend=MascNeut" n="3.1" pos="PROpos.ref" rend="section">sui</w>
                 <w lemma="nomen" msd="Case=Gen|Numb=Sing" n="3.1" pos="NOMcom" rend="section">nominis</w>
                 <w lemma="irretio" msd="Case=Acc|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass" n="3.1" pos="VER" rend="section">inretitas</w>
                 <w lemma="uel2" msd="MORPH=empty" n="3.1" pos="CONcoo" rend="section">uel</w>
@@ -32660,6 +32666,8 @@
                 <w lemma="audeo" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=SemDep|Person=3" n="3.29" pos="VER" rend="section">audeant</w>
                 <w lemma="glorior" msd="Mood=Inf|Tense=Pres|Voice=Dep" n="3.29" pos="VER" rend="section">gloriari</w>
                 <w lemma="." msd="MORPH=empty" n="3.29" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0040.stoa023.opp-lat1:retractationes" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:stoa0040.stoa023.opp-lat1:retractationes.1" type="section">
                 <w lemma="in" msd="MORPH=empty" n="retractationes.1" pos="PRE" rend="section">In</w>

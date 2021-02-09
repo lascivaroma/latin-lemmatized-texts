@@ -14,9 +14,9 @@
             <sourceDesc>
                 <bibl>
                     <idno>urn:cts:latinLit:stoa0252.stoa003.opp-lat2</idno>
-                    <link target="https://github.com/OpenGreekAndLatin/csel-dev/archive/1.0.89.zip"/>
+                    <link target="https://github.com/OpenGreekAndLatin/csel-dev/archive/1.0.109.zip"/>
                     <dim source="xml" type="md5-checksum">eefaacb5bcce09480b5892c7a290e3f6</dim>
-                    <dim source="plaintext-transformation" type="md5-checksum">7c97140b725095035f7a02c859752555</dim>
+                    <dim source="plaintext-transformation" type="md5-checksum">a54bcdce5acd0bed04c7ced70e404d4b</dim>
                     <dim source="xsl" type="md5-checksum">22f0c529b7ecf86f9fc04cc8de63d204</dim>
                 </bibl>
             </sourceDesc>
@@ -25,7 +25,9 @@
     <text n="urn:cts:latinLit:stoa0252.stoa003.opp-lat2">
         <body>
             
-        <ab n="urn:cts:latinLit:stoa0252.stoa003.opp-lat2:1.1" type="line">
+        <ab n="urn:cts:latinLit:stoa0252.stoa003.opp-lat2:1" type="poem">
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0252.stoa003.opp-lat2:1.1" type="line">
                 <w lemma="sumo" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2" n="1.1" pos="VER" rend="line">Sume</w>
                 <w lemma="," msd="MORPH=empty" n="1.1" pos="PUNC" rend="line">,</w>
                 <w lemma="sacer" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos" n="1.1" pos="ADJqua" rend="line">sacer</w>
@@ -107,6 +109,8 @@
                 <w lemma="os1" msd="Case=Abl|Numb=Sing" n="1.8" pos="NOMcom" rend="line">ore</w>
                 <w lemma="tuus" msd="Case=Abl|Numb=Sing|Gend=MascNeut" n="1.8" pos="PROpos" rend="line">tuo</w>
                 <w lemma="." msd="MORPH=empty" n="1.8" pos="PUNC" rend="line">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0252.stoa003.opp-lat2:2a" type="poem">
                 </ab>
             <ab n="urn:cts:latinLit:stoa0252.stoa003.opp-lat2:2a.1" type="line">
                 <w lemma="sum1" msd="MORPH=empty" n="2a.1" pos="NOMcom" rend="line">S</w>
@@ -294,23 +298,26 @@
                 <w lemma="escio" msd="Mood=Inf|Tense=Pres|Voice=Pass" n="2a.16" pos="VER" rend="line">esci</w>
                 <w lemma="salus" msd="MORPH=empty" n="2a.16" pos="NOMcom" rend="line">S.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:stoa0252.stoa003.opp-lat2:2b" type="poem">
+                </ab>
             <ab n="urn:cts:latinLit:stoa0252.stoa003.opp-lat2:2b.1" type="line">
                 <w lemma="supra" msd="MORPH=empty" n="2b.1" pos="NOMcom" rend="line">S</w>
                 <w lemma="scribo" msd="MORPH=empty" n="2b.1" pos="VER" rend="line">{S}</w>
-                <w lemma="edulius" msd="Case=Nom|Numb=Sing" n="2b.1" pos="ADJqua" rend="line">edulius</w>
+                <w lemma="edulius" msd="Case=Nom|Numb=Sing|Deg=Pos" n="2b.1" pos="ADJqua" rend="line">edulius</w>
                 <w lemma="dominus" msd="Case=Gen|Numb=Sing" n="2b.1" pos="NOMcom" rend="line">Domini</w>
                 <w lemma="per" msd="MORPH=empty" n="2b.1" pos="PRE" rend="line">per</w>
                 <w lemma="colo2" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos" n="2b.1" pos="ADJqua" rend="line">culta</w>
                 <w lemma="nouale" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos" n="2b.1" pos="ADJqua" rend="line">noualia</w>
                 <w lemma="pergen" msd="Case=Acc|Numb=Sing" n="2b.1" pos="NOMcom" rend="line">pergen</w>
-                <w lemma="semis1" msd="Case=Acc" n="2b.1" pos="NOMcom" rend="line">S</w>
+                <w lemma="supra" msd="Case=Acc" n="2b.1" pos="NOMcom" rend="line">S</w>
+                <w lemma="scribo" msd="MORPH=empty" n="2b.1" pos="VER" rend="line">{S}</w>
                 </ab>
             <ab n="urn:cts:latinLit:stoa0252.stoa003.opp-lat2:2b.2" type="line">
                 <w lemma="ex" msd="MORPH=empty" n="2b.2" pos="PRE" rend="line">E</w>
                 <w lemma="numus" msd="MORPH=empty" n="2b.2" pos="CONsub" rend="line">n</w>
                 <w lemma="locus" msd="Case=Acc|Numb=Plur" n="2b.2" pos="NOMcom" rend="line">loca</w>
                 <w lemma="prospicio" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3" n="2b.2" pos="VER" rend="line">prospexit</w>
-                <w lemma="multo2" msd="Deg=Pos" n="2b.2" pos="ADV" rend="line">multo</w>
+                <w lemma="multus" msd="Deg=Pos" n="2b.2" pos="ADV" rend="line">multo</w>
                 <w lemma="radio" msd="Case=Nom|Numb=Plur|Gend=Neut|Mood=Par|Tense=Pres|Voice=Act" n="2b.2" pos="VER" rend="line">radiantia</w>
                 <w lemma="flos" msd="Case=Nom|Numb=Sing" n="2b.2" pos="NOMcom" rend="line">flor</w>
                 <w lemma="ex" msd="MORPH=empty" n="2b.2" pos="PRE" rend="line">E</w>
@@ -468,6 +475,8 @@
                 <w lemma="testudo" msd="Case=Abl|Numb=Sing" n="2b.16" pos="NOMcom" rend="line">testudine</w>
                 <w lemma="uersus1" msd="Case=Abl|Numb=Sing" n="2b.16" pos="NOMcom" rend="line">uersu</w>
                 <w lemma="sum1" msd="Numb=Sing" n="2b.16" pos="NOMcom" rend="line">S.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0252.stoa003.opp-lat2:3" type="poem">
                 </ab>
             <ab n="urn:cts:latinLit:stoa0252.stoa003.opp-lat2:3.1" type="line">
                 <w lemma="omnipotens" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos" n="3.1" pos="ADJqua" rend="line">Omnipotens</w>

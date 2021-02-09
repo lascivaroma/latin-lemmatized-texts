@@ -14,9 +14,9 @@
             <sourceDesc>
                 <bibl>
                     <idno>urn:cts:greekLit:tlg0031.tlg024.obi-lat1</idno>
-                    <link target="https://github.com/lascivaroma/additional-texts/archive/1.0.138.zip"/>
+                    <link target="https://github.com/lascivaroma/additional-texts/archive/1.0.142.zip"/>
                     <dim source="xml" type="md5-checksum">a0f6ea69fbc5701442e68d824a9e12a6</dim>
-                    <dim source="plaintext-transformation" type="md5-checksum">80fdf5205d5b0525cef1a48aab5ceebb</dim>
+                    <dim source="plaintext-transformation" type="md5-checksum">e5cf4c520d7926ef6a7b8e6f7aa02d00</dim>
                     <dim source="xsl" type="md5-checksum">22f0c529b7ecf86f9fc04cc8de63d204</dim>
                 </bibl>
             </sourceDesc>
@@ -25,7 +25,9 @@
     <text n="urn:cts:greekLit:tlg0031.tlg024.obi-lat1">
         <body>
             
-        <ab n="urn:cts:greekLit:tlg0031.tlg024.obi-lat1:1.1" type="verse">
+        <ab n="urn:cts:greekLit:tlg0031.tlg024.obi-lat1:1" type="chapter">
+                </ab>
+            <ab n="urn:cts:greekLit:tlg0031.tlg024.obi-lat1:1.1" type="verse">
                 <w lemma="senex2" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp" n="1.1" pos="ADJqua" rend="verse">senior</w>
                 <w lemma="eligo3" msd="Case=Gen|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass" n="1.1" pos="VER" rend="verse">electae</w>
                 <w lemma="domina" msd="Case=Gen|Numb=Sing" n="1.1" pos="NOMcom" rend="verse">dominae</w>
@@ -159,7 +161,7 @@
                 <w lemma="uenio" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act" n="1.7" pos="VER" rend="verse">venientem</w>
                 <w lemma="in" msd="MORPH=empty" n="1.7" pos="PRE" rend="verse">in</w>
                 <w lemma="caro1" msd="Case=Abl|Numb=Sing" n="1.7" pos="NOMcom" rend="verse">carne</w>
-                <w lemma="hic1" msd="Case=Nom|Numb=Sing|Gend=Masc" n="1.7" pos="PROdem" rend="verse">hic</w>
+                <w lemma="hic2" msd="Gend=Masc" n="1.7" pos="ADV" rend="verse">hic</w>
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="1.7" pos="VER" rend="verse">est</w>
                 <w lemma="seductor" msd="Case=Nom|Numb=Sing" n="1.7" pos="NOMcom" rend="verse">seductor</w>
                 <w lemma="et2" msd="MORPH=empty" n="1.7" pos="CONcoo" rend="verse">et</w>
@@ -226,10 +228,10 @@
                 <w lemma="dico2" msd="Numb=Plur|Mood=Sub|Tense=Perf|Voice=Act|Person=2" n="1.10" pos="VER" rend="verse">dixeritis</w>
                 </ab>
             <ab n="urn:cts:greekLit:tlg0031.tlg024.obi-lat1:1.11" type="verse">
-                <w lemma="qui1" msd="Case=Nom|Numb=Sing|Gend=Masc" n="1.11" pos="PROrel" rend="verse">qui</w>
+                <w lemma="qui1" msd="Case=Nom|Numb=Plur|Gend=Masc" n="1.11" pos="PROrel" rend="verse">qui</w>
                 <w lemma="enim2" msd="MORPH=empty" n="1.11" pos="CONcoo" rend="verse">enim</w>
                 <w lemma="dico2" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="1.11" pos="VER" rend="verse">dicit</w>
-                <w lemma="ille" msd="Case=Dat|Numb=Sing|Gend=Masc" n="1.11" pos="PROdem" rend="verse">illi</w>
+                <w lemma="ille" msd="Case=Dat|Numb=Sing|Gend=Com" n="1.11" pos="PROdem" rend="verse">illi</w>
                 <w lemma="aue" msd="MORPH=empty" n="1.11" pos="ADVneg" rend="verse">have</w>
                 <w lemma="communico" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="1.11" pos="VER" rend="verse">communicat</w>
                 <w lemma="opus1" msd="Case=Dat|Numb=Plur" n="1.11" pos="NOMcom" rend="verse">operibus</w>

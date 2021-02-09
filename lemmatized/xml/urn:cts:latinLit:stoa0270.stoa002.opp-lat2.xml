@@ -14,9 +14,9 @@
             <sourceDesc>
                 <bibl>
                     <idno>urn:cts:latinLit:stoa0270.stoa002.opp-lat2</idno>
-                    <link target="https://github.com/OpenGreekAndLatin/csel-dev/archive/1.0.89.zip"/>
+                    <link target="https://github.com/OpenGreekAndLatin/csel-dev/archive/1.0.109.zip"/>
                     <dim source="xml" type="md5-checksum">a4d9c4f07d9811ea19816c9a4eea94fb</dim>
-                    <dim source="plaintext-transformation" type="md5-checksum">b093dc0dfa5d343bba51dd1a21b0795c</dim>
+                    <dim source="plaintext-transformation" type="md5-checksum">f83119c82ad32e9dc39930dd86c4f094</dim>
                     <dim source="xsl" type="md5-checksum">22f0c529b7ecf86f9fc04cc8de63d204</dim>
                 </bibl>
             </sourceDesc>
@@ -25,7 +25,9 @@
     <text n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2">
         <body>
             
-        <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:pr.1" type="section">
+        <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:pr" type="chapter">
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:pr.1" type="section">
                 <w lemma="seuerus" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos" n="pr.1" pos="ADJqua" rend="section">Seuerus</w>
                 <w lemma="desiderium" msd="Case=Abl|Numb=Sing" n="pr.1" pos="NOMcom" rend="section">Desiderio</w>
                 <w lemma="frater" msd="Case=Dat|Numb=Sing" n="pr.1" pos="NOMcom" rend="section">fratri</w>
@@ -335,6 +337,8 @@
                 <w lemma="auctor" msd="Case=Acc|Numb=Sing" n="pr.6" pos="NOMcom" rend="section">auctorem</w>
                 <w lemma="." msd="MORPH=empty" n="pr.6" pos="PUNC" rend="section">.</w>
                 <w lemma="1" msd="MORPH=empty" n="pr.6" pos="ADJcar" rend="section">1</w>
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:1" type="chapter">
                 </ab>
             <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:1.1" type="section">
                 <w lemma="plerique" msd="Case=Nom|Numb=Plur" n="1.1" pos="NOMcom" rend="section">Plerique</w>
@@ -750,6 +754,8 @@
                 <w lemma="malo" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=1" n="1.9" pos="VER" rend="section">maluissem</w>
                 <w lemma="." msd="MORPH=empty" n="1.9" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:2" type="chapter">
+                </ab>
             <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:2.1" type="section">
                 <w lemma="igitur" msd="MORPH=empty" n="2.1" pos="CONcoo" rend="section">Igitur</w>
                 <w lemma="martinus" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos" n="2.1" pos="ADJqua" rend="section">Martinus</w>
@@ -1101,6 +1107,8 @@
                 <w lemma="cogito" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3" n="2.8" pos="VER" rend="section">cogitabat</w>
                 <w lemma="." msd="MORPH=empty" n="2.8" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:3" type="chapter">
+                </ab>
             <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:3.1" type="section">
                 <w lemma="quidam" msd="Case=Abl|Numb=Sing|Gend=MascNeut" n="3.1" pos="PROind" rend="section">Quodam</w>
                 <w lemma="itaque" msd="MORPH=empty" n="3.1" pos="CONcoo" rend="section">itaque</w>
@@ -1163,7 +1171,7 @@
                 <w lemma="alius" msd="Case=Dat|Numb=Plur|Gend=Com" n="3.1" pos="PROind" rend="section">aliis</w>
                 <w lemma="misericordia" msd="Case=Acc|Numb=Sing" n="3.1" pos="NOMcom" rend="section">misericordiam</w>
                 <w lemma="non" msd="MORPH=empty" n="3.1" pos="ADVneg" rend="section">non</w>
-                <w lemma="praestans" msd="Case=Dat|Numb=Plur|Gend=Com|Deg=Pos" n="3.1" pos="ADJqua" rend="section">praestantibus</w>
+                <w lemma="praestans" msd="Case=Dat|Numb=Plur|Gend=Com|Deg=Pos" n="3.1" pos="VER" rend="section">praestantibus</w>
                 <w lemma="," msd="MORPH=empty" n="3.1" pos="PUNC" rend="section">,</w>
                 <w lemma="reseruo" msd="Mood=Inf|Tense=Pres|Voice=Pass" n="3.1" pos="VER" rend="section">reseruari</w>
                 <w lemma="." msd="MORPH=empty" n="3.1" pos="PUNC" rend="section">.</w>
@@ -1430,6 +1438,8 @@
                 <w lemma="," msd="MORPH=empty" n="3.5" pos="PUNC" rend="section">,</w>
                 <w lemma="milito2" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3" n="3.5" pos="VER" rend="section">militauit</w>
                 <w lemma="." msd="MORPH=empty" n="3.5" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:4" type="chapter">
                 </ab>
             <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:4.1" type="section">
                 <w lemma="interea" msd="Deg=Pos" n="4.1" pos="ADV" rend="section">Interea</w>
@@ -1705,6 +1715,8 @@
                 <w lemma="nemo" msd="Case=Nom|Numb=Sing" n="4.9" pos="PROind" rend="section">nemo</w>
                 <w lemma="morior" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Dep|Person=3" n="4.9" pos="VER" rend="section">moreretur</w>
                 <w lemma="." msd="MORPH=empty" n="4.9" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:5" type="chapter">
                 </ab>
             <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:5.1" type="section">
                 <w lemma="exinde" msd="Deg=Pos" n="5.1" pos="ADV" rend="section">Exinde</w>
@@ -2025,6 +2037,8 @@
                 <w lemma="dico2" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3" n="5.6" pos="VER" rend="section">dicantur</w>
                 <w lemma="." msd="MORPH=empty" n="5.6" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:6" type="chapter">
+                </ab>
             <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:6.1" type="section">
                 <w lemma="igitur" msd="MORPH=empty" n="6.1" pos="CONcoo" rend="section">Igitur</w>
                 <w lemma="martinus" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos" n="6.1" pos="ADJqua" rend="section">Martinus</w>
@@ -2324,6 +2338,8 @@
                 <w lemma="urbs" msd="Case=Acc|Numb=Sing" n="6.7" pos="NOMcom" rend="section">urbem</w>
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="6.7" pos="VER" rend="section">est</w>
                 <w lemma="." msd="MORPH=empty" n="6.7" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:7" type="chapter">
                 </ab>
             <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:7.1" type="section">
                 <w lemma="cum3" msd="MORPH=empty" n="7.1" pos="CONsub" rend="section">Cum</w>
@@ -2655,6 +2671,8 @@
                 <w lemma="habeo" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Pass|Person=3" n="7.7" pos="VER" rend="section">haberetur</w>
                 <w lemma="." msd="MORPH=empty" n="7.7" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:8" type="chapter">
+                </ab>
             <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:8.1" type="section">
                 <w lemma="nec2" msd="MORPH=empty" n="8.1" pos="CONcoo" rend="section">Nec</w>
                 <w lemma="multo2" msd="Deg=Pos" n="8.1" pos="ADV" rend="section">multo</w>
@@ -2765,6 +2783,8 @@
                 <w lemma="," msd="MORPH=empty" n="8.8" pos="PUNC" rend="section">,</w>
                 <w lemma="procedo1" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3" n="8.8" pos="VER" rend="section">processit</w>
                 <w lemma="." msd="MORPH=empty" n="8.8" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:9" type="chapter">
                 </ab>
             <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:9.1" type="section">
                 <w lemma="sub" msd="MORPH=empty" n="9.1" pos="PRE" rend="section">Sub</w>
@@ -3078,6 +3098,8 @@
                 <w lemma="sum1" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3" n="9.7" pos="VER" rend="section">esset</w>
                 <w lemma="inimicus1" msd="Case=Nom|Numb=Sing" n="9.7" pos="NOMcom" rend="section">inimicus</w>
                 <w lemma="." msd="MORPH=empty" n="9.7" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:10" type="chapter">
                 </ab>
             <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:10.1" type="section">
                 <w lemma="iam" msd="Deg=Pos" n="10.1" pos="ADV" rend="section">Iam</w>
@@ -3399,6 +3421,8 @@
                 <w lemma="sacerdos" msd="Case=Acc|Numb=Sing" n="10.9" pos="NOMcom" rend="section">sacerdotem</w>
                 <w lemma="?" msd="MORPH=empty" n="10.9" pos="PUNC" rend="section">?</w>
                 </ab>
+            <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:11" type="chapter">
+                </ab>
             <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:11.1" type="section">
                 <w lemma="sed" msd="MORPH=empty" n="11.1" pos="CONcoo" rend="section">Sed</w>
                 <w lemma="ut4" msd="MORPH=empty" n="11.1" pos="CONsub" rend="section">ut</w>
@@ -3645,6 +3669,8 @@
                 <w lemma="error" msd="Case=Abl|Numb=Sing" n="11.5" pos="NOMcom" rend="section">errore</w>
                 <w lemma="." msd="MORPH=empty" n="11.5" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:12" type="chapter">
+                </ab>
             <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:12.1" type="section">
                 <w lemma="accido1" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3" n="12.1" pos="VER" rend="section">Accidit</w>
                 <w lemma="autem" msd="MORPH=empty" n="12.1" pos="CONcoo" rend="section">autem</w>
@@ -3849,6 +3875,8 @@
                 <w lemma="abeo1" msd="Mood=Inf|Tense=Pres|Voice=Act" n="12.5" pos="VER" rend="section">abire</w>
                 <w lemma="permitto" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3" n="12.5" pos="VER" rend="section">permisit</w>
                 <w lemma="." msd="MORPH=empty" n="12.5" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:13" type="chapter">
                 </ab>
             <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:13.1" type="section">
                 <w lemma="item" msd="Deg=Pos" n="13.1" pos="ADV" rend="section">Item</w>
@@ -4293,6 +4321,8 @@
                 <w lemma="construo" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3" n="13.9" pos="VER" rend="section">construebat</w>
                 <w lemma="." msd="MORPH=empty" n="13.9" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:14" type="chapter">
+                </ab>
             <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:14.1" type="section">
                 <w lemma="nec2" msd="MORPH=empty" n="14.1" pos="CONcoo" rend="section">Nec</w>
                 <w lemma="paruus2" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Comp" n="14.1" pos="ADJqua" rend="section">minorem</w>
@@ -4587,6 +4617,8 @@
                 <w lemma="possum1" msd="Numb=Plur|Mood=Sub|Tense=Impa|Voice=Act|Person=3" n="14.7" pos="VER" rend="section">possent</w>
                 <w lemma="." msd="MORPH=empty" n="14.7" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:15" type="chapter">
+                </ab>
             <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:15.1" type="section">
                 <w lemma="quis1" msd="Case=Nom|Numb=Sing|Gend=Neut" n="15.1" pos="PROint" rend="section">Quid</w>
                 <w lemma="etiam" msd="Deg=Pos" n="15.1" pos="ADV" rend="section">etiam</w>
@@ -4711,6 +4743,8 @@
                 <w lemma="templum" msd="Case=Acc|Numb=Plur" n="15.4" pos="NOMcom" rend="section">templa</w>
                 <w lemma="subuerto" msd="Numb=Plur|Mood=Sub|Tense=Impa|Voice=Act|Person=3" n="15.4" pos="VER" rend="section">subuerterent</w>
                 <w lemma="." msd="MORPH=empty" n="15.4" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:16" type="chapter">
                 </ab>
             <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:16.1" type="section">
                 <w lemma="curatio" msd="Case=Gen|Numb=Plur" n="16.1" pos="NOMcom" rend="section">Curationum</w>
@@ -5009,6 +5043,8 @@
                 <w lemma="testis1" msd="Case=Abl|Numb=Sing" n="16.8" pos="NOMcom" rend="section">teste</w>
                 <w lemma="surgo" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3" n="16.8" pos="VER" rend="section">surrexit</w>
                 <w lemma="." msd="MORPH=empty" n="16.8" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:17" type="chapter">
                 </ab>
             <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:17.1" type="section">
                 <w lemma="idem" msd="Case=Abl|Numb=Sing|Gend=MascNeut" n="17.1" pos="PROdem" rend="section">Eodem</w>
@@ -5318,6 +5354,8 @@
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="17.7" pos="VER" rend="section">est</w>
                 <w lemma="." msd="MORPH=empty" n="17.7" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:18" type="chapter">
+                </ab>
             <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:18.1" type="section">
                 <w lemma="interea" msd="Deg=Pos" n="18.1" pos="ADV" rend="section">Interea</w>
                 <w lemma="cum3" msd="MORPH=empty" n="18.1" pos="CONsub" rend="section">cum</w>
@@ -5488,6 +5526,8 @@
                 <w lemma="." msd="MORPH=empty" n="18.5" pos="PUNC" rend="section">.</w>
                 <w lemma="\" msd="MORPH=empty" n="18.5" pos="PUNC" rend="section">\</w>
                 <w lemma="'" msd="MORPH=empty" n="18.5" pos="PUNC" rend="section">'</w>
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:19" type="chapter">
                 </ab>
             <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:19.1" type="section">
                 <w lemma="arborius" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos" n="19.1" pos="ADJqua" rend="section">Arborius</w>
@@ -5722,6 +5762,8 @@
                 <w lemma="uito" msd="Mood=Inf|Tense=Pres|Voice=Act" n="19.5" pos="VER" rend="section">uitare</w>
                 <w lemma="fastidium" msd="Case=Acc|Numb=Sing" n="19.5" pos="NOMcom" rend="section">fastidium</w>
                 <w lemma="." msd="MORPH=empty" n="19.5" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:20" type="chapter">
                 </ab>
             <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:20.1" type="section">
                 <w lemma="ad" msd="MORPH=empty" n="20.1" pos="CONcoo" rend="section">Adque</w>
@@ -6175,6 +6217,8 @@
                 <w lemma="interficio" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3" n="20.9" pos="VER" rend="section">interfecit</w>
                 <w lemma="." msd="MORPH=empty" n="20.9" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:21" type="chapter">
+                </ab>
             <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:21.1" type="section">
                 <w lemma="consto" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="21.1" pos="VER" rend="section">Constat</w>
                 <w lemma="autem" msd="MORPH=empty" n="21.1" pos="CONcoo" rend="section">autem</w>
@@ -6439,6 +6483,8 @@
                 <w lemma="frater" msd="Case=Dat|Numb=Plur" n="21.5" pos="NOMcom" rend="section">fratribus</w>
                 <w lemma="indico1" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3" n="21.5" pos="VER" rend="section">indicabat</w>
                 <w lemma="." msd="MORPH=empty" n="21.5" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:22" type="chapter">
                 </ab>
             <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:22.1" type="section">
                 <w lemma="frequenter" msd="Deg=Pos" n="22.1" pos="ADV" rend="section">Frequenter</w>
@@ -6722,6 +6768,8 @@
                 <w lemma="talis" msd="Case=Nom|Numb=Sing|Gend=Neut" n="22.6" pos="PROdem" rend="section">tale</w>
                 <w lemma="contingo1" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3" n="22.6" pos="VER" rend="section">contigerit</w>
                 <w lemma="." msd="MORPH=empty" n="22.6" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:23" type="chapter">
                 </ab>
             <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:23.1" type="section">
                 <w lemma="clarus" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos" n="23.1" pos="ADJqua" rend="section">Clarus</w>
@@ -7161,6 +7209,8 @@
                 <w lemma="possum1" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3" n="23.11" pos="VER" rend="section">posset</w>
                 <w lemma="." msd="MORPH=empty" n="23.11" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:24" type="chapter">
+                </ab>
             <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:24.1" type="section">
                 <w lemma="animaduerto" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass" n="24.1" pos="VER" rend="section">Animaduersum</w>
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="24.1" pos="VER" rend="section">est</w>
@@ -7524,6 +7574,8 @@
                 <w lemma="fabulosus" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos" n="24.8" pos="ADJqua" rend="section">fabulosum</w>
                 <w lemma="." msd="MORPH=empty" n="24.8" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:25" type="chapter">
+                </ab>
             <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:25.1" type="section">
                 <w lemma="nam" msd="MORPH=empty" n="25.1" pos="CONcoo" rend="section">Nam</w>
                 <w lemma="cum3" msd="MORPH=empty" n="25.1" pos="CONsub" rend="section">cum</w>
@@ -7875,6 +7927,8 @@
                 <w lemma="desum1" msd="Mood=Inf|Tense=Perf|Voice=Act" n="25.8" pos="VER" rend="section">defuisse</w>
                 <w lemma="." msd="MORPH=empty" n="25.8" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:26" type="chapter">
+                </ab>
             <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:26.1" type="section">
                 <w lemma="sed" msd="MORPH=empty" n="26.1" pos="CONcoo" rend="section">Sed</w>
                 <w lemma="iam" msd="Deg=Pos" n="26.1" pos="ADV" rend="section">iam</w>
@@ -8168,6 +8222,8 @@
                 <w lemma="caritas" msd="Case=Abl|Numb=Sing" n="26.5" pos="NOMcom" rend="section">caritate</w>
                 <w lemma="repello" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3" n="26.5" pos="VER" rend="section">reppulerit</w>
                 <w lemma="." msd="MORPH=empty" n="26.5" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:27" type="chapter">
                 </ab>
             <ab n="urn:cts:latinLit:stoa0270.stoa002.opp-lat2:27.1" type="section">
                 <w lemma="nemo" msd="Case=Nom|Numb=Sing" n="27.1" pos="PROind" rend="section">Nemo</w>

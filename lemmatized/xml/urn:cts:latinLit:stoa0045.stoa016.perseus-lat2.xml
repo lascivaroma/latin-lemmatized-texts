@@ -14,9 +14,9 @@
             <sourceDesc>
                 <bibl>
                     <idno>urn:cts:latinLit:stoa0045.stoa016.perseus-lat2</idno>
-                    <link target="https://github.com/PerseusDL/canonical-latinLit/archive/0.0.699.zip"/>
+                    <link target="https://github.com/PerseusDL/canonical-latinLit/archive/0.0.715.zip"/>
                     <dim source="xml" type="md5-checksum">e0c75bc126aba2b0ae04cb1534f07bc4</dim>
-                    <dim source="plaintext-transformation" type="md5-checksum">4d9c3c3462eba4330a72a207794c3221</dim>
+                    <dim source="plaintext-transformation" type="md5-checksum">59065163e08a99e1af4ed242dd8535a0</dim>
                     <dim source="xsl" type="md5-checksum">22f0c529b7ecf86f9fc04cc8de63d204</dim>
                 </bibl>
             </sourceDesc>
@@ -25,7 +25,9 @@
     <text n="urn:cts:latinLit:stoa0045.stoa016.perseus-lat2">
         <body>
             
-        <ab n="urn:cts:latinLit:stoa0045.stoa016.perseus-lat2:pr.1" type="line">
+        <ab n="urn:cts:latinLit:stoa0045.stoa016.perseus-lat2:pr" type="poem">
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0045.stoa016.perseus-lat2:pr.1" type="line">
                 <w lemma="libellus" msd="Case=Acc|Numb=Sing" n="pr.1" pos="NOMcom" rend="line">libellum</w>
                 <w lemma="," msd="MORPH=empty" n="pr.1" pos="PUNC" rend="line">,</w>
                 <w lemma="qui1" msd="Case=Acc|Numb=Sing|Gend=Masc" n="pr.1" pos="PROrel" rend="line">quem</w>
@@ -237,6 +239,8 @@
                 <w lemma="filius" msd="Case=Voc|Numb=Sing" n="pr.2" pos="NOMcom" rend="line">fili</w>
                 <w lemma="dulcis" msd="Case=Voc|Numb=Sing|Gend=Masc|Deg=Sup" n="pr.2" pos="ADV" rend="line">dulcissime</w>
                 <w lemma="." msd="MORPH=empty" n="pr.2" pos="PUNC" rend="line">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0045.stoa016.perseus-lat2:po" type="poem">
                 </ab>
             <ab n="urn:cts:latinLit:stoa0045.stoa016.perseus-lat2:po.1" type="line">
                 <w lemma="sum1" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="po.1" pos="VER" rend="line">Sunt</w>

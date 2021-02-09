@@ -4,7 +4,7 @@
         <fileDesc>
             <titleStmt>
                 <title>In Eutropium</title>
-                <author>Claudius Claudianus</author>
+                <author>Claudian</author>
             </titleStmt>
             <publicationStmt>
                 <publisher>
@@ -14,9 +14,9 @@
             <sourceDesc>
                 <bibl>
                     <idno>urn:cts:latinLit:stoa0089.stoa008.perseus-lat2</idno>
-                    <link target="https://github.com/PerseusDL/canonical-latinLit/archive/0.0.699.zip"/>
+                    <link target="https://github.com/PerseusDL/canonical-latinLit/archive/0.0.715.zip"/>
                     <dim source="xml" type="md5-checksum">cfe3defafe44faefa08ae1992a1e61fa</dim>
-                    <dim source="plaintext-transformation" type="md5-checksum">e21309738600434a08a4b6281df66e7a</dim>
+                    <dim source="plaintext-transformation" type="md5-checksum">15f6077d17123e972cd4107971d626d8</dim>
                     <dim source="xsl" type="md5-checksum">22f0c529b7ecf86f9fc04cc8de63d204</dim>
                 </bibl>
             </sourceDesc>
@@ -25,7 +25,9 @@
     <text n="urn:cts:latinLit:stoa0089.stoa008.perseus-lat2">
         <body>
             
-        <ab n="urn:cts:latinLit:stoa0089.stoa008.perseus-lat2:1.1" type="line">
+        <ab n="urn:cts:latinLit:stoa0089.stoa008.perseus-lat2:1" type="book">
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0089.stoa008.perseus-lat2:1.1" type="line">
                 <w lemma="semifer" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos" n="1.1" pos="ADJqua" rend="line">Semiferos</w>
                 <w lemma="partus1" msd="Case=Acc|Numb=Plur" n="1.1" pos="NOMcom" rend="line">partus</w>
                 <w lemma="metuo" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Adj|Voice=Pass" n="1.1" pos="VER" rend="line">metuendaque</w>
@@ -4860,6 +4862,8 @@
                 <w lemma="ensis" msd="Case=Nom|Numb=Sing" n="1.513" pos="NOMcom" rend="line">ensis</w>
                 <w lemma="." msd="MORPH=empty" n="1.513" pos="PUNC" rend="line">.</w>
                 <w lemma="”" msd="MORPH=empty" n="1.513" pos="PUNC" rend="line">”</w>
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0089.stoa008.perseus-lat2:2" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:stoa0089.stoa008.perseus-lat2:2.1" type="line">
                 <w lemma="qui1" msd="Case=Nom|Numb=Sing|Gend=Masc" n="2.1" pos="PROrel" rend="line">Qui</w>

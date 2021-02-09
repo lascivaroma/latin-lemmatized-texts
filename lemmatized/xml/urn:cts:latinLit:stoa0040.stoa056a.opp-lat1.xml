@@ -14,9 +14,9 @@
             <sourceDesc>
                 <bibl>
                     <idno>urn:cts:latinLit:stoa0040.stoa056a.opp-lat1</idno>
-                    <link target="https://github.com/OpenGreekAndLatin/csel-dev/archive/1.0.89.zip"/>
+                    <link target="https://github.com/OpenGreekAndLatin/csel-dev/archive/1.0.109.zip"/>
                     <dim source="xml" type="md5-checksum">92200a61137e7a701d47c15ece7217ed</dim>
-                    <dim source="plaintext-transformation" type="md5-checksum">035f71d133f4b07e207ad616ee2ae5f7</dim>
+                    <dim source="plaintext-transformation" type="md5-checksum">35470140c34af33a57d48bb62ab9f8d1</dim>
                     <dim source="xsl" type="md5-checksum">22f0c529b7ecf86f9fc04cc8de63d204</dim>
                 </bibl>
             </sourceDesc>
@@ -25,7 +25,26 @@
     <text n="urn:cts:latinLit:stoa0040.stoa056a.opp-lat1">
         <body>
             
-        <ab n="urn:cts:latinLit:stoa0040.stoa056a.opp-lat1:pr.1" type="section">
+        <ab n="urn:cts:latinLit:stoa0040.stoa056a.opp-lat1:pr" type="book">
+                <w lemma="dominus" msd="Case=Dat|Numb=Sing" n="pr" pos="NOMcom" rend="book">Domino</w>
+                <w lemma="illustris" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos" n="pr" pos="ADJqua" rend="book">inlustri</w>
+                <w lemma="et2" msd="MORPH=empty" n="pr" pos="CONcoo" rend="book">et</w>
+                <w lemma="meritus" msd="Numb=Sing|Deg=Pos" n="pr" pos="ADJqua" rend="book">merito</w>
+                <w lemma="praestans" msd="Case=Dat|Numb=Sing|Gend=MascNeut|Deg=Sup" n="pr" pos="ADJqua" rend="book">praestantissimo</w>
+                <w lemma="atque1" msd="MORPH=empty" n="pr" pos="CONcoo" rend="book">atque</w>
+                <w lemma="in" msd="MORPH=empty" n="pr" pos="PRE" rend="book">in</w>
+                <w lemma="christus" msd="Case=Gen|Numb=Sing" n="pr" pos="NOMcom" rend="book">Christi</w>
+                <w lemma="dilectio" msd="Case=Abl|Numb=Sing" n="pr" pos="NOMcom" rend="book">dilectione</w>
+                <w lemma="carus" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Sup" n="pr" pos="ADJqua" rend="book">carissimo</w>
+                <w lemma="filius" msd="Case=Abl|Numb=Sing" n="pr" pos="NOMcom" rend="book">filio</w>
+                <w lemma="Ualerius" msd="Case=Abl|Numb=Sing" n="pr" pos="NOMpro" rend="book">Valerio</w>
+                <w lemma="augustinus" msd="Case=Nom|Numb=Sing" n="pr" pos="NOMcom" rend="book">Augustinus</w>
+                <w lemma="in" msd="MORPH=empty" n="pr" pos="PRE" rend="book">in</w>
+                <w lemma="dominus" msd="Case=Abl|Numb=Sing" n="pr" pos="NOMcom" rend="book">domino</w>
+                <w lemma="salus" msd="Case=Acc|Numb=Sing" n="pr" pos="NOMcom" rend="book">salutem</w>
+                <w lemma="." msd="MORPH=empty" n="pr" pos="PUNC" rend="book">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0040.stoa056a.opp-lat1:pr.1" type="section">
                 <w lemma="cum3" msd="MORPH=empty" n="pr.1" pos="CONsub" rend="section">Cum</w>
                 <w lemma="diu" msd="Deg=Pos" n="pr.1" pos="ADV" rend="section">diu</w>
                 <w lemma="moleste" msd="Deg=Pos" n="pr.1" pos="ADV" rend="section">moleste</w>
@@ -520,6 +539,8 @@
                 <w lemma="commode" msd="Deg=Comp" n="pr.3" pos="ADV" rend="section">commodius</w>
                 <w lemma="intimo" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="pr.3" pos="VER" rend="section">intimabit</w>
                 <w lemma="." msd="MORPH=empty" n="pr.3" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0040.stoa056a.opp-lat1:1" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:stoa0040.stoa056a.opp-lat1:1.1" type="section">
                 <w lemma="haeretici" msd="Case=Voc|Numb=Plur|Gend=Masc|Deg=Pos" n="1.1" pos="ADJqua" rend="section">Haeretici</w>
@@ -10850,6 +10871,8 @@
                 <w lemma="uigilanter" msd="Deg=Pos" n="1.40" pos="ADV" rend="section">uigilanter</w>
                 <w lemma="impendo" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2" n="1.40" pos="VER" rend="section">inpendas</w>
                 <w lemma="." msd="MORPH=empty" n="1.40" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0040.stoa056a.opp-lat1:2" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:stoa0040.stoa056a.opp-lat1:2.1" type="section">
                 <w lemma="inter" msd="MORPH=empty" n="2.1" pos="PRE" rend="section">Inter</w>

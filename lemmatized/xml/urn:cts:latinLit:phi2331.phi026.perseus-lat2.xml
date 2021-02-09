@@ -14,9 +14,9 @@
             <sourceDesc>
                 <bibl>
                     <idno>urn:cts:latinLit:phi2331.phi026.perseus-lat2</idno>
-                    <link target="https://github.com/PerseusDL/canonical-latinLit/archive/0.0.699.zip"/>
+                    <link target="https://github.com/PerseusDL/canonical-latinLit/archive/0.0.715.zip"/>
                     <dim source="xml" type="md5-checksum">539178521e67ca0387e5b262c39681a0</dim>
-                    <dim source="plaintext-transformation" type="md5-checksum">f2e00f5a16a52411983b92448adf4ff0</dim>
+                    <dim source="plaintext-transformation" type="md5-checksum">c2907c1cb336324bb62b098a4a5e2cc0</dim>
                     <dim source="xsl" type="md5-checksum">22f0c529b7ecf86f9fc04cc8de63d204</dim>
                 </bibl>
             </sourceDesc>
@@ -25,7 +25,12 @@
     <text n="urn:cts:latinLit:phi2331.phi026.perseus-lat2">
         <body>
             
-        <ab n="urn:cts:latinLit:phi2331.phi026.perseus-lat2:1" type="chapter">
+        <ab n="urn:cts:latinLit:phi2331.phi026.perseus-lat2:unregistered" type="section">
+                <w lemma="flauiter" msd="Case=Nom|Numb=Sing|Deg=Comp" n="75" pos="ADJqua" rend="section">Flavius</w>
+                <w lemma="Uopiscus" msd="Case=Nom|Numb=Sing" n="75" pos="NOMpro" rend="section">Vopiscus</w>
+                <w lemma="syracusius" msd="Case=Nom|Numb=Sing" n="75" pos="NOMpro" rend="section">Syracusius</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi2331.phi026.perseus-lat2:1" type="chapter">
                 <w lemma="hilaris" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos" n="1" pos="ADJqua" rend="chapter">Hilaribus</w>
                 <w lemma="," msd="MORPH=empty" n="1" pos="PUNC" rend="chapter">,</w>
                 <w lemma="qui1" msd="Case=Abl|Numb=Plur|Gend=Com" n="1" pos="PROrel" rend="chapter">quibus</w>
@@ -95,7 +100,7 @@
                 <w lemma="que" msd="MORPH=empty" n="1" pos="CON" rend="chapter">{cumque}</w>
                 <w lemma="ad2" msd="MORPH=empty" n="1" pos="PRE" rend="chapter">ad</w>
                 <w lemma="templum" msd="Case=Acc|Numb=Sing" n="1" pos="NOMcom" rend="chapter">Templum</w>
-                <w lemma="sol" msd="Case=Gen|Numb=Plur" n="1" pos="NOMcom" rend="chapter">Solis</w>
+                <w lemma="sol" msd="Case=Gen|Numb=Sing" n="1" pos="NOMcom" rend="chapter">Solis</w>
                 <w lemma="uenio" msd="Numb=Plur|Mood=Sub|Tense=Pqp|Voice=Act|Person=1" n="1" pos="VER" rend="chapter">venissemus</w>
                 <w lemma="ab" msd="MORPH=empty" n="1" pos="PRE" rend="chapter">ab</w>
                 <w lemma="aurelianus" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos" n="1" pos="ADJqua" rend="chapter">Aureliano</w>
@@ -149,9 +154,9 @@
                 <w lemma="thersites" msd="Case=Acc|Numb=Sing" n="1" pos="NOMcom" rend="chapter">Thersitem</w>
                 <w lemma="," msd="MORPH=empty" n="1" pos="PUNC" rend="chapter">,</w>
                 <w lemma="sino" msd="Case=Acc|Numb=Sing" n="1" pos="NOMcom" rend="chapter">Sinonem</w>
-                <w lemma="ceterus" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos" n="1" pos="ADJqua" rend="chapter">ceteraque</w>
+                <w lemma="ceterus" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos" n="1" pos="ADJqua" rend="chapter">ceteraque</w>
                 <w lemma="que" msd="MORPH=empty" n="1" pos="CON" rend="chapter">{ceteraque}</w>
-                <w lemma="ille" msd="Case=Acc|Numb=Plur|Gend=Neut" n="1" pos="PROdem" rend="chapter">illa</w>
+                <w lemma="ille" msd="Case=Acc|Numb=Sing|Gend=Neut" n="1" pos="PROdem" rend="chapter">illa</w>
                 <w lemma="prodigium" msd="Case=Acc|Numb=Plur" n="1" pos="NOMcom" rend="chapter">prodigia</w>
                 <w lemma="uetustas" msd="Case=Gen|Numb=Sing" n="1" pos="NOMcom" rend="chapter">vetustatis</w>
                 <w lemma="et2" msd="MORPH=empty" n="1" pos="CONcoo" rend="chapter">et</w>

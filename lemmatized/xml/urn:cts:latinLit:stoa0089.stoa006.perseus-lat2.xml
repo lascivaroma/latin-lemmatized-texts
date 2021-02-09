@@ -4,7 +4,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Epithalamium de nuptiis Honorii Augusti</title>
-                <author>Claudius Claudianus</author>
+                <author>Claudian</author>
             </titleStmt>
             <publicationStmt>
                 <publisher>
@@ -14,9 +14,9 @@
             <sourceDesc>
                 <bibl>
                     <idno>urn:cts:latinLit:stoa0089.stoa006.perseus-lat2</idno>
-                    <link target="https://github.com/PerseusDL/canonical-latinLit/archive/0.0.699.zip"/>
+                    <link target="https://github.com/PerseusDL/canonical-latinLit/archive/0.0.715.zip"/>
                     <dim source="xml" type="md5-checksum">c1a8daefa8e42abdd9590f7ea4257d91</dim>
-                    <dim source="plaintext-transformation" type="md5-checksum">fac38b9d227000d7d85a80e8b53597a4</dim>
+                    <dim source="plaintext-transformation" type="md5-checksum">2769d6d53b53240f25ffdd42f62545d8</dim>
                     <dim source="xsl" type="md5-checksum">22f0c529b7ecf86f9fc04cc8de63d204</dim>
                 </bibl>
             </sourceDesc>
@@ -25,7 +25,9 @@
     <text n="urn:cts:latinLit:stoa0089.stoa006.perseus-lat2">
         <body>
             
-        <ab n="urn:cts:latinLit:stoa0089.stoa006.perseus-lat2:pr.1" type="line">
+        <ab n="urn:cts:latinLit:stoa0089.stoa006.perseus-lat2:pr" type="poem">
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0089.stoa006.perseus-lat2:pr.1" type="line">
                 <w lemma="surgo" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3" n="pr.1" pos="VER" rend="line">Surgeret</w>
                 <w lemma="in" msd="MORPH=empty" n="pr.1" pos="PRE" rend="line">in</w>
                 <w lemma="thalamus" msd="Case=Acc|Numb=Sing" n="pr.1" pos="NOMcom" rend="line">thalamum</w>
@@ -92,7 +94,7 @@
                 <w lemma=":" msd="MORPH=empty" n="pr.8" pos="PUNC" rend="line">:</w>
                 </ab>
             <ab n="urn:cts:latinLit:stoa0089.stoa006.perseus-lat2:pr.9" type="line">
-                <w lemma="terpsichor" msd="Case=Abl|Numb=Sing" n="pr.9" pos="ADJqua" rend="line">Terpsichore</w>
+                <w lemma="terpsichor" msd="Case=Abl|Numb=Sing" n="pr.9" pos="NOMcom" rend="line">Terpsichore</w>
                 <w lemma="facilis" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos" n="pr.9" pos="ADJqua" rend="line">facilem</w>
                 <w lemma="lasciuus" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos" n="pr.9" pos="ADJqua" rend="line">lascivo</w>
                 <w lemma="pollex" msd="Case=Abl|Numb=Sing" n="pr.9" pos="NOMcom" rend="line">pollice</w>
@@ -218,6 +220,8 @@
                 <w lemma="os2" msd="Case=Acc|Numb=Plur" n="pr.22" pos="NOMcom" rend="line">Ossa</w>
                 <w lemma="thetis" msd="Case=Acc|Numb=Sing" n="pr.22" pos="NOMcom" rend="line">Thetim</w>
                 <w lemma="." msd="MORPH=empty" n="pr.22" pos="PUNC" rend="line">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0089.stoa006.perseus-lat2:1" type="poem">
                 </ab>
             <ab n="urn:cts:latinLit:stoa0089.stoa006.perseus-lat2:1.1" type="line">
                 <w lemma="haurio" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3" n="1.1" pos="VER" rend="line">Hauserat</w>

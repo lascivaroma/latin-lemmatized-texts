@@ -14,9 +14,9 @@
             <sourceDesc>
                 <bibl>
                     <idno>urn:cts:latinLit:stoa0040.stoa070.opp-lat1</idno>
-                    <link target="https://github.com/OpenGreekAndLatin/csel-dev/archive/1.0.89.zip"/>
+                    <link target="https://github.com/OpenGreekAndLatin/csel-dev/archive/1.0.109.zip"/>
                     <dim source="xml" type="md5-checksum">111fd57a582c6a478d316cedccf21924</dim>
-                    <dim source="plaintext-transformation" type="md5-checksum">bd8ede84d6b44c3b434f80861fbfbdd8</dim>
+                    <dim source="plaintext-transformation" type="md5-checksum">04a3cbd03067cc982e9e004dd2ba4c74</dim>
                     <dim source="xsl" type="md5-checksum">22f0c529b7ecf86f9fc04cc8de63d204</dim>
                 </bibl>
             </sourceDesc>
@@ -25,7 +25,27 @@
     <text n="urn:cts:latinLit:stoa0040.stoa070.opp-lat1">
         <body>
             
-        <ab n="urn:cts:latinLit:stoa0040.stoa070.opp-lat1:1.1" type="chapter">
+        <ab n="urn:cts:latinLit:stoa0040.stoa070.opp-lat1:1" type="book">
+                <w lemma="locutio" msd="Case=Nom|Numb=Plur" n="1" pos="NOMcom" rend="book">Locutiones</w>
+                <w lemma="scriptura" msd="Case=Gen|Numb=Plur" n="1" pos="NOMcom" rend="book">scripturarum</w>
+                <w lemma="," msd="MORPH=empty" n="1" pos="PUNC" rend="book">,</w>
+                <w lemma="qui1" msd="Case=Nom|Numb=Plur|Gend=Neut" n="1" pos="PROrel" rend="book">quae</w>
+                <w lemma="uideo" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3" n="1" pos="VER" rend="book">uidentur</w>
+                <w lemma="secundum2" msd="MORPH=empty" n="1" pos="PRE" rend="book">secundum</w>
+                <w lemma="proprietas" msd="Case=Acc|Numb=Plur" n="1" pos="NOMcom" rend="book">proprietates</w>
+                <w lemma="," msd="MORPH=empty" n="1" pos="PUNC" rend="book">,</w>
+                <w lemma="qui1" msd="Case=Nom|Numb=Plur|Gend=Neut" n="1" pos="PROrel" rend="book">quae</w>
+                <w lemma="idiomo" msd="Case=Nom|Numb=Plur" n="1" pos="NOMcom" rend="book">idiomata</w>
+                <w lemma="graece" msd="Deg=Pos" n="1" pos="ADV" rend="book">graece</w>
+                <w lemma="uoco" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3" n="1" pos="VER" rend="book">uocantur</w>
+                <w lemma="," msd="MORPH=empty" n="1" pos="PUNC" rend="book">,</w>
+                <w lemma="lingua" msd="Case=Nom|Numb=Plur" n="1" pos="NOMcom" rend="book">linguae</w>
+                <w lemma="Hebraicus" msd="Case=Nom|Numb=Plur|Gend=Fem|Deg=Pos" n="1" pos="ADJqua" rend="book">hebraicae</w>
+                <w lemma="uel2" msd="MORPH=empty" n="1" pos="CONcoo" rend="book">uel</w>
+                <w lemma="Graecus" msd="Case=Nom|Numb=Plur|Gend=Fem|Deg=Pos" n="1" pos="ADJqua" rend="book">graecae</w>
+                <w lemma="." msd="MORPH=empty" n="1" pos="PUNC" rend="book">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0040.stoa070.opp-lat1:1.1" type="chapter">
                 <w lemma="et2" msd="MORPH=empty" n="1.1" pos="CONcoo" rend="chapter">Et</w>
                 <w lemma="diuido" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3" n="1.1" pos="VER" rend="chapter">diuidant</w>
                 <w lemma="inter" msd="MORPH=empty" n="1.1" pos="PRE" rend="chapter">inter</w>
@@ -8382,6 +8402,8 @@
                 <w lemma="scriptura" msd="Case=Nom|Numb=Sing" n="1.213" pos="NOMcom" rend="chapter">scriptura</w>
                 <w lemma="." msd="MORPH=empty" n="1.213" pos="PUNC" rend="chapter">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:stoa0040.stoa070.opp-lat1:2" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:stoa0040.stoa070.opp-lat1:2.1" type="chapter">
                 <w lemma="et2" msd="MORPH=empty" n="2.1" pos="CONcoo" rend="chapter">Et</w>
                 <w lemma="inualesco" msd="Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3" n="2.1" pos="VER" rend="chapter">inualescebant</w>
@@ -15250,6 +15272,8 @@
                 <w lemma="israel" msd="Case=Ind" n="2.160" pos="NOMcom" rend="chapter">Israhel</w>
                 <w lemma="." msd="MORPH=empty" n="2.160" pos="PUNC" rend="chapter">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:stoa0040.stoa070.opp-lat1:3" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:stoa0040.stoa070.opp-lat1:3.1" type="chapter">
                 <w lemma="homo" msd="Case=Nom|Numb=Sing" n="3.1" pos="NOMcom" rend="chapter">Homo</w>
                 <w lemma="ex" msd="MORPH=empty" n="3.1" pos="PRE" rend="chapter">ex</w>
@@ -18260,6 +18284,8 @@
                 <w lemma="accipio" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Adj|Voice=Pass" n="3.62" pos="VER" rend="chapter">accipiendum</w>
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="3.62" pos="VER" rend="chapter">est</w>
                 <w lemma="." msd="MORPH=empty" n="3.62" pos="PUNC" rend="chapter">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0040.stoa070.opp-lat1:4" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:stoa0040.stoa070.opp-lat1:4.1" type="chapter">
                 <w lemma="et2" msd="MORPH=empty" n="4.1" pos="CONcoo" rend="chapter">Et</w>
@@ -22695,6 +22721,8 @@
                 <w lemma="graecus" msd="Case=Abl|Numb=Sing|Gend=Neut|Deg=Pos" n="4.127" pos="ADJqua" rend="chapter">graeca</w>
                 <w lemma="." msd="MORPH=empty" n="4.127" pos="PUNC" rend="chapter">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:stoa0040.stoa070.opp-lat1:5" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:stoa0040.stoa070.opp-lat1:5.1" type="chapter">
                 <w lemma="usque" msd="Deg=Pos" n="5.1" pos="ADV" rend="chapter">Usque</w>
                 <w lemma="ad2" msd="MORPH=empty" n="5.1" pos="PRE" rend="chapter">ad</w>
@@ -25876,6 +25904,8 @@
                 <w lemma="inuenio" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3" n="5.78" pos="VER" rend="chapter">inuenitur</w>
                 <w lemma="." msd="MORPH=empty" n="5.78" pos="PUNC" rend="chapter">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:stoa0040.stoa070.opp-lat1:6" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:stoa0040.stoa070.opp-lat1:6.1" type="chapter">
                 <w lemma="uos" msd="Case=Nom|Numb=Plur" n="6.1" pos="PROper" rend="chapter">Uos</w>
                 <w lemma="autem" msd="MORPH=empty" n="6.1" pos="CONcoo" rend="chapter">autem</w>
@@ -27663,6 +27693,8 @@
                 <w lemma="crebro2" msd="Deg=Pos" n="6.31" pos="ADV" rend="chapter">crebro</w>
                 <w lemma="intercurro" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="6.31" pos="VER" rend="chapter">intercurrunt</w>
                 <w lemma="." msd="MORPH=empty" n="6.31" pos="PUNC" rend="chapter">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0040.stoa070.opp-lat1:7" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:stoa0040.stoa070.opp-lat1:7.1" type="chapter">
                 <w lemma="et2" msd="MORPH=empty" n="7.1" pos="CONcoo" rend="chapter">Et</w>

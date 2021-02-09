@@ -14,9 +14,9 @@
             <sourceDesc>
                 <bibl>
                     <idno>urn:cts:greekLit:tlg0527.tlg048.obi-lat1</idno>
-                    <link target="https://github.com/lascivaroma/additional-texts/archive/1.0.138.zip"/>
+                    <link target="https://github.com/lascivaroma/additional-texts/archive/1.0.142.zip"/>
                     <dim source="xml" type="md5-checksum">37c213d2b24246ed22bee130573eaf0f</dim>
-                    <dim source="plaintext-transformation" type="md5-checksum">3a9744b8aea1f403485c3236d2dfdf12</dim>
+                    <dim source="plaintext-transformation" type="md5-checksum">654874d307c1ec1a56ce932cc3640b83</dim>
                     <dim source="xsl" type="md5-checksum">22f0c529b7ecf86f9fc04cc8de63d204</dim>
                 </bibl>
             </sourceDesc>
@@ -25,7 +25,9 @@
     <text n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1">
         <body>
             
-        <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:1.1" type="verse">
+        <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:1" type="chapter">
+                </ab>
+            <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:1.1" type="verse">
                 <w lemma="uerbum" msd="Case=Acc|Numb=Sing" n="1.1" pos="NOMcom" rend="verse">verbum</w>
                 <w lemma="dominus" msd="Case=Gen|Numb=Sing" n="1.1" pos="NOMcom" rend="verse">Domini</w>
                 <w lemma="qui1" msd="Case=Nom|Numb=Sing|Gend=Neut" n="1.1" pos="PROrel" rend="verse">quod</w>
@@ -62,7 +64,7 @@
                 <w lemma="dico2" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3" n="1.2" pos="VER" rend="verse">dixit</w>
                 <w lemma="dominus" msd="Case=Nom|Numb=Sing" n="1.2" pos="NOMcom" rend="verse">Dominus</w>
                 <w lemma="ad2" msd="MORPH=empty" n="1.2" pos="PRE" rend="verse">ad</w>
-                <w lemma="osee" msd="Case=Acc|Numb=Sing" n="1.2" pos="NOMcom" rend="verse">Osee</w>
+                <w lemma="osee" msd="Case=Acc|Numb=Sing" n="1.2" pos="NOMpro" rend="verse">Osee</w>
                 <w lemma="uado2" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2" n="1.2" pos="VER" rend="verse">vade</w>
                 <w lemma="sumo" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2" n="1.2" pos="VER" rend="verse">sume</w>
                 <w lemma="tu" msd="Case=Dat|Numb=Sing" n="1.2" pos="PROper" rend="verse">tibi</w>
@@ -108,7 +110,7 @@
                 <w lemma="et2" msd="MORPH=empty" n="1.4" pos="CONcoo" rend="verse">et</w>
                 <w lemma="uisito" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1" n="1.4" pos="VER" rend="verse">visitabo</w>
                 <w lemma="sanguis" msd="Case=Acc|Numb=Sing" n="1.4" pos="NOMcom" rend="verse">sanguinem</w>
-                <w lemma="hiesrael" msd="Case=Ind" n="1.4" pos="NOMcom" rend="verse">Hiezrahel</w>
+                <w lemma="hiesrael" msd="Case=Ind|Numb=Sing" n="1.4" pos="NOMcom" rend="verse">Hiezrahel</w>
                 <w lemma="super2" msd="MORPH=empty" n="1.4" pos="PRE" rend="verse">super</w>
                 <w lemma="domus" msd="Case=Acc|Numb=Sing" n="1.4" pos="NOMcom" rend="verse">domum</w>
                 <w lemma="hieu" msd="MORPH=empty" n="1.4" pos="NOMcom" rend="verse">Hieu</w>
@@ -129,7 +131,7 @@
                 <w lemma="Israel" msd="Case=Ind" n="1.5" pos="NOMcom" rend="verse">Israhel</w>
                 <w lemma="in" msd="MORPH=empty" n="1.5" pos="PRE" rend="verse">in</w>
                 <w lemma="uallis" msd="Case=Abl|Numb=Sing" n="1.5" pos="NOMcom" rend="verse">valle</w>
-                <w lemma="hiesrael" msd="Case=Ind" n="1.5" pos="NOMcom" rend="verse">Hiezrahel</w>
+                <w lemma="hiesrael" msd="MORPH=empty" n="1.5" pos="NOMcom" rend="verse">Hiezrahel</w>
                 </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:1.6" type="verse">
                 <w lemma="et2" msd="MORPH=empty" n="1.6" pos="CONcoo" rend="verse">et</w>
@@ -278,6 +280,8 @@
                 <w lemma="dies" msd="Case=Nom|Numb=Sing" n="1.11" pos="NOMcom" rend="verse">dies</w>
                 <w lemma="hiesrael" msd="Case=Ind" n="1.11" pos="INJ" rend="verse">Hiezrahel</w>
                 </ab>
+            <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:2" type="chapter">
+                </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:2.1" type="verse">
                 <w lemma="dico2" msd="Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2" n="2.1" pos="VER" rend="verse">dicite</w>
                 <w lemma="frater" msd="Case=Dat|Numb=Plur" n="2.1" pos="NOMcom" rend="verse">fratribus</w>
@@ -288,7 +292,7 @@
                 <w lemma="soror" msd="Case=Dat|Numb=Sing" n="2.1" pos="NOMcom" rend="verse">sorori</w>
                 <w lemma="uester" msd="Case=Gen|Numb=Sing|Gend=Fem" n="2.1" pos="PROpos" rend="verse">vestrae</w>
                 <w lemma="misericordia" msd="Case=Acc|Numb=Sing" n="2.1" pos="NOMcom" rend="verse">Misericordiam</w>
-                <w lemma="consequor" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep" n="2.1" pos="VER" rend="verse">consecuta</w>
+                <w lemma="consequor" msd="Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep" n="2.1" pos="VER" rend="verse">consecuta</w>
                 </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:2.2" type="verse">
                 <w lemma="iudico" msd="Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2" n="2.2" pos="VER" rend="verse">iudicate</w>
@@ -313,7 +317,7 @@
                 <w lemma="suus" msd="Case=Abl|Numb=Sing|Gend=Fem" n="2.2" pos="PROpos.ref" rend="verse">sua</w>
                 <w lemma="et2" msd="MORPH=empty" n="2.2" pos="CONcoo" rend="verse">et</w>
                 <w lemma="adulterium" msd="Case=Acc|Numb=Plur" n="2.2" pos="NOMcom" rend="verse">adulteria</w>
-                <w lemma="suus" msd="Case=Abl|Numb=Plur|Gend=Neut" n="2.2" pos="PROpos.ref" rend="verse">sua</w>
+                <w lemma="suus" msd="Case=Abl|Numb=Sing|Gend=Neut" n="2.2" pos="PROpos.ref" rend="verse">sua</w>
                 <w lemma="de" msd="MORPH=empty" n="2.2" pos="PRE" rend="verse">de</w>
                 <w lemma="medius" msd="Case=Abl|Numb=Sing|Deg=Pos" n="2.2" pos="ADJqua" rend="verse">medio</w>
                 <w lemma="uber1" msd="Case=Acc|Numb=Sing|Deg=Pos" n="2.2" pos="NOMcom" rend="verse">uberum</w>
@@ -355,7 +359,7 @@
                 <w lemma="non" msd="MORPH=empty" n="2.4" pos="ADVneg" rend="verse">non</w>
                 <w lemma="misereor" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Dep|Person=1" n="2.4" pos="VER" rend="verse">miserebor</w>
                 <w lemma="quoniam" msd="MORPH=empty" n="2.4" pos="CONsub" rend="verse">quoniam</w>
-                <w lemma="filius" msd="Case=Nom|Numb=Plur" n="2.4" pos="NOMcom" rend="verse">filii</w>
+                <w lemma="filius" msd="Case=Gen|Numb=Plur" n="2.4" pos="NOMcom" rend="verse">filii</w>
                 <w lemma="fornicatio" msd="Case=Gen|Numb=Plur" n="2.4" pos="NOMcom" rend="verse">fornicationum</w>
                 <w lemma="sum1" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="2.4" pos="VER" rend="verse">sunt</w>
                 </ab>
@@ -364,7 +368,7 @@
                 <w lemma="fornicor" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass" n="2.5" pos="VER" rend="verse">fornicata</w>
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="2.5" pos="VER" rend="verse">est</w>
                 <w lemma="mater" msd="Case=Nom|Numb=Sing" n="2.5" pos="NOMcom" rend="verse">mater</w>
-                <w lemma="is" msd="Case=Gen|Numb=Plur|Gend=Fem" n="2.5" pos="PROdem" rend="verse">eorum</w>
+                <w lemma="is" msd="Case=Gen|Numb=Plur|Gend=MascNeut" n="2.5" pos="PROdem" rend="verse">eorum</w>
                 <w lemma="confusus" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos" n="2.5" pos="ADJqua" rend="verse">confusa</w>
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="2.5" pos="VER" rend="verse">est</w>
                 <w lemma="qui1" msd="Case=Nom|Numb=Sing|Gend=Fem" n="2.5" pos="PROrel" rend="verse">quae</w>
@@ -432,7 +436,7 @@
                 <w lemma="dico2" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="2.7" pos="VER" rend="verse">dicet</w>
                 <w lemma="uado2" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1" n="2.7" pos="VER" rend="verse">vadam</w>
                 <w lemma="et2" msd="MORPH=empty" n="2.7" pos="CONcoo" rend="verse">et</w>
-                <w lemma="reuertor" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Dep|Person=1" n="2.7" pos="VER" rend="verse">revertar</w>
+                <w lemma="reuertor" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Dep|Person=1" n="2.7" pos="VER" rend="verse">revertar</w>
                 <w lemma="ad2" msd="MORPH=empty" n="2.7" pos="PRE" rend="verse">ad</w>
                 <w lemma="uir" msd="Case=Acc|Numb=Sing" n="2.7" pos="NOMcom" rend="verse">virum</w>
                 <w lemma="meus" msd="Case=Acc|Numb=Sing|Gend=MascNeut" n="2.7" pos="PROpos" rend="verse">meum</w>
@@ -492,7 +496,7 @@
                 <w lemma="et2" msd="MORPH=empty" n="2.9" pos="CONcoo" rend="verse">et</w>
                 <w lemma="linum" msd="Case=Acc|Numb=Sing" n="2.9" pos="NOMcom" rend="verse">linum</w>
                 <w lemma="meus" msd="Case=Acc|Numb=Sing|Gend=MascNeut" n="2.9" pos="PROpos" rend="verse">meum</w>
-                <w lemma="qui1" msd="Case=Nom|Numb=Plur|Gend=Neut" n="2.9" pos="PROrel" rend="verse">quae</w>
+                <w lemma="qui1" msd="Case=Nom|Numb=Plur|Gend=Fem" n="2.9" pos="PROrel" rend="verse">quae</w>
                 <w lemma="operio" msd="Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3" n="2.9" pos="VER" rend="verse">operiebant</w>
                 <w lemma="ignominia" msd="Case=Acc|Numb=Sing" n="2.9" pos="NOMcom" rend="verse">ignominiam</w>
                 <w lemma="is" msd="Case=Gen|Numb=Sing|Gend=Com" n="2.9" pos="PROdem" rend="verse">eius</w>
@@ -559,7 +563,7 @@
                 <w lemma="pono" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1" n="2.12" pos="VER" rend="verse">ponam</w>
                 <w lemma="is" msd="Case=Acc|Numb=Sing|Gend=Fem" n="2.12" pos="PROdem" rend="verse">eam</w>
                 <w lemma="in" msd="MORPH=empty" n="2.12" pos="PRE" rend="verse">in</w>
-                <w lemma="saltus2" msd="Case=Abl|Numb=Sing" n="2.12" pos="NOMcom" rend="verse">saltu</w>
+                <w lemma="saltus1" msd="Case=Abl|Numb=Sing" n="2.12" pos="NOMcom" rend="verse">saltu</w>
                 <w lemma="et2" msd="MORPH=empty" n="2.12" pos="CONcoo" rend="verse">et</w>
                 <w lemma="comedo2" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="2.12" pos="VER" rend="verse">comedet</w>
                 <w lemma="ille" msd="Case=Acc|Numb=Sing|Gend=Fem" n="2.12" pos="PROdem" rend="verse">illam</w>
@@ -578,7 +582,7 @@
                 <w lemma="incendo" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass" n="2.13" pos="VER" rend="verse">incensum</w>
                 <w lemma="et2" msd="MORPH=empty" n="2.13" pos="CONcoo" rend="verse">et</w>
                 <w lemma="orno" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Pass|Person=3" n="2.13" pos="VER" rend="verse">ornabatur</w>
-                <w lemma="inaure" msd="Case=Abl|Numb=Sing|Deg=Pos" n="2.13" pos="ADJqua" rend="verse">inaure</w>
+                <w lemma="inaure" msd="Case=Abl|Numb=Sing|Deg=Pos" n="2.13" pos="ADV" rend="verse">inaure</w>
                 <w lemma="suus" msd="Case=Abl|Numb=Sing|Gend=Fem" n="2.13" pos="PROpos.ref" rend="verse">sua</w>
                 <w lemma="et2" msd="MORPH=empty" n="2.13" pos="CONcoo" rend="verse">et</w>
                 <w lemma="monile" msd="Case=Dat|Numb=Sing" n="2.13" pos="NOMcom" rend="verse">monili</w>
@@ -635,7 +639,7 @@
                 <w lemma="iuuentus" msd="Case=Gen|Numb=Sing" n="2.15" pos="NOMcom" rend="verse">iuventutis</w>
                 <w lemma="suus" msd="Case=Gen|Numb=Sing|Gend=Fem" n="2.15" pos="PROpos.ref" rend="verse">suae</w>
                 <w lemma="et2" msd="MORPH=empty" n="2.15" pos="CONcoo" rend="verse">et</w>
-                <w lemma="iuxta2" msd="Deg=Pos" n="2.15" pos="PRE" rend="verse">iuxta</w>
+                <w lemma="iuxta2" msd="MORPH=empty" n="2.15" pos="PRE" rend="verse">iuxta</w>
                 <w lemma="dies" msd="Case=Nom|Numb=Sing" n="2.15" pos="NOMcom" rend="verse">dies</w>
                 <w lemma="ascensio" msd="Case=Gen|Numb=Sing" n="2.15" pos="NOMcom" rend="verse">ascensionis</w>
                 <w lemma="suus" msd="Case=Gen|Numb=Sing|Gend=Fem" n="2.15" pos="PROpos.ref" rend="verse">suae</w>
@@ -690,11 +694,11 @@
                 <w lemma="ager" msd="Case=Gen|Numb=Sing" n="2.18" pos="NOMcom" rend="verse">agri</w>
                 <w lemma="et2" msd="MORPH=empty" n="2.18" pos="CONcoo" rend="verse">et</w>
                 <w lemma="cum2" msd="MORPH=empty" n="2.18" pos="PRE" rend="verse">cum</w>
-                <w lemma="uolucer" msd="Case=Abl|Numb=Sing" n="2.18" pos="ADJqua" rend="verse">volucre</w>
+                <w lemma="uolucer" msd="Case=Abl|Numb=Sing" n="2.18" pos="NOMcom" rend="verse">volucre</w>
                 <w lemma="caelum1" msd="Case=Gen|Numb=Sing" n="2.18" pos="NOMcom" rend="verse">caeli</w>
                 <w lemma="et2" msd="MORPH=empty" n="2.18" pos="CONcoo" rend="verse">et</w>
                 <w lemma="cum3" msd="MORPH=empty" n="2.18" pos="CONsub" rend="verse">cum</w>
-                <w lemma="reptile" msd="Case=Gen|Numb=Sing" n="2.18" pos="NOMcom" rend="verse">reptili</w>
+                <w lemma="reptilum" msd="Case=Gen|Numb=Sing" n="2.18" pos="NOMcom" rend="verse">reptili</w>
                 <w lemma="terra" msd="Case=Gen|Numb=Sing" n="2.18" pos="NOMcom" rend="verse">terrae</w>
                 <w lemma="et2" msd="MORPH=empty" n="2.18" pos="CONcoo" rend="verse">et</w>
                 <w lemma="arcus" msd="Case=Acc|Numb=Sing" n="2.18" pos="NOMcom" rend="verse">arcum</w>
@@ -757,7 +761,7 @@
                 <w lemma="exaudio" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1" n="2.21" pos="VER" rend="verse">exaudiam</w>
                 <w lemma="caelum1" msd="Case=Acc|Numb=Plur" n="2.21" pos="NOMcom" rend="verse">caelos</w>
                 <w lemma="et2" msd="MORPH=empty" n="2.21" pos="CONcoo" rend="verse">et</w>
-                <w lemma="ille" msd="Case=Nom|Numb=Plur|Gend=Masc" n="2.21" pos="PROdem" rend="verse">illi</w>
+                <w lemma="ille" msd="Case=Dat|Numb=Plur|Gend=Masc" n="2.21" pos="PROdem" rend="verse">illi</w>
                 <w lemma="exaudio" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="2.21" pos="VER" rend="verse">exaudient</w>
                 <w lemma="terra" msd="Case=Acc|Numb=Sing" n="2.21" pos="NOMcom" rend="verse">terram</w>
                 </ab>
@@ -807,6 +811,8 @@
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2" n="2.24" pos="VER" rend="verse">es</w>
                 <w lemma="tu" msd="Case=Nom|Numb=Sing" n="2.24" pos="PROper" rend="verse">tu</w>
                 </ab>
+            <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:3" type="chapter">
+                </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:3.1" type="verse">
                 <w lemma="et2" msd="MORPH=empty" n="3.1" pos="CONcoo" rend="verse">et</w>
                 <w lemma="dico2" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3" n="3.1" pos="VER" rend="verse">dixit</w>
@@ -825,7 +831,7 @@
                 <w lemma="diligo3" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="3.1" pos="VER" rend="verse">diligit</w>
                 <w lemma="dominus" msd="Case=Nom|Numb=Sing" n="3.1" pos="NOMcom" rend="verse">Dominus</w>
                 <w lemma="filius" msd="Case=Acc|Numb=Plur" n="3.1" pos="NOMcom" rend="verse">filios</w>
-                <w lemma="Israel" msd="Case=Ind" n="3.1" pos="NOMcom" rend="verse">Israhel</w>
+                <w lemma="israel" msd="Case=Ind" n="3.1" pos="NOMcom" rend="verse">Israhel</w>
                 <w lemma="et2" msd="MORPH=empty" n="3.1" pos="CONcoo" rend="verse">et</w>
                 <w lemma="ipse" msd="Case=Nom|Numb=Plur|Gend=Masc" n="3.1" pos="PROdem" rend="verse">ipsi</w>
                 <w lemma="respecto" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="3.1" pos="VER" rend="verse">respectant</w>
@@ -892,11 +898,11 @@
                 <w lemma="sine" msd="MORPH=empty" n="3.4" pos="PRE" rend="verse">sine</w>
                 <w lemma="altare" msd="Case=Abl|Numb=Sing" n="3.4" pos="NOMcom" rend="verse">altari</w>
                 <w lemma="et2" msd="MORPH=empty" n="3.4" pos="CONcoo" rend="verse">et</w>
-                <w lemma="sine" msd="MORPH=empty" n="3.4" pos="PRE" rend="verse">sine</w>
+                <w lemma="sino" msd="Person=2" n="3.4" pos="PRE" rend="verse">sine</w>
                 <w lemma="ephod" msd="Case=Nom|Numb=Sing" n="3.4" pos="NOMcom" rend="verse">ephod</w>
                 <w lemma="et2" msd="MORPH=empty" n="3.4" pos="CONcoo" rend="verse">et</w>
                 <w lemma="sino" msd="MORPH=empty" n="3.4" pos="PRE" rend="verse">sine</w>
-                <w lemma="therafen" msd="Case=Acc|Numb=Sing" n="3.4" pos="NOMcom" rend="verse">therafin</w>
+                <w lemma="therafen" msd="Case=Abl|Numb=Sing" n="3.4" pos="NOMcom" rend="verse">therafin</w>
                 </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:3.5" type="verse">
                 <w lemma="et2" msd="MORPH=empty" n="3.5" pos="CONcoo" rend="verse">et</w>
@@ -925,6 +931,8 @@
                 <w lemma="in" msd="MORPH=empty" n="3.5" pos="PRE" rend="verse">in</w>
                 <w lemma="nouus" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos" n="3.5" pos="ADJqua" rend="verse">novissimo</w>
                 <w lemma="dies" msd="Case=Gen|Numb=Plur" n="3.5" pos="NOMcom" rend="verse">dierum</w>
+                </ab>
+            <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:4" type="chapter">
                 </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:4.1" type="verse">
                 <w lemma="audio" msd="Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2" n="4.1" pos="VER" rend="verse">audite</w>
@@ -1034,7 +1042,7 @@
                 <w lemma="populus1" msd="Case=Nom|Numb=Sing" n="4.6" pos="NOMcom" rend="verse">populus</w>
                 <w lemma="meus" msd="Case=Nom|Numb=Sing|Gend=Masc" n="4.6" pos="PROpos" rend="verse">meus</w>
                 <w lemma="eo3" msd="Numb=Sing|Gend=MascNeut" n="4.6" pos="ADV" rend="verse">eo</w>
-                <w lemma="quod2" msd="Gend=Neut" n="4.6" pos="CONsub" rend="verse">quod</w>
+                <w lemma="quod1" msd="Gend=Neut" n="4.6" pos="PROrel" rend="verse">quod</w>
                 <w lemma="non" msd="MORPH=empty" n="4.6" pos="ADVneg" rend="verse">non</w>
                 <w lemma="habeo" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3" n="4.6" pos="VER" rend="verse">habuerit</w>
                 <w lemma="scientia" msd="Case=Acc|Numb=Sing" n="4.6" pos="NOMcom" rend="verse">scientiam</w>
@@ -1098,7 +1106,7 @@
                 <w lemma="super2" msd="MORPH=empty" n="4.9" pos="PRE" rend="verse">super</w>
                 <w lemma="is" msd="Case=Acc|Numb=Sing|Gend=Masc" n="4.9" pos="PROdem" rend="verse">eum</w>
                 <w lemma="uia" msd="Case=Acc|Numb=Plur" n="4.9" pos="NOMcom" rend="verse">vias</w>
-                <w lemma="is" msd="Case=Gen|Numb=Sing|Gend=Com" n="4.9" pos="PROdem" rend="verse">eius</w>
+                <w lemma="is" msd="Case=Gen|Numb=Sing|Gend=Masc" n="4.9" pos="PROdem" rend="verse">eius</w>
                 <w lemma="et2" msd="MORPH=empty" n="4.9" pos="CONcoo" rend="verse">et</w>
                 <w lemma="cogitatio" msd="Case=Acc|Numb=Plur" n="4.9" pos="NOMcom" rend="verse">cogitationes</w>
                 <w lemma="is" msd="Case=Gen|Numb=Sing|Gend=Masc" n="4.9" pos="PROdem" rend="verse">eius</w>
@@ -1121,7 +1129,7 @@
                 <w lemma="relinquo" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3" n="4.10" pos="VER" rend="verse">reliquerunt</w>
                 <w lemma="in" msd="MORPH=empty" n="4.10" pos="PRE" rend="verse">in</w>
                 <w lemma="non" msd="MORPH=empty" n="4.10" pos="ADVneg" rend="verse">non</w>
-                <w lemma="custodio" msd="Case=Abl|Numb=Sing|Mood=Ger|Voice=Act" n="4.10" pos="VER" rend="verse">custodiendo</w>
+                <w lemma="custodio" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Ger|Voice=Act" n="4.10" pos="VER" rend="verse">custodiendo</w>
                 </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:4.11" type="verse">
                 <w lemma="fornicatio" msd="Case=Nom|Numb=Sing" n="4.11" pos="NOMcom" rend="verse">fornicatio</w>
@@ -1230,13 +1238,13 @@
                 <w lemma="nolo" msd="Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2" n="4.15" pos="VER" rend="verse">nolite</w>
                 <w lemma="ingredior" msd="Mood=Inf|Tense=Pres|Voice=Dep" n="4.15" pos="VER" rend="verse">ingredi</w>
                 <w lemma="in" msd="MORPH=empty" n="4.15" pos="PRE" rend="verse">in</w>
-                <w lemma="galgalum" msd="Case=Acc|Numb=Sing" n="4.15" pos="NOMcom" rend="verse">Galgala</w>
+                <w lemma="galgala" msd="Case=Abl|Numb=Sing" n="4.15" pos="NOMcom" rend="verse">Galgala</w>
                 <w lemma="et2" msd="MORPH=empty" n="4.15" pos="CONcoo" rend="verse">et</w>
                 <w lemma="ne3" msd="MORPH=empty" n="4.15" pos="ADVneg" rend="verse">ne</w>
                 <w lemma="ascendo" msd="Numb=Plur|Mood=Sub|Tense=Perf|Voice=Act|Person=2" n="4.15" pos="VER" rend="verse">ascenderitis</w>
                 <w lemma="in" msd="MORPH=empty" n="4.15" pos="PRE" rend="verse">in</w>
                 <w lemma="bethaue" msd="Case=Acc|Numb=Sing" n="4.15" pos="NOMcom" rend="verse">Bethaven</w>
-                <w lemma="neque" msd="MORPH=empty" n="4.15" pos="ADVneg" rend="verse">neque</w>
+                <w lemma="neque" msd="MORPH=empty" n="4.15" pos="CONcoo" rend="verse">neque</w>
                 <w lemma="iuro" msd="Numb=Plur|Mood=Sub|Tense=Perf|Voice=Act|Person=2" n="4.15" pos="VER" rend="verse">iuraveritis</w>
                 <w lemma="uiuo" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="4.15" pos="VER" rend="verse">vivit</w>
                 <w lemma="dominus" msd="Case=Nom|Numb=Sing" n="4.15" pos="NOMcom" rend="verse">Dominus</w>
@@ -1291,16 +1299,18 @@
                 <w lemma="sacrificium" msd="Case=Abl|Numb=Plur" n="4.19" pos="NOMcom" rend="verse">sacrificiis</w>
                 <w lemma="suus" msd="Case=Abl|Numb=Plur|Gend=Com" n="4.19" pos="PROpos.ref" rend="verse">suis</w>
                 </ab>
+            <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:5" type="chapter">
+                </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:5.1" type="verse">
                 <w lemma="audio" msd="Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2" n="5.1" pos="VER" rend="verse">audite</w>
                 <w lemma="hic1" msd="Case=Acc|Numb=Sing|Gend=Neut" n="5.1" pos="PROdem" rend="verse">hoc</w>
                 <w lemma="sacerdos" msd="Case=Acc|Numb=Plur" n="5.1" pos="NOMcom" rend="verse">sacerdotes</w>
                 <w lemma="et2" msd="MORPH=empty" n="5.1" pos="CONcoo" rend="verse">et</w>
                 <w lemma="attendo" msd="Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2" n="5.1" pos="VER" rend="verse">adtendite</w>
-                <w lemma="domus" msd="Case=Nom|Numb=Sing" n="5.1" pos="NOMcom" rend="verse">domus</w>
-                <w lemma="Israel" msd="Case=Ind" n="5.1" pos="NOMcom" rend="verse">Israhel</w>
+                <w lemma="domus" msd="Case=Voc|Numb=Sing" n="5.1" pos="NOMcom" rend="verse">domus</w>
+                <w lemma="israel" msd="Case=Ind" n="5.1" pos="NOMcom" rend="verse">Israhel</w>
                 <w lemma="et2" msd="MORPH=empty" n="5.1" pos="CONcoo" rend="verse">et</w>
-                <w lemma="domus" msd="Case=Nom|Numb=Sing" n="5.1" pos="NOMcom" rend="verse">domus</w>
+                <w lemma="domus" msd="Case=Gen|Numb=Sing" n="5.1" pos="NOMcom" rend="verse">domus</w>
                 <w lemma="rex" msd="Case=Gen|Numb=Sing" n="5.1" pos="NOMcom" rend="verse">regis</w>
                 <w lemma="ausculto" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2" n="5.1" pos="VER" rend="verse">auscultate</w>
                 <w lemma="quia" msd="MORPH=empty" n="5.1" pos="CONsub" rend="verse">quia</w>
@@ -1364,7 +1374,7 @@
                 <w lemma="spiritus" msd="Case=Nom|Numb=Sing" n="5.4" pos="NOMcom" rend="verse">spiritus</w>
                 <w lemma="fornicatio" msd="Case=Gen|Numb=Sing" n="5.4" pos="NOMcom" rend="verse">fornicationis</w>
                 <w lemma="in" msd="MORPH=empty" n="5.4" pos="PRE" rend="verse">in</w>
-                <w lemma="medius" msd="Case=Abl|Numb=Sing|Deg=Pos" n="5.4" pos="NOMcom" rend="verse">medio</w>
+                <w lemma="medium" msd="Case=Abl|Numb=Sing" n="5.4" pos="NOMcom" rend="verse">medio</w>
                 <w lemma="is" msd="Case=Gen|Numb=Plur|Gend=MascNeut" n="5.4" pos="PROdem" rend="verse">eorum</w>
                 <w lemma="et2" msd="MORPH=empty" n="5.4" pos="CONcoo" rend="verse">et</w>
                 <w lemma="dominus" msd="Case=Acc|Numb=Sing" n="5.4" pos="NOMcom" rend="verse">Dominum</w>
@@ -1374,13 +1384,13 @@
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:5.5" type="verse">
                 <w lemma="et2" msd="MORPH=empty" n="5.5" pos="CONcoo" rend="verse">et</w>
                 <w lemma="respondeo" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="5.5" pos="VER" rend="verse">respondebit</w>
-                <w lemma="arrogantia" msd="Case=Nom|Numb=Sing" n="5.5" pos="NOMcom" rend="verse">arrogantia</w>
-                <w lemma="israel" msd="Case=Nom" n="5.5" pos="NOMcom" rend="verse">Israhel</w>
+                <w lemma="arrogantia" msd="Case=Abl|Numb=Sing" n="5.5" pos="NOMcom" rend="verse">arrogantia</w>
+                <w lemma="israel" msd="Case=Nom|Numb=Sing" n="5.5" pos="NOMcom" rend="verse">Israhel</w>
                 <w lemma="in" msd="MORPH=empty" n="5.5" pos="PRE" rend="verse">in</w>
                 <w lemma="facies" msd="Case=Abl|Numb=Sing" n="5.5" pos="NOMcom" rend="verse">facie</w>
                 <w lemma="is" msd="Case=Gen|Numb=Sing|Gend=Masc" n="5.5" pos="PROdem" rend="verse">eius</w>
                 <w lemma="et2" msd="MORPH=empty" n="5.5" pos="CONcoo" rend="verse">et</w>
-                <w lemma="Israel" msd="Case=Ind" n="5.5" pos="NOMcom" rend="verse">Israhel</w>
+                <w lemma="israel" msd="Case=Ind" n="5.5" pos="NOMcom" rend="verse">Israhel</w>
                 <w lemma="et2" msd="MORPH=empty" n="5.5" pos="CONcoo" rend="verse">et</w>
                 <w lemma="ephrais" msd="Case=Acc|Numb=Sing" n="5.5" pos="NOMpro" rend="verse">Ephraim</w>
                 <w lemma="ruo" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3" n="5.5" pos="VER" rend="verse">ruent</w>
@@ -1425,7 +1435,7 @@
                 <w lemma="nunc" msd="Deg=Pos" n="5.7" pos="ADV" rend="verse">nunc</w>
                 <w lemma="deuoro" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="5.7" pos="VER" rend="verse">devorabit</w>
                 <w lemma="is" msd="Case=Acc|Numb=Plur|Gend=Masc" n="5.7" pos="PROdem" rend="verse">eos</w>
-                <w lemma="mensa" msd="Case=Acc|Numb=Plur" n="5.7" pos="NOMcom" rend="verse">mensis</w>
+                <w lemma="mensis" msd="Case=Nom|Numb=Plur" n="5.7" pos="NOMcom" rend="verse">mensis</w>
                 <w lemma="cum2" msd="MORPH=empty" n="5.7" pos="PRE" rend="verse">cum</w>
                 <w lemma="pars" msd="Case=Abl|Numb=Plur" n="5.7" pos="NOMcom" rend="verse">partibus</w>
                 <w lemma="suus" msd="Case=Abl|Numb=Plur|Gend=Com" n="5.7" pos="PROpos.ref" rend="verse">suis</w>
@@ -1438,13 +1448,13 @@
                 <w lemma="tuba" msd="Case=Abl|Numb=Sing" n="5.8" pos="NOMcom" rend="verse">tuba</w>
                 <w lemma="in" msd="MORPH=empty" n="5.8" pos="PRE" rend="verse">in</w>
                 <w lemma="rama" msd="Case=Abl|Numb=Sing" n="5.8" pos="NOMcom" rend="verse">Rama</w>
-                <w lemma="ululo" msd="Numb=Plur" n="5.8" pos="VER" rend="verse">ululate</w>
+                <w lemma="ululatus" msd="Numb=Sing" n="5.8" pos="VER" rend="verse">ululate</w>
                 <w lemma="in" msd="MORPH=empty" n="5.8" pos="PRE" rend="verse">in</w>
                 <w lemma="bethaue" msd="Case=Acc|Numb=Sing" n="5.8" pos="NOMcom" rend="verse">Bethaven</w>
                 <w lemma="post2" msd="MORPH=empty" n="5.8" pos="PRE" rend="verse">post</w>
                 <w lemma="tergum" msd="Case=Acc|Numb=Sing" n="5.8" pos="NOMcom" rend="verse">tergum</w>
                 <w lemma="tuus" msd="Case=Acc|Numb=Sing|Gend=Neut" n="5.8" pos="PROpos" rend="verse">tuum</w>
-                <w lemma="beniamine" msd="Numb=Sing|Deg=Pos|Person=1" n="5.8" pos="VER" rend="verse">Beniamin</w>
+                <w lemma="beniamine" msd="Numb=Sing|Deg=Pos" n="5.8" pos="VER" rend="verse">Beniamin</w>
                 </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:5.9" type="verse">
                 <w lemma="ephrais" msd="Case=Acc|Numb=Sing" n="5.9" pos="NOMpro" rend="verse">Ephraim</w>
@@ -1503,16 +1513,16 @@
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:5.13" type="verse">
                 <w lemma="et2" msd="MORPH=empty" n="5.13" pos="CONcoo" rend="verse">et</w>
                 <w lemma="uideo" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3" n="5.13" pos="VER" rend="verse">vidit</w>
-                <w lemma="ephrais" msd="Case=Acc|Numb=Sing" n="5.13" pos="NOMpro" rend="verse">Ephraim</w>
+                <w lemma="Ephraim" msd="Case=Acc|Numb=Sing" n="5.13" pos="NOMpro" rend="verse">Ephraim</w>
                 <w lemma="languor" msd="Case=Acc|Numb=Sing" n="5.13" pos="NOMcom" rend="verse">languorem</w>
                 <w lemma="suus" msd="Case=Acc|Numb=Sing|Gend=MascNeut" n="5.13" pos="PROpos.ref" rend="verse">suum</w>
                 <w lemma="et2" msd="MORPH=empty" n="5.13" pos="CONcoo" rend="verse">et</w>
                 <w lemma="iuda" msd="Case=Nom|Numb=Sing" n="5.13" pos="NOMcom" rend="verse">Iudas</w>
-                <w lemma="uinculum" msd="Case=Nom|Numb=Sing" n="5.13" pos="NOMcom" rend="verse">vinculum</w>
+                <w lemma="uinculum" msd="Case=Acc|Numb=Sing" n="5.13" pos="NOMcom" rend="verse">vinculum</w>
                 <w lemma="suus" msd="Case=Acc|Numb=Sing|Gend=MascNeut" n="5.13" pos="PROpos.ref" rend="verse">suum</w>
                 <w lemma="et2" msd="MORPH=empty" n="5.13" pos="CONcoo" rend="verse">et</w>
                 <w lemma="abeo1" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3" n="5.13" pos="VER" rend="verse">abiit</w>
-                <w lemma="ephrais" msd="Case=Acc|Numb=Sing" n="5.13" pos="NOMpro" rend="verse">Ephraim</w>
+                <w lemma="ephraim" msd="Case=Acc|Numb=Sing" n="5.13" pos="NOMpro" rend="verse">Ephraim</w>
                 <w lemma="ad2" msd="MORPH=empty" n="5.13" pos="PRE" rend="verse">ad</w>
                 <w lemma="assur" msd="Case=Acc|Numb=Sing" n="5.13" pos="VER" rend="verse">Assur</w>
                 <w lemma="et2" msd="MORPH=empty" n="5.13" pos="CONcoo" rend="verse">et</w>
@@ -1537,7 +1547,7 @@
                 <w lemma="quoniam" msd="MORPH=empty" n="5.14" pos="CONsub" rend="verse">quoniam</w>
                 <w lemma="ego" msd="Case=Nom|Numb=Sing" n="5.14" pos="PROper" rend="verse">ego</w>
                 <w lemma="quasi1" msd="MORPH=empty" n="5.14" pos="ADVrel" rend="verse">quasi</w>
-                <w lemma="leaena" msd="Case=Abl|Numb=Sing" n="5.14" pos="NOMcom" rend="verse">leaena</w>
+                <w lemma="leaena" msd="Case=Nom|Numb=Sing" n="5.14" pos="NOMcom" rend="verse">leaena</w>
                 <w lemma="ephrais" msd="Case=Acc|Numb=Sing" n="5.14" pos="NOMpro" rend="verse">Ephraim</w>
                 <w lemma="et2" msd="MORPH=empty" n="5.14" pos="CONcoo" rend="verse">et</w>
                 <w lemma="quasi1" msd="MORPH=empty" n="5.14" pos="ADVrel" rend="verse">quasi</w>
@@ -1569,6 +1579,8 @@
                 <w lemma="quaero" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=2" n="5.15" pos="VER" rend="verse">quaeratis</w>
                 <w lemma="facies" msd="Case=Acc|Numb=Sing" n="5.15" pos="NOMcom" rend="verse">faciem</w>
                 <w lemma="meus" msd="Case=Acc|Numb=Sing|Gend=Fem" n="5.15" pos="PROpos" rend="verse">meam</w>
+                </ab>
+            <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:6" type="chapter">
                 </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:6.1" type="verse">
                 <w lemma="in" msd="MORPH=empty" n="6.1" pos="PRE" rend="verse">in</w>
@@ -1619,7 +1631,7 @@
                 <w lemma="cognosco" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=1" n="6.3" pos="VER" rend="verse">cognoscamus</w>
                 <w lemma="dominus" msd="Case=Acc|Numb=Sing" n="6.3" pos="NOMcom" rend="verse">Dominum</w>
                 <w lemma="quasi1" msd="MORPH=empty" n="6.3" pos="ADVrel" rend="verse">quasi</w>
-                <w lemma="diluculum" msd="Case=Acc|Numb=Sing" n="6.3" pos="NOMcom" rend="verse">diluculum</w>
+                <w lemma="diluculum" msd="Case=Nom|Numb=Sing" n="6.3" pos="NOMcom" rend="verse">diluculum</w>
                 <w lemma="praeparo2" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass" n="6.3" pos="VER" rend="verse">praeparatus</w>
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="6.3" pos="VER" rend="verse">est</w>
                 <w lemma="egressus" msd="Case=Nom|Numb=Sing|Gend=Masc" n="6.3" pos="NOMcom" rend="verse">egressus</w>
@@ -1638,12 +1650,12 @@
                 <w lemma="quis1" msd="Case=Acc|Numb=Sing|Gend=Neut" n="6.4" pos="PROint" rend="verse">quid</w>
                 <w lemma="facio" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1" n="6.4" pos="VER" rend="verse">faciam</w>
                 <w lemma="tu" msd="Case=Dat|Numb=Sing" n="6.4" pos="PROper" rend="verse">tibi</w>
-                <w lemma="ephrais" msd="Case=Acc|Numb=Sing" n="6.4" pos="NOMpro" rend="verse">Ephraim</w>
+                <w lemma="ephraim" msd="Case=Acc|Numb=Sing" n="6.4" pos="NOMpro" rend="verse">Ephraim</w>
                 <w lemma="quis1" msd="Case=Acc|Numb=Sing|Gend=Neut" n="6.4" pos="PROint" rend="verse">quid</w>
-                <w lemma="facio" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1" n="6.4" pos="VER" rend="verse">faciam</w>
+                <w lemma="facio" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1" n="6.4" pos="VER" rend="verse">faciam</w>
                 <w lemma="tu" msd="Case=Dat|Numb=Sing" n="6.4" pos="PROper" rend="verse">tibi</w>
-                <w lemma="iuda" msd="Case=Voc|Numb=Sing" n="6.4" pos="NOMcom" rend="verse">Iuda</w>
-                <w lemma="misericordia" msd="Case=Voc|Numb=Sing" n="6.4" pos="NOMcom" rend="verse">misericordia</w>
+                <w lemma="iuda" msd="Case=Voc|Numb=Sing" n="6.4" pos="ADJqua" rend="verse">Iuda</w>
+                <w lemma="misericordia" msd="Case=Nom|Numb=Sing" n="6.4" pos="NOMcom" rend="verse">misericordia</w>
                 <w lemma="uester" msd="Case=Nom|Numb=Sing|Gend=Fem" n="6.4" pos="PROpos" rend="verse">vestra</w>
                 <w lemma="quasi1" msd="MORPH=empty" n="6.4" pos="ADVrel" rend="verse">quasi</w>
                 <w lemma="nubes" msd="Case=Nom|Numb=Sing" n="6.4" pos="NOMcom" rend="verse">nubes</w>
@@ -1664,14 +1676,14 @@
                 <w lemma="is" msd="Case=Acc|Numb=Plur|Gend=Masc" n="6.5" pos="PROdem" rend="verse">eos</w>
                 <w lemma="in" msd="MORPH=empty" n="6.5" pos="PRE" rend="verse">in</w>
                 <w lemma="uerbum" msd="Case=Abl|Numb=Plur" n="6.5" pos="NOMcom" rend="verse">verbis</w>
-                <w lemma="os?" msd="Case=Gen|Numb=Plur" n="6.5" pos="NOMcom" rend="verse">oris</w>
-                <w lemma="meus" msd="Case=Gen|Numb=Sing|Gend=MascNeut" n="6.5" pos="PROpos" rend="verse">mei</w>
+                <w lemma="os1" msd="Case=Gen|Numb=Plur" n="6.5" pos="NOMcom" rend="verse">oris</w>
+                <w lemma="meus" msd="Case=Gen|Numb=Sing|Gend=Masc" n="6.5" pos="PROpos" rend="verse">mei</w>
                 <w lemma="et2" msd="MORPH=empty" n="6.5" pos="CONcoo" rend="verse">et</w>
                 <w lemma="iudicium" msd="Case=Acc|Numb=Plur" n="6.5" pos="NOMcom" rend="verse">iudicia</w>
                 <w lemma="tuus" msd="Case=Acc|Numb=Plur|Gend=Neut" n="6.5" pos="PROpos" rend="verse">tua</w>
                 <w lemma="quasi1" msd="MORPH=empty" n="6.5" pos="ADVrel" rend="verse">quasi</w>
                 <w lemma="lux" msd="Case=Nom|Numb=Sing" n="6.5" pos="NOMcom" rend="verse">lux</w>
-                <w lemma="egredior" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Dep|Person=3" n="6.5" pos="VER" rend="verse">egredientur</w>
+                <w lemma="egredior" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Dep|Person=3" n="6.5" pos="VER" rend="verse">egredientur</w>
                 </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:6.6" type="verse">
                 <w lemma="quia" msd="MORPH=empty" n="6.6" pos="CONsub" rend="verse">quia</w>
@@ -1696,13 +1708,14 @@
                 <w lemma="sum1" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="6.7" pos="VER" rend="verse">sunt</w>
                 <w lemma="pactum" msd="Case=Nom|Numb=Sing" n="6.7" pos="NOMcom" rend="verse">pactum</w>
                 <w lemma="ibi" msd="Deg=Pos" n="6.7" pos="ADV" rend="verse">ibi</w>
-                <w lemma="praeuarico" msd="Case=Nom|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass" n="6.7" pos="VER" rend="verse">praevaricati</w>
+                <w lemma="praeuaricor" msd="Case=Nom|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass" n="6.7" pos="VER" rend="verse">praevaricati</w>
                 <w lemma="sum1" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="6.7" pos="VER" rend="verse">sunt</w>
                 <w lemma="in" msd="MORPH=empty" n="6.7" pos="PRE" rend="verse">in</w>
-                <w lemma="ego" msd="Case=Abl|Numb=Sing" n="6.7" pos="PROper" rend="verse">me</w>
+                <w lemma="ego" msd="Case=Acc|Numb=Sing" n="6.7" pos="PROper" rend="verse">me</w>
                 </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:6.8" type="verse">
                 <w lemma="galaa" msd="Case=Nom|Numb=Sing" n="6.8" pos="NOMcom" rend="verse">Galaad</w>
+                <w lemma="ne2" msd="MORPH=empty" n="6.8" pos="ADV" rend="verse">{Galaad}</w>
                 <w lemma="ciuitas" msd="Case=Nom|Numb=Sing" n="6.8" pos="NOMcom" rend="verse">civitas</w>
                 <w lemma="operor" msd="Case=Gen|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act" n="6.8" pos="VER" rend="verse">operantium</w>
                 <w lemma="idolum" msd="Case=Acc|Numb=Sing" n="6.8" pos="NOMcom" rend="verse">idolum</w>
@@ -1744,15 +1757,17 @@
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:6.11" type="verse">
                 <w lemma="sed" msd="MORPH=empty" n="6.11" pos="CONcoo" rend="verse">sed</w>
                 <w lemma="et2" msd="Deg=Pos" n="6.11" pos="CONcoo" rend="verse">et</w>
-                <w lemma="iuda" msd="Case=Nom|Numb=Sing" n="6.11" pos="NOMcom" rend="verse">Iuda</w>
+                <w lemma="iuda" msd="Case=Abl|Numb=Sing" n="6.11" pos="NOMcom" rend="verse">Iuda</w>
                 <w lemma="pono" msd="Mood=Imp|Tense=Pres|Voice=Act|Person=2" n="6.11" pos="VER" rend="verse">pone</w>
                 <w lemma="messis" msd="Case=Acc|Numb=Sing" n="6.11" pos="NOMcom" rend="verse">messem</w>
                 <w lemma="tu" msd="Case=Dat|Numb=Sing" n="6.11" pos="PROper" rend="verse">tibi</w>
-                <w lemma="cum3" msd="MORPH=empty" n="6.11" pos="CONsub" rend="verse">cum</w>
+                <w lemma="cum2" msd="MORPH=empty" n="6.11" pos="PRE" rend="verse">cum</w>
                 <w lemma="conuerto" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=1" n="6.11" pos="VER" rend="verse">convertero</w>
                 <w lemma="captiuitas" msd="Case=Acc|Numb=Sing" n="6.11" pos="NOMcom" rend="verse">captivitatem</w>
                 <w lemma="populus1" msd="Case=Gen|Numb=Sing" n="6.11" pos="NOMcom" rend="verse">populi</w>
                 <w lemma="meus" msd="Case=Gen|Numb=Sing|Gend=MascNeut" n="6.11" pos="PROpos" rend="verse">mei</w>
+                </ab>
+            <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:7" type="chapter">
                 </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:7.1" type="verse">
                 <w lemma="cum3" msd="MORPH=empty" n="7.1" pos="CONsub" rend="verse">cum</w>
@@ -1765,7 +1780,7 @@
                 <w lemma="ephrais" msd="Case=Nom|Numb=Sing" n="7.1" pos="ADJqua" rend="verse">Ephraim</w>
                 <w lemma="et2" msd="MORPH=empty" n="7.1" pos="CONcoo" rend="verse">et</w>
                 <w lemma="malitia" msd="Case=Nom|Numb=Sing" n="7.1" pos="NOMcom" rend="verse">malitia</w>
-                <w lemma="samaria" msd="Case=Nom|Numb=Sing" n="7.1" pos="ADJqua" rend="verse">Samariae</w>
+                <w lemma="samaria" msd="Case=Nom|Numb=Sing|Gend=Fem" n="7.1" pos="ADJqua" rend="verse">Samariae</w>
                 <w lemma="quia" msd="MORPH=empty" n="7.1" pos="CONsub" rend="verse">quia</w>
                 <w lemma="operor" msd="Case=Nom|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass" n="7.1" pos="VER" rend="verse">operati</w>
                 <w lemma="sum1" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="7.1" pos="VER" rend="verse">sunt</w>
@@ -1790,7 +1805,7 @@
                 <w lemma="malitia" msd="Case=Acc|Numb=Sing" n="7.2" pos="NOMcom" rend="verse">malitiam</w>
                 <w lemma="is" msd="Case=Gen|Numb=Plur|Gend=MascNeut" n="7.2" pos="PROdem" rend="verse">eorum</w>
                 <w lemma="ego" msd="Case=Acc|Numb=Sing" n="7.2" pos="PROper" rend="verse">me</w>
-                <w lemma="recordor" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Dep" n="7.2" pos="VER" rend="verse">recordatum</w>
+                <w lemma="recordor" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass" n="7.2" pos="VER" rend="verse">recordatum</w>
                 <w lemma="nunc" msd="Deg=Pos" n="7.2" pos="ADV" rend="verse">nunc</w>
                 <w lemma="circumdo" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3" n="7.2" pos="VER" rend="verse">circumdederunt</w>
                 <w lemma="is" msd="Case=Acc|Numb=Plur|Gend=Masc" n="7.2" pos="PROdem" rend="verse">eos</w>
@@ -1835,7 +1850,7 @@
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:7.5" type="verse">
                 <w lemma="dies" msd="Case=Nom|Numb=Plur" n="7.5" pos="NOMcom" rend="verse">dies</w>
                 <w lemma="rex" msd="Case=Gen|Numb=Sing" n="7.5" pos="NOMcom" rend="verse">regis</w>
-                <w lemma="noster" msd="Case=Nom|Numb=Plur|Gend=Masc" n="7.5" pos="PROpos" rend="verse">nostri</w>
+                <w lemma="nostri" msd="Case=Nom|Numb=Plur|Gend=Masc" n="7.5" pos="PROpos" rend="verse">nostri</w>
                 <w lemma="coepio" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3" n="7.5" pos="VER" rend="verse">coeperunt</w>
                 <w lemma="princeps1" msd="Case=Acc|Numb=Plur" n="7.5" pos="NOMcom" rend="verse">principes</w>
                 <w lemma="furo" msd="Mood=Inf|Tense=Pres|Voice=Act" n="7.5" pos="VER" rend="verse">furere</w>
@@ -1908,15 +1923,15 @@
                 </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:7.9" type="verse">
                 <w lemma="comedo2" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3" n="7.9" pos="VER" rend="verse">comederunt</w>
-                <w lemma="alienus2" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos" n="7.9" pos="ADJqua" rend="verse">alieni</w>
+                <w lemma="alienus2" msd="Case=Nom|Numb=Sing|Deg=Pos" n="7.9" pos="ADJqua" rend="verse">alieni</w>
                 <w lemma="robur" msd="Case=Nom|Numb=Sing" n="7.9" pos="NOMcom" rend="verse">robur</w>
-                <w lemma="is" msd="Case=Gen|Numb=Sing|Gend=Masc" n="7.9" pos="PROdem" rend="verse">eius</w>
+                <w lemma="is" msd="Case=Gen|Numb=Sing|Gend=Com" n="7.9" pos="PROdem" rend="verse">eius</w>
                 <w lemma="et2" msd="MORPH=empty" n="7.9" pos="CONcoo" rend="verse">et</w>
                 <w lemma="ipse" msd="Case=Nom|Numb=Sing|Gend=Masc" n="7.9" pos="PROdem" rend="verse">ipse</w>
                 <w lemma="nescio" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3" n="7.9" pos="VER" rend="verse">nescivit</w>
                 <w lemma="sed" msd="MORPH=empty" n="7.9" pos="CONcoo" rend="verse">sed</w>
                 <w lemma="et2" msd="MORPH=empty" n="7.9" pos="CONcoo" rend="verse">et</w>
-                <w lemma="canus" msd="Case=Nom|Numb=Sing|Gend=Masc" n="7.9" pos="NOMcom" rend="verse">cani</w>
+                <w lemma="canis" msd="Case=Nom|Numb=Sing|Gend=Masc" n="7.9" pos="ADJqua" rend="verse">cani</w>
                 <w lemma="effundo2" msd="Case=Nom|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass" n="7.9" pos="VER" rend="verse">effusi</w>
                 <w lemma="sum1" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="7.9" pos="VER" rend="verse">sunt</w>
                 <w lemma="in" msd="MORPH=empty" n="7.9" pos="PRE" rend="verse">in</w>
@@ -1978,13 +1993,13 @@
                 <w lemma="quasi1" msd="MORPH=empty" n="7.12" pos="ADVrel" rend="verse">quasi</w>
                 <w lemma="uolucer" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos" n="7.12" pos="ADJqua" rend="verse">volucrem</w>
                 <w lemma="caelum1" msd="Case=Gen|Numb=Sing" n="7.12" pos="NOMcom" rend="verse">caeli</w>
-                <w lemma="detraho" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1" n="7.12" pos="VER" rend="verse">detraham</w>
+                <w lemma="detraho" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1" n="7.12" pos="VER" rend="verse">detraham</w>
                 <w lemma="is" msd="Case=Acc|Numb=Plur|Gend=Masc" n="7.12" pos="PROdem" rend="verse">eos</w>
                 <w lemma="caedo" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1" n="7.12" pos="VER" rend="verse">caedam</w>
                 <w lemma="is" msd="Case=Acc|Numb=Plur|Gend=Masc" n="7.12" pos="PROdem" rend="verse">eos</w>
                 <w lemma="secundum2" msd="MORPH=empty" n="7.12" pos="PRE" rend="verse">secundum</w>
                 <w lemma="auditio" msd="Case=Acc|Numb=Sing" n="7.12" pos="NOMcom" rend="verse">auditionem</w>
-                <w lemma="coetus" msd="Case=Acc|Numb=Plur" n="7.12" pos="NOMcom" rend="verse">coetus</w>
+                <w lemma="coetus" msd="Case=Nom|Numb=Plur" n="7.12" pos="NOMcom" rend="verse">coetus</w>
                 <w lemma="is" msd="Case=Gen|Numb=Plur|Gend=MascNeut" n="7.12" pos="PROdem" rend="verse">eorum</w>
                 </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:7.13" type="verse">
@@ -2002,7 +2017,7 @@
                 <w lemma="ego" msd="Case=Acc|Numb=Sing" n="7.13" pos="PROper" rend="verse">me</w>
                 <w lemma="et2" msd="MORPH=empty" n="7.13" pos="CONcoo" rend="verse">et</w>
                 <w lemma="ego" msd="Case=Nom|Numb=Sing" n="7.13" pos="PROper" rend="verse">ego</w>
-                <w lemma="redimo" msd="Mood=Inf|Tense=Pres|Voice=Pass|Person=1" n="7.13" pos="VER" rend="verse">redemi</w>
+                <w lemma="redimo" msd="Numb=Sing|Mood=Inf|Tense=Pres|Voice=Pass|Person=1" n="7.13" pos="VER" rend="verse">redemi</w>
                 <w lemma="is" msd="Case=Acc|Numb=Plur|Gend=Masc" n="7.13" pos="PROdem" rend="verse">eos</w>
                 <w lemma="et2" msd="MORPH=empty" n="7.13" pos="CONcoo" rend="verse">et</w>
                 <w lemma="ipse" msd="Case=Nom|Numb=Plur|Gend=Masc" n="7.13" pos="PROdem" rend="verse">ipsi</w>
@@ -2040,12 +2055,12 @@
                 <w lemma="ego" msd="Case=Nom|Numb=Sing" n="7.15" pos="PROper" rend="verse">ego</w>
                 <w lemma="erudio" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1" n="7.15" pos="VER" rend="verse">erudivi</w>
                 <w lemma="et2" msd="MORPH=empty" n="7.15" pos="CONcoo" rend="verse">et</w>
-                <w lemma="conforto" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1" n="7.15" pos="VER" rend="verse">confortavi</w>
+                <w lemma="conforto" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=1" n="7.15" pos="VER" rend="verse">confortavi</w>
                 <w lemma="brachium" msd="Case=Acc|Numb=Plur" n="7.15" pos="NOMcom" rend="verse">brachia</w>
                 <w lemma="is" msd="Case=Gen|Numb=Plur|Gend=Masc" n="7.15" pos="PROdem" rend="verse">eorum</w>
                 <w lemma="et2" msd="MORPH=empty" n="7.15" pos="CONcoo" rend="verse">et</w>
                 <w lemma="in" msd="MORPH=empty" n="7.15" pos="PRE" rend="verse">in</w>
-                <w lemma="ego" msd="Case=Acc|Numb=Sing" n="7.15" pos="PROper" rend="verse">me</w>
+                <w lemma="ego" msd="Case=Abl|Numb=Sing" n="7.15" pos="PROper" rend="verse">me</w>
                 <w lemma="cogito" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3" n="7.15" pos="VER" rend="verse">cogitaverunt</w>
                 <w lemma="malitia" msd="Case=Acc|Numb=Sing" n="7.15" pos="NOMcom" rend="verse">malitiam</w>
                 </ab>
@@ -2076,6 +2091,8 @@
                 <w lemma="in" msd="MORPH=empty" n="7.16" pos="PRE" rend="verse">in</w>
                 <w lemma="terra" msd="Case=Abl|Numb=Sing" n="7.16" pos="NOMcom" rend="verse">terra</w>
                 <w lemma="aegyptus" msd="Case=Gen|Numb=Sing" n="7.16" pos="NOMcom" rend="verse">Aegypti</w>
+                </ab>
+            <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:8" type="chapter">
                 </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:8.1" type="verse">
                 <w lemma="in" msd="MORPH=empty" n="8.1" pos="PRE" rend="verse">in</w>
@@ -2112,8 +2129,8 @@
                 </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:8.3" type="verse">
                 <w lemma="proicio" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3" n="8.3" pos="VER" rend="verse">proiecit</w>
-                <w lemma="israel" msd="Case=Acc|Numb=Sing" n="8.3" pos="NOMcom" rend="verse">Israhel</w>
-                <w lemma="bonus" msd="Case=Acc|Numb=Sing|Deg=Pos" n="8.3" pos="ADJqua" rend="verse">bonum</w>
+                <w lemma="israel" msd="Case=Acc" n="8.3" pos="NOMcom" rend="verse">Israhel</w>
+                <w lemma="bonus" msd="Case=Acc|Numb=Sing" n="8.3" pos="NOMcom" rend="verse">bonum</w>
                 <w lemma="inimicus1" msd="Case=Nom|Numb=Sing" n="8.3" pos="NOMcom" rend="verse">inimicus</w>
                 <w lemma="persequor" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Dep|Person=3" n="8.3" pos="VER" rend="verse">persequetur</w>
                 <w lemma="is" msd="Case=Acc|Numb=Sing|Gend=Masc" n="8.3" pos="PROdem" rend="verse">eum</w>
@@ -2178,11 +2195,11 @@
                 <w lemma="tela" msd="Case=Acc|Numb=Plur" n="8.6" pos="NOMcom" rend="verse">telas</w>
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="8.6" pos="VER" rend="verse">erit</w>
                 <w lemma="uitulus" msd="Case=Nom|Numb=Sing" n="8.6" pos="NOMcom" rend="verse">vitulus</w>
-                <w lemma="samaria" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos" n="8.6" pos="ADJqua" rend="verse">Samariae</w>
+                <w lemma="samaria" msd="Case=Nom|Numb=Plur|Gend=Fem|Deg=Pos" n="8.6" pos="ADJqua" rend="verse">Samariae</w>
                 </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:8.7" type="verse">
                 <w lemma="quia" msd="MORPH=empty" n="8.7" pos="CONsub" rend="verse">quia</w>
-                <w lemma="uentus" msd="Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass" n="8.7" pos="VER" rend="verse">ventum</w>
+                <w lemma="uentus" msd="Case=Acc|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass" n="8.7" pos="VER" rend="verse">ventum</w>
                 <w lemma="semino" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="8.7" pos="VER" rend="verse">seminabunt</w>
                 <w lemma="et2" msd="MORPH=empty" n="8.7" pos="CONcoo" rend="verse">et</w>
                 <w lemma="turbo1" msd="Case=Acc|Numb=Sing" n="8.7" pos="NOMcom" rend="verse">turbinem</w>
@@ -2243,7 +2260,7 @@
                 <w lemma="congrego" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1" n="8.10" pos="VER" rend="verse">congregabo</w>
                 <w lemma="is" msd="Case=Acc|Numb=Plur|Gend=Masc" n="8.10" pos="PROdem" rend="verse">eos</w>
                 <w lemma="et2" msd="MORPH=empty" n="8.10" pos="CONcoo" rend="verse">et</w>
-                <w lemma="quiesco" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="8.10" pos="VER" rend="verse">quiescent</w>
+                <w lemma="quiesco" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="8.10" pos="VER" rend="verse">quiescent</w>
                 <w lemma="paulisper" msd="Deg=Pos" n="8.10" pos="ADV" rend="verse">paulisper</w>
                 <w lemma="ab" msd="MORPH=empty" n="8.10" pos="PRE" rend="verse">ab</w>
                 <w lemma="onus" msd="Case=Abl|Numb=Sing" n="8.10" pos="NOMcom" rend="verse">onere</w>
@@ -2255,7 +2272,7 @@
                 <w lemma="quia" msd="MORPH=empty" n="8.11" pos="CONsub" rend="verse">quia</w>
                 <w lemma="multiplico" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3" n="8.11" pos="VER" rend="verse">multiplicavit</w>
                 <w lemma="Ephraim" msd="Case=Acc|Numb=Sing" n="8.11" pos="NOMpro" rend="verse">Ephraim</w>
-                <w lemma="altar" msd="Case=Acc|Numb=Plur" n="8.11" pos="NOMcom" rend="verse">altaria</w>
+                <w lemma="altar" msd="Case=Nom|Numb=Plur" n="8.11" pos="NOMcom" rend="verse">altaria</w>
                 <w lemma="ad2" msd="MORPH=empty" n="8.11" pos="PRE" rend="verse">ad</w>
                 <w lemma="pecco" msd="Case=Acc|Numb=Sing|Mood=Ger|Voice=Act" n="8.11" pos="VER" rend="verse">peccandum</w>
                 <w lemma="facio" msd="Case=Nom|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass" n="8.11" pos="VER" rend="verse">factae</w>
@@ -2328,6 +2345,8 @@
                 <w lemma="aedes" msd="Case=Acc|Numb=Plur" n="8.14" pos="NOMcom" rend="verse">aedes</w>
                 <w lemma="ille" msd="Case=Gen|Numb=Sing|Gend=Com" n="8.14" pos="PROdem" rend="verse">illius</w>
                 </ab>
+            <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:9" type="chapter">
+                </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:9.1" type="verse">
                 <w lemma="nolo" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2" n="9.1" pos="VER" rend="verse">noli</w>
                 <w lemma="laetor" msd="Mood=Inf|Tense=Pres|Voice=Dep" n="9.1" pos="VER" rend="verse">laetari</w>
@@ -2358,7 +2377,7 @@
                 <w lemma="is" msd="Case=Acc|Numb=Plur|Gend=Masc" n="9.2" pos="PROdem" rend="verse">eos</w>
                 <w lemma="et2" msd="MORPH=empty" n="9.2" pos="CONcoo" rend="verse">et</w>
                 <w lemma="uinum" msd="Case=Acc|Numb=Sing" n="9.2" pos="NOMcom" rend="verse">vinum</w>
-                <w lemma="mentior" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Dep|Person=3" n="9.2" pos="VER" rend="verse">mentietur</w>
+                <w lemma="mentior" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3" n="9.2" pos="VER" rend="verse">mentietur</w>
                 <w lemma="is" msd="Case=Dat|Numb=Plur|Gend=Masc" n="9.2" pos="PROdem" rend="verse">eis</w>
                 </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:9.3" type="verse">
@@ -2374,7 +2393,7 @@
                 <w lemma="et2" msd="MORPH=empty" n="9.3" pos="CONcoo" rend="verse">et</w>
                 <w lemma="in" msd="MORPH=empty" n="9.3" pos="PRE" rend="verse">in</w>
                 <w lemma="assyrium" msd="Case=Abl|Numb=Plur" n="9.3" pos="NOMcom" rend="verse">Assyriis</w>
-                <w lemma="polluo" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass" n="9.3" pos="VER" rend="verse">pollutum</w>
+                <w lemma="polluo" msd="Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass" n="9.3" pos="VER" rend="verse">pollutum</w>
                 <w lemma="comedo2" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="9.3" pos="VER" rend="verse">comedit</w>
                 </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:9.4" type="verse">
@@ -2431,7 +2450,7 @@
                 <w lemma="mempha" msd="Case=Abl|Numb=Plur" n="9.6" pos="NOMcom" rend="verse">Memphis</w>
                 <w lemma="sepelio" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="9.6" pos="VER" rend="verse">sepeliet</w>
                 <w lemma="is" msd="Case=Acc|Numb=Plur|Gend=Masc" n="9.6" pos="PROdem" rend="verse">eos</w>
-                <w lemma="desiderabilis" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos" n="9.6" pos="ADJqua" rend="verse">desiderabile</w>
+                <w lemma="desiderabilis" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos" n="9.6" pos="ADJqua" rend="verse">desiderabile</w>
                 <w lemma="argentum" msd="Case=Gen|Numb=Sing" n="9.6" pos="NOMcom" rend="verse">argenti</w>
                 <w lemma="is" msd="Case=Gen|Numb=Plur|Gend=MascNeut" n="9.6" pos="PROdem" rend="verse">eorum</w>
                 <w lemma="urtica" msd="Case=Nom|Numb=Sing" n="9.6" pos="NOMcom" rend="verse">urtica</w>
@@ -2503,9 +2522,9 @@
                 <w lemma="in" msd="MORPH=empty" n="9.10" pos="PRE" rend="verse">in</w>
                 <w lemma="desertum" msd="Case=Abl|Numb=Sing" n="9.10" pos="NOMcom" rend="verse">deserto</w>
                 <w lemma="inuenio" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1" n="9.10" pos="VER" rend="verse">inveni</w>
-                <w lemma="israel" msd="Case=Acc" n="9.10" pos="NOMcom" rend="verse">Israhel</w>
+                <w lemma="israel" msd="Case=Acc|Numb=Sing" n="9.10" pos="NOMcom" rend="verse">Israhel</w>
                 <w lemma="quasi1" msd="MORPH=empty" n="9.10" pos="ADVrel" rend="verse">quasi</w>
-                <w lemma="primus" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Sup" n="9.10" pos="ADJord" rend="verse">prima</w>
+                <w lemma="primus" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Sup" n="9.10" pos="ADJord" rend="verse">prima</w>
                 <w lemma="pomum" msd="Case=Acc|Numb=Plur" n="9.10" pos="NOMcom" rend="verse">poma</w>
                 <w lemma="ficulneus" msd="Case=Gen|Numb=Plur|Gend=Fem|Deg=Pos" n="9.10" pos="ADJqua" rend="verse">ficulneae</w>
                 <w lemma="in" msd="MORPH=empty" n="9.10" pos="PRE" rend="verse">in</w>
@@ -2529,7 +2548,7 @@
                 <w lemma="sum1" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="9.10" pos="VER" rend="verse">sunt</w>
                 <w lemma="abominabilis" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Pos" n="9.10" pos="ADJqua" rend="verse">abominabiles</w>
                 <w lemma="sicut1" msd="MORPH=empty" n="9.10" pos="ADVrel" rend="verse">sicut</w>
-                <w lemma="is" msd="Case=Nom|Numb=Plur|Gend=Neut" n="9.10" pos="PROdem" rend="verse">ea</w>
+                <w lemma="is" msd="Case=Acc|Numb=Plur|Gend=Neut" n="9.10" pos="PROdem" rend="verse">ea</w>
                 <w lemma="qui1" msd="Case=Nom|Numb=Plur|Gend=Neut" n="9.10" pos="PROrel" rend="verse">quae</w>
                 <w lemma="diligo3" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3" n="9.10" pos="VER" rend="verse">dilexerunt</w>
                 </ab>
@@ -2553,7 +2572,7 @@
                 <w lemma="quod2" msd="MORPH=empty" n="9.12" pos="CONsub" rend="verse">quod</w>
                 <w lemma="si2" msd="MORPH=empty" n="9.12" pos="CONsub" rend="verse">si</w>
                 <w lemma="et2" msd="MORPH=empty" n="9.12" pos="CONcoo" rend="verse">et</w>
-                <w lemma="enutrio" msd="Numb=Plur|Mood=Ind|Tense=FutAnt|Voice=Act|Person=3" n="9.12" pos="VER" rend="verse">enutrierint</w>
+                <w lemma="enutrio" msd="Numb=Plur|Mood=Sub|Tense=Perf|Voice=Act|Person=3" n="9.12" pos="VER" rend="verse">enutrierint</w>
                 <w lemma="filius" msd="Case=Acc|Numb=Plur" n="9.12" pos="NOMcom" rend="verse">filios</w>
                 <w lemma="suus" msd="Case=Acc|Numb=Plur|Gend=Masc" n="9.12" pos="PROpos.ref" rend="verse">suos</w>
                 <w lemma="absque2" msd="MORPH=empty" n="9.12" pos="PRE" rend="verse">absque</w>
@@ -2577,16 +2596,16 @@
                 <w lemma="uideo" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1" n="9.13" pos="VER" rend="verse">vidi</w>
                 <w lemma="tyrus" msd="Case=Nom|Numb=Sing" n="9.13" pos="NOMcom" rend="verse">Tyrus</w>
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3" n="9.13" pos="VER" rend="verse">erat</w>
-                <w lemma="fundo1" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass" n="9.13" pos="VER" rend="verse">fundata</w>
+                <w lemma="fundo2" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass" n="9.13" pos="VER" rend="verse">fundata</w>
                 <w lemma="in" msd="MORPH=empty" n="9.13" pos="PRE" rend="verse">in</w>
                 <w lemma="pulchritudo" msd="Case=Abl|Numb=Sing" n="9.13" pos="NOMcom" rend="verse">pulchritudine</w>
                 <w lemma="et2" msd="MORPH=empty" n="9.13" pos="CONcoo" rend="verse">et</w>
-                <w lemma="ephrais" msd="Case=Acc|Numb=Sing" n="9.13" pos="NOMpro" rend="verse">Ephraim</w>
+                <w lemma="Ephraim" msd="Case=Acc|Numb=Sing" n="9.13" pos="NOMpro" rend="verse">Ephraim</w>
                 <w lemma="educo2" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="9.13" pos="VER" rend="verse">educit</w>
                 <w lemma="ad2" msd="MORPH=empty" n="9.13" pos="PRE" rend="verse">ad</w>
                 <w lemma="interfector" msd="Case=Acc|Numb=Sing" n="9.13" pos="NOMcom" rend="verse">interfectorem</w>
                 <w lemma="filius" msd="Case=Acc|Numb=Plur" n="9.13" pos="NOMcom" rend="verse">filios</w>
-                <w lemma="sui2" msd="Case=Acc|Numb=Plur|Gend=Masc" n="9.13" pos="PROpos.ref" rend="verse">suos</w>
+                <w lemma="suus" msd="Case=Acc|Numb=Plur|Gend=Masc" n="9.13" pos="PROpos.ref" rend="verse">suos</w>
                 </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:9.14" type="verse">
                 <w lemma="do" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2" n="9.14" pos="VER" rend="verse">da</w>
@@ -2637,7 +2656,7 @@
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:9.16" type="verse">
                 <w lemma="percutio" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass" n="9.16" pos="VER" rend="verse">percussus</w>
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="9.16" pos="VER" rend="verse">est</w>
-                <w lemma="ephraim" msd="Case=Nom|Numb=Sing" n="9.16" pos="NOMpro" rend="verse">Ephraim</w>
+                <w lemma="ephrais" msd="Case=Nom|Numb=Sing" n="9.16" pos="NOMpro" rend="verse">Ephraim</w>
                 <w lemma="radix" msd="Case=Nom|Numb=Sing" n="9.16" pos="NOMcom" rend="verse">radix</w>
                 <w lemma="is" msd="Case=Gen|Numb=Plur|Gend=MascNeut" n="9.16" pos="PROdem" rend="verse">eorum</w>
                 <w lemma="exsicco" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass" n="9.16" pos="VER" rend="verse">exsiccata</w>
@@ -2645,14 +2664,14 @@
                 <w lemma="fructus" msd="Case=Acc|Numb=Sing" n="9.16" pos="NOMcom" rend="verse">fructum</w>
                 <w lemma="nequaquam" msd="MORPH=empty" n="9.16" pos="ADVneg" rend="verse">nequaquam</w>
                 <w lemma="facio" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="9.16" pos="VER" rend="verse">facient</w>
-                <w lemma="quod2" msd="Gend=Neut" n="9.16" pos="CONsub" rend="verse">quod</w>
+                <w lemma="quod2" msd="MORPH=empty" n="9.16" pos="CONsub" rend="verse">quod</w>
                 <w lemma="si2" msd="MORPH=empty" n="9.16" pos="CONsub" rend="verse">si</w>
                 <w lemma="et2" msd="MORPH=empty" n="9.16" pos="CONcoo" rend="verse">et</w>
-                <w lemma="gigno" msd="Numb=Plur|Mood=Sub|Tense=Perf|Voice=Act|Person=3" n="9.16" pos="VER" rend="verse">genuerint</w>
+                <w lemma="gigno" msd="Numb=Plur|Mood=Ind|Tense=FutAnt|Voice=Act|Person=3" n="9.16" pos="VER" rend="verse">genuerint</w>
                 <w lemma="interficio" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1" n="9.16" pos="VER" rend="verse">interficiam</w>
-                <w lemma="amans2" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Sup" n="9.16" pos="ADJqua" rend="verse">amantissima</w>
-                <w lemma="uterus" msd="Numb=Plur" n="9.16" pos="NOMcom" rend="verse">uteri</w>
-                <w lemma="is" msd="Case=Gen|Numb=Plur|Gend=Masc" n="9.16" pos="PROdem" rend="verse">eorum</w>
+                <w lemma="amans2" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Sup" n="9.16" pos="ADJqua" rend="verse">amantissima</w>
+                <w lemma="uterus" msd="Case=Nom|Numb=Sing" n="9.16" pos="NOMcom" rend="verse">uteri</w>
+                <w lemma="is" msd="Case=Gen|Numb=Plur|Gend=MascNeut" n="9.16" pos="PROdem" rend="verse">eorum</w>
                 </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:9.17" type="verse">
                 <w lemma="abicio" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="9.17" pos="VER" rend="verse">abiciet</w>
@@ -2668,6 +2687,8 @@
                 <w lemma="uagus" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos" n="9.17" pos="ADJqua" rend="verse">vagi</w>
                 <w lemma="in" msd="MORPH=empty" n="9.17" pos="PRE" rend="verse">in</w>
                 <w lemma="natio1" msd="Case=Abl|Numb=Plur" n="9.17" pos="NOMcom" rend="verse">nationibus</w>
+                </ab>
+            <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:10" type="chapter">
                 </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:10.1" type="verse">
                 <w lemma="uitis" msd="Case=Nom|Numb=Sing" n="10.1" pos="NOMcom" rend="verse">vitis</w>
@@ -2778,11 +2799,11 @@
                 <w lemma="rex" msd="Case=Dat|Numb=Sing" n="10.6" pos="NOMcom" rend="verse">regi</w>
                 <w lemma="ultor" msd="Case=Dat|Numb=Sing" n="10.6" pos="NOMcom" rend="verse">ultori</w>
                 <w lemma="confusio" msd="Case=Nom|Numb=Sing" n="10.6" pos="NOMcom" rend="verse">confusio</w>
-                <w lemma="ephrais" msd="Case=Acc|Numb=Sing" n="10.6" pos="NOMpro" rend="verse">Ephraim</w>
+                <w lemma="ephrais" msd="Case=Acc|Numb=Sing" n="10.6" pos="NOMcom" rend="verse">Ephraim</w>
                 <w lemma="capio2" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="10.6" pos="VER" rend="verse">capiet</w>
                 <w lemma="et2" msd="MORPH=empty" n="10.6" pos="CONcoo" rend="verse">et</w>
                 <w lemma="confundo2" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3" n="10.6" pos="VER" rend="verse">confundetur</w>
-                <w lemma="israel" msd="Case=Ind" n="10.6" pos="NOMcom" rend="verse">Israhel</w>
+                <w lemma="israel" msd="Case=Acc" n="10.6" pos="NOMcom" rend="verse">Israhel</w>
                 <w lemma="in" msd="MORPH=empty" n="10.6" pos="PRE" rend="verse">in</w>
                 <w lemma="uoluntas" msd="Case=Abl|Numb=Sing" n="10.6" pos="NOMcom" rend="verse">voluntate</w>
                 <w lemma="suus" msd="Case=Abl|Numb=Sing|Gend=Fem" n="10.6" pos="PROpos.ref" rend="verse">sua</w>
@@ -2836,7 +2857,7 @@
                 <w lemma="comprehendo" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="10.9" pos="VER" rend="verse">conprehendet</w>
                 <w lemma="is" msd="Case=Acc|Numb=Plur|Gend=Masc" n="10.9" pos="PROdem" rend="verse">eos</w>
                 <w lemma="in" msd="MORPH=empty" n="10.9" pos="PRE" rend="verse">in</w>
-                <w lemma="gaba" msd="Case=Abl|Numb=Plur" n="10.9" pos="NOMcom" rend="verse">Gabaa</w>
+                <w lemma="gaba" msd="Case=Abl|Numb=Sing" n="10.9" pos="NOMcom" rend="verse">Gabaa</w>
                 <w lemma="proelium" msd="Case=Acc|Numb=Sing" n="10.9" pos="NOMcom" rend="verse">proelium</w>
                 <w lemma="super2" msd="MORPH=empty" n="10.9" pos="PRE" rend="verse">super</w>
                 <w lemma="filius" msd="Case=Acc|Numb=Plur" n="10.9" pos="NOMcom" rend="verse">filios</w>
@@ -2851,7 +2872,7 @@
                 <w lemma="congrego" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Pass|Person=3" n="10.10" pos="VER" rend="verse">congregabuntur</w>
                 <w lemma="super2" msd="MORPH=empty" n="10.10" pos="PRE" rend="verse">super</w>
                 <w lemma="is" msd="Case=Acc|Numb=Plur|Gend=Masc" n="10.10" pos="PROdem" rend="verse">eos</w>
-                <w lemma="populus1" msd="Case=Gen|Numb=Plur" n="10.10" pos="NOMcom" rend="verse">populi</w>
+                <w lemma="populus1" msd="Case=Nom|Numb=Plur" n="10.10" pos="NOMcom" rend="verse">populi</w>
                 <w lemma="cum3" msd="MORPH=empty" n="10.10" pos="CONsub" rend="verse">cum</w>
                 <w lemma="corripio" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Pass|Person=3" n="10.10" pos="VER" rend="verse">corripientur</w>
                 <w lemma="propter2" msd="MORPH=empty" n="10.10" pos="PRE" rend="verse">propter</w>
@@ -2964,6 +2985,8 @@
                 <w lemma="nequitia" msd="Case=Gen|Numb=Plur" n="10.15" pos="NOMcom" rend="verse">nequitiarum</w>
                 <w lemma="uester" msd="Case=Gen|Numb=Plur|Gend=Fem" n="10.15" pos="PROpos" rend="verse">vestrarum</w>
                 </ab>
+            <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:11" type="chapter">
+                </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:11.1" type="verse">
                 <w lemma="sicut1" msd="MORPH=empty" n="11.1" pos="ADVrel" rend="verse">sicuti</w>
                 <w lemma="mane2" msd="Deg=Pos" n="11.1" pos="ADV" rend="verse">mane</w>
@@ -2982,7 +3005,7 @@
                 <w lemma="aegyptus" msd="Case=Abl|Numb=Sing" n="11.1" pos="NOMcom" rend="verse">Aegypto</w>
                 <w lemma="uoco" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1" n="11.1" pos="VER" rend="verse">vocavi</w>
                 <w lemma="filius" msd="Case=Acc|Numb=Sing" n="11.1" pos="NOMcom" rend="verse">filium</w>
-                <w lemma="meus" msd="Case=Acc|Numb=Sing|Gend=Masc" n="11.1" pos="PROpos" rend="verse">meum</w>
+                <w lemma="meus" msd="Case=Acc|Numb=Sing|Gend=MascNeut" n="11.1" pos="PROpos" rend="verse">meum</w>
                 </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:11.2" type="verse">
                 <w lemma="uoco" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3" n="11.2" pos="VER" rend="verse">vocaverunt</w>
@@ -3032,7 +3055,7 @@
                 <w lemma="iugum" msd="Case=Acc|Numb=Sing" n="11.4" pos="NOMcom" rend="verse">iugum</w>
                 <w lemma="super2" msd="MORPH=empty" n="11.4" pos="PRE" rend="verse">super</w>
                 <w lemma="maxilla" msd="Case=Acc|Numb=Plur" n="11.4" pos="NOMcom" rend="verse">maxillas</w>
-                <w lemma="is" msd="Case=Gen|Numb=Plur|Gend=MascNeut" n="11.4" pos="PROdem" rend="verse">eorum</w>
+                <w lemma="is" msd="Case=Gen|Numb=Plur|Gend=Masc" n="11.4" pos="PROdem" rend="verse">eorum</w>
                 <w lemma="et2" msd="MORPH=empty" n="11.4" pos="CONcoo" rend="verse">et</w>
                 <w lemma="declino" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1" n="11.4" pos="VER" rend="verse">declinavi</w>
                 <w lemma="ad2" msd="MORPH=empty" n="11.4" pos="PRE" rend="verse">ad</w>
@@ -3045,9 +3068,9 @@
                 <w lemma="reuertor" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3" n="11.5" pos="VER" rend="verse">revertetur</w>
                 <w lemma="in" msd="MORPH=empty" n="11.5" pos="PRE" rend="verse">in</w>
                 <w lemma="terra" msd="Case=Acc|Numb=Sing" n="11.5" pos="NOMcom" rend="verse">terram</w>
-                <w lemma="aegyptus" msd="Case=Gen|Numb=Sing" n="11.5" pos="NOMcom" rend="verse">Aegypti</w>
+                <w lemma="aegyptum" msd="Case=Gen|Numb=Sing" n="11.5" pos="NOMcom" rend="verse">Aegypti</w>
                 <w lemma="et2" msd="MORPH=empty" n="11.5" pos="CONcoo" rend="verse">et</w>
-                <w lemma="assur" msd="Numb=Sing" n="11.5" pos="VER" rend="verse">Assur</w>
+                <w lemma="assur" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=1" n="11.5" pos="VER" rend="verse">Assur</w>
                 <w lemma="ipse" msd="Case=Nom|Numb=Sing|Gend=Masc" n="11.5" pos="PROdem" rend="verse">ipse</w>
                 <w lemma="rex" msd="Case=Nom|Numb=Sing" n="11.5" pos="NOMcom" rend="verse">rex</w>
                 <w lemma="is" msd="Case=Gen|Numb=Sing|Gend=Masc" n="11.5" pos="PROdem" rend="verse">eius</w>
@@ -3059,16 +3082,16 @@
                 <w lemma="coepio" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3" n="11.6" pos="VER" rend="verse">coepit</w>
                 <w lemma="gladius" msd="Case=Nom|Numb=Sing" n="11.6" pos="NOMcom" rend="verse">gladius</w>
                 <w lemma="in" msd="MORPH=empty" n="11.6" pos="PRE" rend="verse">in</w>
-                <w lemma="ciuitas" msd="Case=Dat|Numb=Plur" n="11.6" pos="NOMcom" rend="verse">civitatibus</w>
+                <w lemma="ciuitas" msd="Case=Abl|Numb=Plur" n="11.6" pos="NOMcom" rend="verse">civitatibus</w>
                 <w lemma="is" msd="Case=Gen|Numb=Sing|Gend=Com" n="11.6" pos="PROdem" rend="verse">eius</w>
                 <w lemma="et2" msd="MORPH=empty" n="11.6" pos="CONcoo" rend="verse">et</w>
                 <w lemma="consumo" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="11.6" pos="VER" rend="verse">consumet</w>
                 <w lemma="eligo3" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass" n="11.6" pos="VER" rend="verse">electos</w>
-                <w lemma="is" msd="Case=Gen|Numb=Sing|Gend=Masc" n="11.6" pos="PROdem" rend="verse">eius</w>
+                <w lemma="is" msd="Case=Gen|Numb=Sing|Gend=Com" n="11.6" pos="PROdem" rend="verse">eius</w>
                 <w lemma="et2" msd="MORPH=empty" n="11.6" pos="CONcoo" rend="verse">et</w>
                 <w lemma="comedo2" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="11.6" pos="VER" rend="verse">comedet</w>
                 <w lemma="caput" msd="Case=Acc|Numb=Plur" n="11.6" pos="NOMcom" rend="verse">capita</w>
-                <w lemma="is" msd="Case=Gen|Numb=Plur|Gend=Masc" n="11.6" pos="PROdem" rend="verse">eorum</w>
+                <w lemma="is" msd="Case=Gen|Numb=Plur|Gend=MascNeut" n="11.6" pos="PROdem" rend="verse">eorum</w>
                 </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:11.7" type="verse">
                 <w lemma="et2" msd="MORPH=empty" n="11.7" pos="CONcoo" rend="verse">et</w>
@@ -3103,7 +3126,7 @@
                 <w lemma="pono" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1" n="11.8" pos="VER" rend="verse">ponam</w>
                 <w lemma="tu" msd="Case=Acc|Numb=Sing" n="11.8" pos="PROper" rend="verse">te</w>
                 <w lemma="ut1" msd="MORPH=empty" n="11.8" pos="ADVrel" rend="verse">ut</w>
-                <w lemma="sebo" msd="Case=Acc|Numb=Sing" n="11.8" pos="NOMcom" rend="verse">Seboim</w>
+                <w lemma="seboim" msd="Case=Acc|Numb=Sing" n="11.8" pos="NOMcom" rend="verse">Seboim</w>
                 <w lemma="conuerto" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass" n="11.8" pos="VER" rend="verse">conversum</w>
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="11.8" pos="VER" rend="verse">est</w>
                 <w lemma="in" msd="MORPH=empty" n="11.8" pos="PRE" rend="verse">in</w>
@@ -3114,7 +3137,7 @@
                 <w lemma="conturbo2" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass" n="11.8" pos="VER" rend="verse">conturbata</w>
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="11.8" pos="VER" rend="verse">est</w>
                 <w lemma="paenitudo" msd="Case=Nom|Numb=Sing" n="11.8" pos="NOMcom" rend="verse">paenitudo</w>
-                <w lemma="meus" msd="Case=Nom|Numb=Sing|Gend=Fem" n="11.8" pos="PROpos" rend="verse">mea</w>
+                <w lemma="meus" msd="Case=Acc|Numb=Sing|Gend=Fem" n="11.8" pos="PROpos" rend="verse">mea</w>
                 </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:11.9" type="verse">
                 <w lemma="non" msd="MORPH=empty" n="11.9" pos="ADVneg" rend="verse">non</w>
@@ -3134,7 +3157,7 @@
                 <w lemma="non" msd="MORPH=empty" n="11.9" pos="ADVneg" rend="verse">non</w>
                 <w lemma="homo" msd="Case=Nom|Numb=Sing" n="11.9" pos="NOMcom" rend="verse">homo</w>
                 <w lemma="in" msd="MORPH=empty" n="11.9" pos="PRE" rend="verse">in</w>
-                <w lemma="medius" msd="Case=Abl|Numb=Sing|Deg=Pos" n="11.9" pos="ADJqua" rend="verse">medio</w>
+                <w lemma="medium" msd="Case=Abl|Numb=Sing|Deg=Pos" n="11.9" pos="NOMcom" rend="verse">medio</w>
                 <w lemma="tu" msd="Case=Gen|Numb=Sing|Gend=MascNeut" n="11.9" pos="PROper" rend="verse">tui</w>
                 <w lemma="sanctus" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos" n="11.9" pos="ADJqua" rend="verse">Sanctus</w>
                 <w lemma="et2" msd="MORPH=empty" n="11.9" pos="CONcoo" rend="verse">et</w>
@@ -3146,7 +3169,7 @@
                 <w lemma="post2" msd="MORPH=empty" n="11.10" pos="PRE" rend="verse">post</w>
                 <w lemma="dominus" msd="Case=Acc|Numb=Sing" n="11.10" pos="NOMcom" rend="verse">Dominum</w>
                 <w lemma="ambulo" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="11.10" pos="VER" rend="verse">ambulabunt</w>
-                <w lemma="quasi2" msd="MORPH=empty" n="11.10" pos="CONsub" rend="verse">quasi</w>
+                <w lemma="quasi1" msd="MORPH=empty" n="11.10" pos="ADVrel" rend="verse">quasi</w>
                 <w lemma="leo" msd="Case=Abl|Numb=Sing" n="11.10" pos="NOMcom" rend="verse">leo</w>
                 <w lemma="rugio" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="11.10" pos="VER" rend="verse">rugiet</w>
                 <w lemma="quia" msd="MORPH=empty" n="11.10" pos="CONsub" rend="verse">quia</w>
@@ -3184,13 +3207,13 @@
                 <w lemma="ego" msd="Case=Acc|Numb=Sing" n="11.12" pos="PROper" rend="verse">me</w>
                 <w lemma="in" msd="MORPH=empty" n="11.12" pos="PRE" rend="verse">in</w>
                 <w lemma="negatio" msd="Case=Abl|Numb=Sing" n="11.12" pos="NOMcom" rend="verse">negatione</w>
-                <w lemma="ephrais" msd="Case=Acc|Numb=Sing" n="11.12" pos="NOMpro" rend="verse">Ephraim</w>
+                <w lemma="Ephraim" msd="Case=Acc|Numb=Sing" n="11.12" pos="NOMpro" rend="verse">Ephraim</w>
                 <w lemma="et2" msd="MORPH=empty" n="11.12" pos="CONcoo" rend="verse">et</w>
                 <w lemma="in" msd="MORPH=empty" n="11.12" pos="PRE" rend="verse">in</w>
                 <w lemma="dolus" msd="Case=Abl|Numb=Sing" n="11.12" pos="NOMcom" rend="verse">dolo</w>
                 <w lemma="domus" msd="Case=Gen|Numb=Sing" n="11.12" pos="NOMcom" rend="verse">domus</w>
                 <w lemma="Israel" msd="Case=Ind" n="11.12" pos="NOMcom" rend="verse">Israhel</w>
-                <w lemma="iuda" msd="Case=Acc|Numb=Sing" n="11.12" pos="NOMcom" rend="verse">Iudas</w>
+                <w lemma="iuda" msd="Case=Nom|Numb=Sing" n="11.12" pos="NOMcom" rend="verse">Iudas</w>
                 <w lemma="autem" msd="MORPH=empty" n="11.12" pos="CONcoo" rend="verse">autem</w>
                 <w lemma="testis1" msd="Case=Nom|Numb=Sing" n="11.12" pos="NOMcom" rend="verse">testis</w>
                 <w lemma="descendo" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3" n="11.12" pos="VER" rend="verse">descendit</w>
@@ -3200,6 +3223,8 @@
                 <w lemma="cum2" msd="MORPH=empty" n="11.12" pos="PRE" rend="verse">cum</w>
                 <w lemma="sanctus" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos" n="11.12" pos="ADJqua" rend="verse">sanctis</w>
                 <w lemma="fidelis2" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos" n="11.12" pos="ADJqua" rend="verse">fidelis</w>
+                </ab>
+            <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:12" type="chapter">
                 </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:12.1" type="verse">
                 <w lemma="ephrais" msd="Case=Acc|Numb=Sing" n="12.1" pos="NOMpro" rend="verse">Ephraim</w>
@@ -3229,12 +3254,12 @@
                 <w lemma="iudicium" msd="Case=Acc|Numb=Sing" n="12.2" pos="NOMcom" rend="verse">iudicium</w>
                 <w lemma="ergo2" msd="MORPH=empty" n="12.2" pos="CONcoo" rend="verse">ergo</w>
                 <w lemma="dominus" msd="Case=Gen|Numb=Sing" n="12.2" pos="NOMcom" rend="verse">Domini</w>
-                <w lemma="cum3" msd="MORPH=empty" n="12.2" pos="CONsub" rend="verse">cum</w>
+                <w lemma="cum2" msd="MORPH=empty" n="12.2" pos="PRE" rend="verse">cum</w>
                 <w lemma="iuda" msd="Case=Abl|Numb=Sing" n="12.2" pos="NOMcom" rend="verse">Iuda</w>
                 <w lemma="et2" msd="MORPH=empty" n="12.2" pos="CONcoo" rend="verse">et</w>
                 <w lemma="uisitatio" msd="Case=Nom|Numb=Sing" n="12.2" pos="NOMcom" rend="verse">visitatio</w>
                 <w lemma="super2" msd="MORPH=empty" n="12.2" pos="PRE" rend="verse">super</w>
-                <w lemma="iacob" msd="Case=Acc|Numb=Sing" n="12.2" pos="NOMpro" rend="verse">Iacob</w>
+                <w lemma="iacob" msd="Case=Ind|Numb=Sing" n="12.2" pos="NOMpro" rend="verse">Iacob</w>
                 <w lemma="iuxta2" msd="MORPH=empty" n="12.2" pos="PRE" rend="verse">iuxta</w>
                 <w lemma="uia" msd="Case=Acc|Numb=Plur" n="12.2" pos="NOMcom" rend="verse">vias</w>
                 <w lemma="is" msd="Case=Gen|Numb=Sing|Gend=Masc" n="12.2" pos="PROdem" rend="verse">eius</w>
@@ -3243,7 +3268,7 @@
                 <w lemma="adinuentio" msd="Case=Acc|Numb=Plur" n="12.2" pos="NOMcom" rend="verse">adinventiones</w>
                 <w lemma="is" msd="Case=Gen|Numb=Sing|Gend=Masc" n="12.2" pos="PROdem" rend="verse">eius</w>
                 <w lemma="reddo" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="12.2" pos="VER" rend="verse">reddet</w>
-                <w lemma="is" msd="Case=Dat|Numb=Sing|Gend=Com" n="12.2" pos="PROdem" rend="verse">ei</w>
+                <w lemma="is" msd="Case=Dat|Numb=Sing|Gend=Masc" n="12.2" pos="PROdem" rend="verse">ei</w>
                 </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:12.3" type="verse">
                 <w lemma="in" msd="MORPH=empty" n="12.3" pos="PRE" rend="verse">in</w>
@@ -3257,7 +3282,7 @@
                 <w lemma="suus" msd="Case=Abl|Numb=Sing|Gend=Fem" n="12.3" pos="PROpos.ref" rend="verse">sua</w>
                 <w lemma="dirigo" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass" n="12.3" pos="VER" rend="verse">directus</w>
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="12.3" pos="VER" rend="verse">est</w>
-                <w lemma="cum2" msd="MORPH=empty" n="12.3" pos="PRE" rend="verse">cum</w>
+                <w lemma="cum3" msd="MORPH=empty" n="12.3" pos="CONsub" rend="verse">cum</w>
                 <w lemma="angelus" msd="Case=Abl|Numb=Sing" n="12.3" pos="NOMcom" rend="verse">angelo</w>
                 </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:12.4" type="verse">
@@ -3289,7 +3314,7 @@
                 <w lemma="deus" msd="Case=Nom|Numb=Sing" n="12.5" pos="NOMcom" rend="verse">Deus</w>
                 <w lemma="exercitus1" msd="Case=Gen|Numb=Plur" n="12.5" pos="NOMcom" rend="verse">exercituum</w>
                 <w lemma="dominus" msd="Case=Nom|Numb=Sing" n="12.5" pos="NOMcom" rend="verse">Dominus</w>
-                <w lemma="memorialis" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos" n="12.5" pos="ADJqua" rend="verse">memoriale</w>
+                <w lemma="memorialis" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos" n="12.5" pos="ADJqua" rend="verse">memoriale</w>
                 <w lemma="is" msd="Case=Gen|Numb=Sing|Gend=Com" n="12.5" pos="PROdem" rend="verse">eius</w>
                 </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:12.6" type="verse">
@@ -3302,9 +3327,9 @@
                 <w lemma="misericordia" msd="Case=Acc|Numb=Sing" n="12.6" pos="NOMcom" rend="verse">misericordiam</w>
                 <w lemma="et2" msd="MORPH=empty" n="12.6" pos="CONcoo" rend="verse">et</w>
                 <w lemma="iudicium" msd="Case=Acc|Numb=Sing" n="12.6" pos="NOMcom" rend="verse">iudicium</w>
-                <w lemma="custos" msd="Case=Dat|Numb=Sing" n="12.6" pos="NOMcom" rend="verse">custodi</w>
+                <w lemma="custodio" msd="Case=Dat|Numb=Sing" n="12.6" pos="VER" rend="verse">custodi</w>
                 <w lemma="et2" msd="MORPH=empty" n="12.6" pos="CONcoo" rend="verse">et</w>
-                <w lemma="spera" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2" n="12.6" pos="VER" rend="verse">spera</w>
+                <w lemma="spero" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2" n="12.6" pos="VER" rend="verse">spera</w>
                 <w lemma="in" msd="MORPH=empty" n="12.6" pos="PRE" rend="verse">in</w>
                 <w lemma="deus" msd="Case=Abl|Numb=Sing" n="12.6" pos="NOMcom" rend="verse">Deo</w>
                 <w lemma="tuus" msd="Case=Abl|Numb=Sing|Gend=MascNeut" n="12.6" pos="PROpos" rend="verse">tuo</w>
@@ -3315,8 +3340,8 @@
                 <w lemma="in" msd="MORPH=empty" n="12.7" pos="PRE" rend="verse">in</w>
                 <w lemma="manus1" msd="Case=Abl|Numb=Sing" n="12.7" pos="NOMcom" rend="verse">manu</w>
                 <w lemma="is" msd="Case=Gen|Numb=Sing|Gend=Com" n="12.7" pos="PROdem" rend="verse">eius</w>
-                <w lemma="statera" msd="Case=Acc|Numb=Sing" n="12.7" pos="NOMcom" rend="verse">statera</w>
-                <w lemma="dolosus" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos" n="12.7" pos="ADJqua" rend="verse">dolosa</w>
+                <w lemma="stater" msd="Case=Nom|Numb=Sing" n="12.7" pos="NOMcom" rend="verse">statera</w>
+                <w lemma="dolosus" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos" n="12.7" pos="ADJqua" rend="verse">dolosa</w>
                 <w lemma="calumnia" msd="Case=Acc|Numb=Sing" n="12.7" pos="NOMcom" rend="verse">calumniam</w>
                 <w lemma="diligo3" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3" n="12.7" pos="VER" rend="verse">dilexit</w>
                 </ab>
@@ -3391,7 +3416,7 @@
                 <w lemma="bos" msd="Case=Abl|Numb=Plur" n="12.11" pos="NOMcom" rend="verse">bubus</w>
                 <w lemma="immolo" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act" n="12.11" pos="VER" rend="verse">immolantes</w>
                 <w lemma="nam" msd="MORPH=empty" n="12.11" pos="CONcoo" rend="verse">nam</w>
-                <w lemma="et1" msd="MORPH=empty" n="12.11" pos="ADV" rend="verse">et</w>
+                <w lemma="et2" msd="MORPH=empty" n="12.11" pos="CONcoo" rend="verse">et</w>
                 <w lemma="altar" msd="Case=Acc|Numb=Plur" n="12.11" pos="NOMcom" rend="verse">altaria</w>
                 <w lemma="is" msd="Case=Gen|Numb=Plur|Gend=MascNeut" n="12.11" pos="PROdem" rend="verse">eorum</w>
                 <w lemma="quasi1" msd="MORPH=empty" n="12.11" pos="ADVrel" rend="verse">quasi</w>
@@ -3401,7 +3426,7 @@
                 <w lemma="ager" msd="Case=Gen|Numb=Sing" n="12.11" pos="NOMcom" rend="verse">agri</w>
                 </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:12.12" type="verse">
-                <w lemma="fugio" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="12.12" pos="VER" rend="verse">fugit</w>
+                <w lemma="fugio" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3" n="12.12" pos="VER" rend="verse">fugit</w>
                 <w lemma="iacob" msd="Case=Ind" n="12.12" pos="NOMpro" rend="verse">Iacob</w>
                 <w lemma="in" msd="MORPH=empty" n="12.12" pos="PRE" rend="verse">in</w>
                 <w lemma="regio" msd="Case=Acc|Numb=Sing" n="12.12" pos="NOMcom" rend="verse">regionem</w>
@@ -3450,22 +3475,24 @@
                 <w lemma="opprobrium" msd="Case=Acc|Numb=Sing" n="12.14" pos="NOMcom" rend="verse">obprobrium</w>
                 <w lemma="is" msd="Case=Gen|Numb=Sing|Gend=Com" n="12.14" pos="PROdem" rend="verse">eius</w>
                 <w lemma="restituo" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="12.14" pos="VER" rend="verse">restituet</w>
-                <w lemma="is" msd="Case=Dat|Numb=Sing|Gend=Com" n="12.14" pos="PROdem" rend="verse">ei</w>
+                <w lemma="is" msd="Case=Dat|Numb=Sing|Gend=Masc" n="12.14" pos="PROdem" rend="verse">ei</w>
                 <w lemma="dominus" msd="Case=Nom|Numb=Sing" n="12.14" pos="NOMcom" rend="verse">Dominus</w>
                 <w lemma="suus" msd="Case=Nom|Numb=Sing|Gend=Masc" n="12.14" pos="PROpos.ref" rend="verse">suus</w>
                 </ab>
+            <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:13" type="chapter">
+                </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:13.1" type="verse">
                 <w lemma="loquor" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Dep" n="13.1" pos="VER" rend="verse">loquente</w>
-                <w lemma="Ephrais" msd="Case=Acc|Numb=Sing" n="13.1" pos="NOMpro" rend="verse">Ephraim</w>
+                <w lemma="ephrais" msd="Case=Acc|Numb=Sing" n="13.1" pos="NOMpro" rend="verse">Ephraim</w>
                 <w lemma="horror" msd="Case=Nom|Numb=Sing" n="13.1" pos="NOMcom" rend="verse">horror</w>
                 <w lemma="inuado2" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3" n="13.1" pos="VER" rend="verse">invasit</w>
-                <w lemma="Israel" msd="Case=Ind" n="13.1" pos="NOMcom" rend="verse">Israhel</w>
+                <w lemma="israel" msd="Case=Ind" n="13.1" pos="NOMcom" rend="verse">Israhel</w>
                 <w lemma="et2" msd="MORPH=empty" n="13.1" pos="CONcoo" rend="verse">et</w>
                 <w lemma="delinquo" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3" n="13.1" pos="VER" rend="verse">deliquit</w>
                 <w lemma="in" msd="MORPH=empty" n="13.1" pos="PRE" rend="verse">in</w>
-                <w lemma="baala" msd="Case=Acc|Numb=Sing" n="13.1" pos="NOMcom" rend="verse">Baal</w>
+                <w lemma="baal" msd="Case=Acc|Numb=Sing" n="13.1" pos="NOMcom" rend="verse">Baal</w>
                 <w lemma="et2" msd="MORPH=empty" n="13.1" pos="CONcoo" rend="verse">et</w>
-                <w lemma="morior" msd="Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Dep" n="13.1" pos="VER" rend="verse">mortuus</w>
+                <w lemma="morior" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass" n="13.1" pos="VER" rend="verse">mortuus</w>
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="13.1" pos="VER" rend="verse">est</w>
                 </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:13.2" type="verse">
@@ -3501,7 +3528,7 @@
                 <w lemma="sum1" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="13.3" pos="VER" rend="verse">erunt</w>
                 <w lemma="quasi1" msd="MORPH=empty" n="13.3" pos="ADVrel" rend="verse">quasi</w>
                 <w lemma="nubes" msd="Case=Nom|Numb=Plur" n="13.3" pos="NOMcom" rend="verse">nubes</w>
-                <w lemma="matutinus" msd="Case=Nom|Numb=Plur|Gend=Fem|Deg=Pos" n="13.3" pos="ADJqua" rend="verse">matutina</w>
+                <w lemma="matutinus" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos" n="13.3" pos="ADJqua" rend="verse">matutina</w>
                 <w lemma="et2" msd="MORPH=empty" n="13.3" pos="CONcoo" rend="verse">et</w>
                 <w lemma="sicut1" msd="MORPH=empty" n="13.3" pos="ADVrel" rend="verse">sicut</w>
                 <w lemma="ros" msd="Case=Nom|Numb=Sing" n="13.3" pos="NOMcom" rend="verse">ros</w>
@@ -3589,7 +3616,7 @@
                 <w lemma="et2" msd="MORPH=empty" n="13.8" pos="CONcoo" rend="verse">et</w>
                 <w lemma="dirumpo" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1" n="13.8" pos="VER" rend="verse">disrumpam</w>
                 <w lemma="interior2" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos" n="13.8" pos="ADJqua" rend="verse">interiora</w>
-                <w lemma="iecor" msd="Case=Gen|Numb=Sing" n="13.8" pos="NOMcom" rend="verse">iecoris</w>
+                <w lemma="iecur" msd="Case=Gen|Numb=Sing" n="13.8" pos="NOMcom" rend="verse">iecoris</w>
                 <w lemma="is" msd="Case=Gen|Numb=Plur|Gend=MascNeut" n="13.8" pos="PROdem" rend="verse">eorum</w>
                 <w lemma="et2" msd="MORPH=empty" n="13.8" pos="CONcoo" rend="verse">et</w>
                 <w lemma="consumo" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1" n="13.8" pos="VER" rend="verse">consumam</w>
@@ -3605,7 +3632,7 @@
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:13.9" type="verse">
                 <w lemma="perditio" msd="Case=Nom|Numb=Sing" n="13.9" pos="NOMcom" rend="verse">perditio</w>
                 <w lemma="tuus" msd="Case=Nom|Numb=Sing|Gend=Fem" n="13.9" pos="PROpos" rend="verse">tua</w>
-                <w lemma="israel" msd="Case=Voc" n="13.9" pos="NOMcom" rend="verse">Israhel</w>
+                <w lemma="israel" msd="Case=Ind" n="13.9" pos="NOMcom" rend="verse">Israhel</w>
                 <w lemma="tantummodo" msd="Deg=Pos" n="13.9" pos="ADV" rend="verse">tantummodo</w>
                 <w lemma="in" msd="MORPH=empty" n="13.9" pos="PRE" rend="verse">in</w>
                 <w lemma="ego" msd="Case=Abl|Numb=Sing" n="13.9" pos="PROper" rend="verse">me</w>
@@ -3655,7 +3682,7 @@
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="13.12" pos="VER" rend="verse">est</w>
                 <w lemma="iniquitas" msd="Case=Nom|Numb=Sing" n="13.12" pos="NOMcom" rend="verse">iniquitas</w>
                 <w lemma="ephrais" msd="Case=Acc|Numb=Sing" n="13.12" pos="NOMpro" rend="verse">Ephraim</w>
-                <w lemma="absconditus" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos" n="13.12" pos="ADJqua" rend="verse">absconditum</w>
+                <w lemma="absconditus" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos" n="13.12" pos="ADJqua" rend="verse">absconditum</w>
                 <w lemma="peccatum" msd="Case=Acc|Numb=Sing" n="13.12" pos="NOMcom" rend="verse">peccatum</w>
                 <w lemma="is" msd="Case=Gen|Numb=Sing|Gend=Com" n="13.12" pos="PROdem" rend="verse">eius</w>
                 </ab>
@@ -3690,11 +3717,11 @@
                 <w lemma="mors" msd="Case=Nom|Numb=Sing" n="13.14" pos="NOMcom" rend="verse">mors</w>
                 <w lemma="tuus" msd="Case=Nom|Numb=Sing|Gend=Fem" n="13.14" pos="PROpos" rend="verse">tua</w>
                 <w lemma="o" msd="MORPH=empty" n="13.14" pos="INJ" rend="verse">o</w>
-                <w lemma="mors" msd="Case=Voc|Numb=Sing" n="13.14" pos="NOMcom" rend="verse">mors</w>
+                <w lemma="mors" msd="Case=Nom|Numb=Sing" n="13.14" pos="NOMcom" rend="verse">mors</w>
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1" n="13.14" pos="VER" rend="verse">ero</w>
                 <w lemma="morsus" msd="Case=Nom|Numb=Sing" n="13.14" pos="NOMcom" rend="verse">morsus</w>
                 <w lemma="tuus" msd="Case=Nom|Numb=Sing|Gend=Masc" n="13.14" pos="PROpos" rend="verse">tuus</w>
-                <w lemma="inferne" msd="Case=Voc|Deg=Pos" n="13.14" pos="ADV" rend="verse">inferne</w>
+                <w lemma="inferne" msd="Deg=Pos" n="13.14" pos="ADV" rend="verse">inferne</w>
                 <w lemma="consolatio" msd="Case=Nom|Numb=Sing" n="13.14" pos="NOMcom" rend="verse">consolatio</w>
                 <w lemma="absconditus" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos" n="13.14" pos="ADJqua" rend="verse">abscondita</w>
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="13.14" pos="VER" rend="verse">est</w>
@@ -3722,7 +3749,7 @@
                 <w lemma="et2" msd="MORPH=empty" n="13.15" pos="CONcoo" rend="verse">et</w>
                 <w lemma="desolo" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="13.15" pos="VER" rend="verse">desolabit</w>
                 <w lemma="fons" msd="Case=Acc|Numb=Sing" n="13.15" pos="NOMcom" rend="verse">fontem</w>
-                <w lemma="is" msd="Case=Gen|Numb=Sing|Gend=Com" n="13.15" pos="PROdem" rend="verse">eius</w>
+                <w lemma="is" msd="Case=Gen|Numb=Sing|Gend=Masc" n="13.15" pos="PROdem" rend="verse">eius</w>
                 <w lemma="et2" msd="MORPH=empty" n="13.15" pos="CONcoo" rend="verse">et</w>
                 <w lemma="ipse" msd="Case=Nom|Numb=Sing|Gend=Masc" n="13.15" pos="PROdem" rend="verse">ipse</w>
                 <w lemma="diripio" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="13.15" pos="VER" rend="verse">diripiet</w>
@@ -3730,6 +3757,8 @@
                 <w lemma="omnis" msd="Case=Nom|Numb=Sing|Gend=MascFem" n="13.15" pos="PROind" rend="verse">omnis</w>
                 <w lemma="uas2" msd="Case=Abl|Numb=Plur" n="13.15" pos="NOMcom" rend="verse">vasis</w>
                 <w lemma="desiderabilis" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos" n="13.15" pos="ADJqua" rend="verse">desiderabilis</w>
+                </ab>
+            <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:14" type="chapter">
                 </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:14.1" type="verse">
                 <w lemma="pereo1" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3" n="14.1" pos="VER" rend="verse">pereat</w>
@@ -3798,7 +3827,7 @@
                 <w lemma="ascendo" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=1" n="14.4" pos="VER" rend="verse">ascendemus</w>
                 <w lemma="nec2" msd="MORPH=empty" n="14.4" pos="CONcoo" rend="verse">nec</w>
                 <w lemma="dico2" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=1" n="14.4" pos="VER" rend="verse">dicemus</w>
-                <w lemma="ultra1" msd="Deg=Pos" n="14.4" pos="ADV" rend="verse">ultra</w>
+                <w lemma="ultra2" msd="Deg=Pos" n="14.4" pos="PRE" rend="verse">ultra</w>
                 <w lemma="deus" msd="Case=Gen|Numb=Plur" n="14.4" pos="NOMcom" rend="verse">dii</w>
                 <w lemma="noster" msd="Case=Gen|Numb=Sing|Gend=MascNeut" n="14.4" pos="PROpos" rend="verse">nostri</w>
                 <w lemma="opus1" msd="Case=Acc|Numb=Plur" n="14.4" pos="NOMcom" rend="verse">opera</w>
@@ -3817,7 +3846,7 @@
                 <w lemma="sano" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1" n="14.5" pos="VER" rend="verse">sanabo</w>
                 <w lemma="contritio" msd="Case=Acc|Numb=Plur" n="14.5" pos="NOMcom" rend="verse">contritiones</w>
                 <w lemma="is" msd="Case=Gen|Numb=Plur|Gend=MascNeut" n="14.5" pos="PROdem" rend="verse">eorum</w>
-                <w lemma="diligo3" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1" n="14.5" pos="VER" rend="verse">diligam</w>
+                <w lemma="diligo3" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1" n="14.5" pos="VER" rend="verse">diligam</w>
                 <w lemma="is" msd="Case=Acc|Numb=Plur|Gend=Masc" n="14.5" pos="PROdem" rend="verse">eos</w>
                 <w lemma="spontaneo" msd="Numb=Sing" n="14.5" pos="VER" rend="verse">spontanee</w>
                 <w lemma="quia" msd="MORPH=empty" n="14.5" pos="CONsub" rend="verse">quia</w>
@@ -3837,7 +3866,7 @@
                 <w lemma="quasi1" msd="MORPH=empty" n="14.6" pos="ADVrel" rend="verse">quasi</w>
                 <w lemma="lilium" msd="Case=Acc|Numb=Sing" n="14.6" pos="NOMcom" rend="verse">lilium</w>
                 <w lemma="et2" msd="MORPH=empty" n="14.6" pos="CONcoo" rend="verse">et</w>
-                <w lemma="erumpo" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3" n="14.6" pos="VER" rend="verse">erumpet</w>
+                <w lemma="erumpo" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="14.6" pos="VER" rend="verse">erumpet</w>
                 <w lemma="radix" msd="Case=Nom|Numb=Sing" n="14.6" pos="NOMcom" rend="verse">radix</w>
                 <w lemma="is" msd="Case=Gen|Numb=Sing|Gend=Com" n="14.6" pos="PROdem" rend="verse">eius</w>
                 <w lemma="ut1" msd="MORPH=empty" n="14.6" pos="ADVrel" rend="verse">ut</w>
@@ -3856,11 +3885,11 @@
                 <w lemma="et2" msd="MORPH=empty" n="14.7" pos="CONcoo" rend="verse">et</w>
                 <w lemma="odor" msd="Case=Nom|Numb=Sing" n="14.7" pos="NOMcom" rend="verse">odor</w>
                 <w lemma="is" msd="Case=Gen|Numb=Sing|Gend=Com" n="14.7" pos="PROdem" rend="verse">eius</w>
-                <w lemma="ut4" msd="MORPH=empty" n="14.7" pos="CONsub" rend="verse">ut</w>
+                <w lemma="ut1" msd="MORPH=empty" n="14.7" pos="ADVrel" rend="verse">ut</w>
                 <w lemma="libanus" msd="Case=Nom|Numb=Plur" n="14.7" pos="NOMcom" rend="verse">Libani</w>
                 </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:14.8" type="verse">
-                <w lemma="conuerto" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3" n="14.8" pos="VER" rend="verse">convertentur</w>
+                <w lemma="conuerto" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Pass|Person=3" n="14.8" pos="VER" rend="verse">convertentur</w>
                 <w lemma="sedeo" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act" n="14.8" pos="VER" rend="verse">sedentes</w>
                 <w lemma="in" msd="MORPH=empty" n="14.8" pos="PRE" rend="verse">in</w>
                 <w lemma="umbra" msd="Case=Abl|Numb=Sing" n="14.8" pos="NOMcom" rend="verse">umbra</w>
@@ -3870,12 +3899,12 @@
                 <w lemma="et2" msd="MORPH=empty" n="14.8" pos="CONcoo" rend="verse">et</w>
                 <w lemma="germino" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="14.8" pos="VER" rend="verse">germinabunt</w>
                 <w lemma="quasi1" msd="MORPH=empty" n="14.8" pos="ADVrel" rend="verse">quasi</w>
-                <w lemma="uinea" msd="Case=Nom|Numb=Sing" n="14.8" pos="NOMcom" rend="verse">vinea</w>
+                <w lemma="uinea" msd="Case=Abl|Numb=Sing" n="14.8" pos="NOMcom" rend="verse">vinea</w>
                 <w lemma="memorialis" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos" n="14.8" pos="ADJqua" rend="verse">memoriale</w>
                 <w lemma="is" msd="Case=Gen|Numb=Sing|Gend=Com" n="14.8" pos="PROdem" rend="verse">eius</w>
                 <w lemma="sicut1" msd="MORPH=empty" n="14.8" pos="ADVrel" rend="verse">sicut</w>
-                <w lemma="uinum" msd="Case=Acc|Numb=Sing" n="14.8" pos="NOMcom" rend="verse">vinum</w>
-                <w lemma="libanus" msd="Case=Voc|Numb=Plur" n="14.8" pos="NOMcom" rend="verse">Libani</w>
+                <w lemma="uinum" msd="Case=Nom|Numb=Sing" n="14.8" pos="NOMcom" rend="verse">vinum</w>
+                <w lemma="libanus" msd="Case=Nom|Numb=Plur" n="14.8" pos="NOMcom" rend="verse">Libani</w>
                 </ab>
             <ab n="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:14.9" type="verse">
                 <w lemma="ephrais" msd="Case=Acc|Numb=Sing" n="14.9" pos="NOMpro" rend="verse">Ephraim</w>
@@ -3886,7 +3915,7 @@
                 <w lemma="ego" msd="Case=Nom|Numb=Sing" n="14.9" pos="PROper" rend="verse">ego</w>
                 <w lemma="exaudio" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1" n="14.9" pos="VER" rend="verse">exaudiam</w>
                 <w lemma="et2" msd="MORPH=empty" n="14.9" pos="CONcoo" rend="verse">et</w>
-                <w lemma="dirigo" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1" n="14.9" pos="VER" rend="verse">dirigam</w>
+                <w lemma="dirigo" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1" n="14.9" pos="VER" rend="verse">dirigam</w>
                 <w lemma="is" msd="Case=Acc|Numb=Sing|Gend=Masc" n="14.9" pos="PROdem" rend="verse">eum</w>
                 <w lemma="ego" msd="Case=Nom|Numb=Sing" n="14.9" pos="PROper" rend="verse">ego</w>
                 <w lemma="ut4" msd="MORPH=empty" n="14.9" pos="CONsub" rend="verse">ut</w>

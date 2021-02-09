@@ -4,7 +4,7 @@
         <fileDesc>
             <titleStmt>
                 <title>De Agricultura</title>
-                <author>Cato</author>
+                <author>Caton</author>
             </titleStmt>
             <publicationStmt>
                 <publisher>
@@ -14,9 +14,9 @@
             <sourceDesc>
                 <bibl>
                     <idno>urn:cts:latinLit:phi0022.phi001.thayer-lat1</idno>
-                    <link target="https://github.com/lascivaroma/additional-texts/archive/1.0.138.zip"/>
+                    <link target="https://github.com/lascivaroma/additional-texts/archive/1.0.142.zip"/>
                     <dim source="xml" type="md5-checksum">54c9b11ff6c10f7f3232126ddd0ff53b</dim>
-                    <dim source="plaintext-transformation" type="md5-checksum">0a2341f778febac64f00702e8343de21</dim>
+                    <dim source="plaintext-transformation" type="md5-checksum">f39098b2392ca2dcbd6c3bcee69a4c85</dim>
                     <dim source="xsl" type="md5-checksum">22f0c529b7ecf86f9fc04cc8de63d204</dim>
                 </bibl>
             </sourceDesc>
@@ -25,7 +25,9 @@
     <text n="urn:cts:latinLit:phi0022.phi001.thayer-lat1">
         <body>
             
-        <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:pr.1" type="section">
+        <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:pr" type="book">
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:pr.1" type="section">
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="pr.1" pos="VER" rend="section">Est</w>
                 <w lemma="interdum" msd="Deg=Pos" n="pr.1" pos="ADV" rend="section">interdum</w>
                 <w lemma="praesto1" msd="Mood=Inf|Tense=Pres|Voice=Act" n="pr.1" pos="VER" rend="section">praestare</w>
@@ -170,6 +172,8 @@
                 <w lemma="hic1" msd="Case=Nom|Numb=Sing|Gend=Neut" n="pr.4" pos="PROdem" rend="section">hoc</w>
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="pr.4" pos="VER" rend="section">erit</w>
                 <w lemma="." msd="MORPH=empty" n="pr.4" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:1" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:1.1" type="section">
                 <w lemma="praedium" msd="Case=Acc|Numb=Sing" n="1.1" pos="NOMcom" rend="section">Praedium</w>
@@ -474,6 +478,8 @@
                 <w lemma="glandarius" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos" n="1.7" pos="ADJqua" rend="section">glandaria</w>
                 <w lemma="silua" msd="Case=Nom|Numb=Sing" n="1.7" pos="NOMcom" rend="section">silva</w>
                 <w lemma="." msd="MORPH=empty" n="1.7" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:2" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:2.1" type="section">
                 <w lemma="pater" msd="Case=Nom|Numb=Sing" n="2.1" pos="NOMcom" rend="section">Pater</w>
@@ -879,6 +885,8 @@
                 <w lemma="oportet" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="2.7" pos="VER" rend="section">oportet</w>
                 <w lemma="." msd="MORPH=empty" n="2.7" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:3" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:3.1" type="section">
                 <w lemma="primus" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Sup" n="3.1" pos="ADJord" rend="section">Prima</w>
                 <w lemma="adolescentia" msd="Case=Nom|Numb=Sing" n="3.1" pos="NOMcom" rend="section">adulescentia</w>
@@ -1131,6 +1139,8 @@
                 <w lemma="labor1" msd="Case=Abl|Numb=Sing" n="3.7" pos="NOMcom" rend="section">labore</w>
                 <w lemma="." msd="MORPH=empty" n="3.7" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:4" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:4.1" type="section">
                 <w lemma="bubile" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos" n="4.1" pos="ADJqua" rend="section">Bubilia</w>
                 <w lemma="bonus" msd="Case=Acc|Numb=Plur" n="4.1" pos="NOMcom" rend="section">bona</w>
@@ -1243,6 +1253,8 @@
                 <w lemma="benigne" msd="Deg=Pos" n="4.1" pos="ADV" rend="section">benigne</w>
                 <w lemma="defendo" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="4.1" pos="VER" rend="section">defendent</w>
                 <w lemma="." msd="MORPH=empty" n="4.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:5" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:5.1" type="section">
                 <w lemma="hic1" msd="Case=Nom|Numb=Sing|Gend=Neut" n="5.1" pos="PROdem" rend="section">Haec</w>
@@ -1747,6 +1759,8 @@
                 <w lemma="sero3" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="5.8" pos="VER" rend="section">serito</w>
                 <w lemma="." msd="MORPH=empty" n="5.8" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:6" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:6.1" type="section">
                 <w lemma="ager" msd="Case=Acc|Numb=Sing" n="6.1" pos="NOMcom" rend="section">Agrum</w>
                 <w lemma="quis1" msd="Case=Abl|Numb=Plur|Gend=Com" n="6.1" pos="PROrel" rend="section">quibus</w>
@@ -2057,6 +2071,8 @@
                 <w lemma="conuenio" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="6.4" pos="VER" rend="section">conveniunt</w>
                 <w lemma="." msd="MORPH=empty" n="6.4" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:7" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:7.1" type="section">
                 <w lemma="fundus" msd="Case=Acc|Numb=Sing" n="7.1" pos="NOMcom" rend="section">Fundum</w>
                 <w lemma="suburbanus" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos" n="7.1" pos="ADJqua" rend="section">suburbanum</w>
@@ -2262,6 +2278,8 @@
                 <w lemma="facio" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2" n="7.4" pos="VER" rend="section">facias</w>
                 <w lemma="." msd="MORPH=empty" n="7.4" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:8" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:8.1" type="section">
                 <w lemma="ficus1" msd="Case=Acc|Numb=Plur" n="8.1" pos="NOMcom" rend="section">Ficos</w>
                 <w lemma="mariscus" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos" n="8.1" pos="ADJqua" rend="section">mariscas</w>
@@ -2373,6 +2391,8 @@
                 <w lemma="habeo" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3" n="8.2" pos="VER" rend="section">habeat</w>
                 <w lemma="." msd="MORPH=empty" n="8.2" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:9" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:9.1" type="section">
                 <w lemma="salictum" msd="Case=Nom|Numb=Plur" n="9.1" pos="NOMcom" rend="section">Salicta</w>
                 <w lemma="locus" msd="Case=Abl|Numb=Plur" n="9.1" pos="NOMcom" rend="section">locis</w>
@@ -2430,6 +2450,8 @@
                 <w lemma="expedio" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="9.1" pos="VER" rend="section">expedit</w>
                 <w lemma="facio" msd="Mood=Inf|Tense=Pres|Voice=Act" n="9.1" pos="VER" rend="section">facere</w>
                 <w lemma="." msd="MORPH=empty" n="9.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:10" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:10.1" type="section">
                 <w lemma="quis1" msd="Case=Abl|Numb=Sing|Gend=MascNeut" n="10.1" pos="PROint" rend="section">Quo</w>
@@ -2812,6 +2834,8 @@
                 <w lemma="6" msd="MORPH=empty" n="10.5" pos="ADJcar" rend="section">VI</w>
                 <w lemma="." msd="MORPH=empty" n="10.5" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:11" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:11.1" type="section">
                 <w lemma="quis1" msd="Case=Abl|Numb=Sing|Gend=MascNeut" n="11.1" pos="PROrel" rend="section">Quo</w>
                 <w lemma="modus" msd="Numb=Sing" n="11.1" pos="ADV" rend="section">modo</w>
@@ -3163,6 +3187,8 @@
                 <w lemma="6" msd="MORPH=empty" n="11.5" pos="ADJcar" rend="section">VI</w>
                 <w lemma="." msd="MORPH=empty" n="11.5" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:12" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:12.1" type="section">
                 <w lemma="in" msd="MORPH=empty" n="12.1" pos="PRE" rend="section">In</w>
                 <w lemma="torcularium" msd="Case=Acc|Numb=Sing" n="12.1" pos="NOMcom" rend="section">torcularium</w>
@@ -3248,6 +3274,8 @@
                 <w lemma="ferreus" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos" n="12.1" pos="ADJqua" rend="section">ferrea</w>
                 <w lemma="quinque" msd="Case=Ind" n="12.1" pos="ADJcar" rend="section">quinque</w>
                 <w lemma="." msd="MORPH=empty" n="12.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:13" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:13.1" type="section">
                 <w lemma="in" msd="MORPH=empty" n="13.1" pos="PRE" rend="section">In</w>
@@ -3420,6 +3448,8 @@
                 <w lemma="pondus" msd="Case=Acc|Numb=Plur" n="13.2" pos="NOMcom" rend="section">pondera</w>
                 <w lemma="cetera1" msd="Case=Acc|Numb=Plur|Gend=Neut" n="13.2" pos="NOMcom" rend="section">cetera</w>
                 <w lemma="." msd="MORPH=empty" n="13.2" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:14" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:14.1" type="section">
                 <w lemma="uilla" msd="Case=Acc|Numb=Sing" n="14.1" pos="NOMcom" rend="section">Villam</w>
@@ -3735,6 +3765,8 @@
                 <w lemma="accedo1" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3" n="14.5" pos="VER" rend="section">accedat</w>
                 <w lemma="." msd="MORPH=empty" n="14.5" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:15" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:15.1" type="section">
                 <w lemma="maceria" msd="Case=Acc|Numb=Plur" n="15.1" pos="NOMcom" rend="section">Macerias</w>
                 <w lemma="ex" msd="MORPH=empty" n="15.1" pos="PRE" rend="section">ex</w>
@@ -3824,6 +3856,8 @@
                 <w lemma="duo" msd="Case=Acc|Numb=Plur|Gend=Masc" n="15.1" pos="ADJcar" rend="section">duos</w>
                 <w lemma="." msd="MORPH=empty" n="15.1" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:16" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:16.1" type="section">
                 <w lemma="calx?" msd="Case=Acc|Numb=Sing" n="16.1" pos="VER" rend="section">Calcem</w>
                 <w lemma="partiarius" msd="Case=Abl|Numb=Sing|Deg=Pos" n="16.1" pos="ADJqua" rend="section">partiario</w>
@@ -3862,6 +3896,8 @@
                 <w lemma="," msd="MORPH=empty" n="16.1" pos="PUNC" rend="section">,</w>
                 <w lemma="praebeo" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="16.1" pos="VER" rend="section">praebet</w>
                 <w lemma="." msd="MORPH=empty" n="16.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:17" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:17.1" type="section">
                 <w lemma="robus" msd="Case=Nom|Numb=Sing" n="17.1" pos="NOMcom" rend="section">Robus</w>
@@ -3993,6 +4029,8 @@
                 <w lemma="tempestiuus" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos" n="17.2" pos="ADJqua" rend="section">tempestiva</w>
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="17.2" pos="VER" rend="section">est</w>
                 <w lemma="." msd="MORPH=empty" n="17.2" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:18" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:18.1" type="section">
                 <w lemma="torcularium" msd="Case=Acc|Numb=Sing|Deg=Pos" n="18.1" pos="NOMcom" rend="section">Torcularium</w>
@@ -4532,6 +4570,8 @@
                 <w lemma="indo" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="18.9" pos="VER" rend="section">indito</w>
                 <w lemma="." msd="MORPH=empty" n="18.9" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:19" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:19.1" type="section">
                 <w lemma="in" msd="MORPH=empty" n="19.1" pos="PRE" rend="section">In</w>
                 <w lemma="uas2" msd="Case=Acc|Numb=Plur" n="19.1" pos="NOMcom" rend="section">vasa</w>
@@ -4660,6 +4700,8 @@
                 <w lemma="8" msd="MORPH=empty" n="19.2" pos="ADJcar" rend="section">VIII</w>
                 <w lemma="." msd="MORPH=empty" n="19.2" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:20" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:20.1" type="section">
                 <w lemma="trapetus" msd="Case=Acc|Numb=Sing" n="20.1" pos="NOMcom" rend="section">Trapetum</w>
                 <w lemma="quis1" msd="Case=Abl|Numb=Sing|Gend=MascNeut" n="20.1" pos="PROrel" rend="section">quo</w>
@@ -4757,6 +4799,8 @@
                 <w lemma="ne4" msd="MORPH=empty" n="20.2" pos="CONsub" rend="section">ne</w>
                 <w lemma="cado" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3" n="20.2" pos="VER" rend="section">cadant</w>
                 <w lemma="." msd="MORPH=empty" n="20.2" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:21" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:21.1" type="section">
                 <w lemma="cupa2" msd="Case=Acc|Numb=Sing" n="21.1" pos="NOMcom" rend="section">Cupam</w>
@@ -5034,6 +5078,8 @@
                 <w lemma="adiutor1" msd="Case=Acc|Numb=Plur" n="21.5" pos="NOMcom" rend="section">adiutores</w>
                 <w lemma="." msd="MORPH=empty" n="21.5" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:22" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:22.1" type="section">
                 <w lemma="trapetus" msd="Case=Acc|Numb=Sing" n="22.1" pos="NOMcom" rend="section">Trapetum</w>
                 <w lemma="hic1" msd="Case=Abl|Numb=Sing|Gend=MascNeut" n="22.1" pos="PROdem" rend="section">hoc</w>
@@ -5255,6 +5301,8 @@
                 <w lemma="emo" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3" n="22.4" pos="VER" rend="section">emitur</w>
                 <w lemma="." msd="MORPH=empty" n="22.4" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:23" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:23.1" type="section">
                 <w lemma="facio" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2" n="23.1" pos="VER" rend="section">Fac</w>
                 <w lemma="ad2" msd="MORPH=empty" n="23.1" pos="PRE" rend="section">ad</w>
@@ -5433,6 +5481,8 @@
                 <w lemma="pariter" msd="Deg=Pos" n="23.4" pos="ADV" rend="section">pariter</w>
                 <w lemma="." msd="MORPH=empty" n="23.4" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:24" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:24.1" type="section">
                 <w lemma="uinum" msd="Case=Acc|Numb=Sing" n="24.1" pos="NOMcom" rend="section">Vinum</w>
                 <w lemma="graecus" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos" n="24.1" pos="ADJqua" rend="section">Graecum</w>
@@ -5504,6 +5554,8 @@
                 <w lemma="defrutum" msd="Case=Gen|Numb=Sing" n="24.1" pos="NOMcom" rend="section">defruti</w>
                 <w lemma="addo" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="24.1" pos="VER" rend="section">addito</w>
                 <w lemma="." msd="MORPH=empty" n="24.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:25" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:25.1" type="section">
                 <w lemma="cum3" msd="MORPH=empty" n="25.1" pos="CONsub" rend="section">Quom</w>
@@ -5587,6 +5639,8 @@
                 <w lemma="bibo2" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3" n="25.1" pos="VER" rend="section">bibat</w>
                 <w lemma="." msd="MORPH=empty" n="25.1" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:26" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:26.1" type="section">
                 <w lemma="uindemia" msd="Case=Nom|Numb=Sing" n="26.1" pos="NOMcom" rend="section">Vindemia</w>
                 <w lemma="facio" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass" n="26.1" pos="VER" rend="section">facta</w>
@@ -5661,6 +5715,8 @@
                 <w lemma="tempus1" msd="Case=Nom|Numb=Sing" n="26.1" pos="NOMcom" rend="section">tempus</w>
                 <w lemma="." msd="MORPH=empty" n="26.1" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:27" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:27.1" type="section">
                 <w lemma="sementis" msd="Case=Acc|Numb=Sing" n="27.1" pos="NOMcom" rend="section">Sementim</w>
                 <w lemma="facio" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="27.1" pos="VER" rend="section">facito</w>
@@ -5731,6 +5787,8 @@
                 <w lemma="arbor" msd="Case=Acc|Numb=Plur" n="27.1" pos="NOMcom" rend="section">arbores</w>
                 <w lemma="ablaqueo1" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="27.1" pos="VER" rend="section">ablaqueato</w>
                 <w lemma="." msd="MORPH=empty" n="27.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:28" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:28.1" type="section">
                 <w lemma="olea" msd="Case=Acc|Numb=Plur" n="28.1" pos="NOMcom" rend="section">Oleas</w>
@@ -5847,6 +5905,8 @@
                 <w lemma="alligo2" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="28.2" pos="VER" rend="section">alligato</w>
                 <w lemma="." msd="MORPH=empty" n="28.2" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:29" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:29.1" type="section">
                 <w lemma="stercus" msd="Case=Acc|Numb=Sing" n="29.1" pos="NOMcom" rend="section">Stercus</w>
                 <w lemma="diuido" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="29.1" pos="VER" rend="section">dividito</w>
@@ -5919,6 +5979,8 @@
                 <w lemma="silens" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos" n="29.1" pos="ADJqua" rend="section">silenti</w>
                 <w lemma="." msd="MORPH=empty" n="29.1" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:30" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:30.1" type="section">
                 <w lemma="bos" msd="Case=Abl|Numb=Plur" n="30.1" pos="NOMcom" rend="section">Bubus</w>
                 <w lemma="frons2" msd="Case=Acc|Numb=Sing" n="30.1" pos="NOMcom" rend="section">frondem</w>
@@ -5979,6 +6041,8 @@
                 <w lemma="longus" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos" n="30.1" pos="ADJqua" rend="section">longa</w>
                 <w lemma="sum1" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3" n="30.1" pos="VER" rend="section">siet</w>
                 <w lemma="." msd="MORPH=empty" n="30.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:31" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:31.1" type="section">
                 <w lemma="ad2" msd="MORPH=empty" n="31.1" pos="PRE" rend="section">Ad</w>
@@ -6123,6 +6187,8 @@
                 <w lemma="necessario" msd="Numb=Sing|Deg=Pos" n="31.2" pos="ADV" rend="section">necessario</w>
                 <w lemma="." msd="MORPH=empty" n="31.2" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:32" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:32.1" type="section">
                 <w lemma="uinea" msd="Case=Acc|Numb=Plur" n="32.1" pos="NOMcom" rend="section">Vineas</w>
                 <w lemma="arbor" msd="Case=Acc|Numb=Plur" n="32.1" pos="NOMcom" rend="section">arboresque</w>
@@ -6224,6 +6290,8 @@
                 <w lemma="praecido2" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="32.2" pos="VER" rend="section">praecidito</w>
                 <w lemma="uetus" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos" n="32.2" pos="ADJqua" rend="section">veteres</w>
                 <w lemma="." msd="MORPH=empty" n="32.2" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:33" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:33.1" type="section">
                 <w lemma="uinea" msd="Case=Acc|Numb=Sing" n="33.1" pos="NOMcom" rend="section">Viniam</w>
@@ -6485,6 +6553,8 @@
                 <w lemma="conseruo" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="33.5" pos="VER" rend="section">conservato</w>
                 <w lemma="." msd="MORPH=empty" n="33.5" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:34" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:34.1" type="section">
                 <w lemma="redeo1" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1" n="34.1" pos="VER" rend="section">Redeo</w>
                 <w lemma="ad2" msd="MORPH=empty" n="34.1" pos="PRE" rend="section">ad</w>
@@ -6573,6 +6643,8 @@
                 <w lemma="triticum" msd="Case=Acc|Numb=Sing" n="34.2" pos="NOMcom" rend="section">triticum</w>
                 <w lemma="sero3" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="34.2" pos="VER" rend="section">serito</w>
                 <w lemma="." msd="MORPH=empty" n="34.2" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:35" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:35.1" type="section">
                 <w lemma="faba" msd="Case=Acc|Numb=Sing" n="35.1" pos="NOMcom" rend="section">Fabam</w>
@@ -6680,6 +6752,8 @@
                 <w lemma="sero3" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="35.2" pos="VER" rend="section">serito</w>
                 <w lemma="." msd="MORPH=empty" n="35.2" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:36" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:36.1" type="section">
                 <w lemma="qui1" msd="Case=Nom|Numb=Plur|Gend=Fem" n="36.1" pos="PROrel" rend="section">Quae</w>
                 <w lemma="seges" msd="Case=Acc|Numb=Sing" n="36.1" pos="NOMcom" rend="section">segetem</w>
@@ -6736,6 +6810,8 @@
                 <w lemma="non" msd="MORPH=empty" n="36.1" pos="ADVneg" rend="section">non</w>
                 <w lemma="alte" msd="Deg=Pos" n="36.1" pos="ADV" rend="section">alte</w>
                 <w lemma="." msd="MORPH=empty" n="36.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:37" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:37.1" type="section">
                 <w lemma="quis1" msd="Case=Nom|Numb=Plur|Gend=Neut" n="37.1" pos="PROint" rend="section">Quae</w>
@@ -6998,6 +7074,8 @@
                 <w lemma="compono" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2" n="37.5" pos="VER" rend="section">conpone</w>
                 <w lemma="." msd="MORPH=empty" n="37.5" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:38" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:38.1" type="section">
                 <w lemma="fornax" msd="Case=Acc|Numb=Sing" n="38.1" pos="NOMcom" rend="section">Fornacem</w>
                 <w lemma="calcarius2" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos" n="38.1" pos="ADJqua" rend="section">calcariam</w>
@@ -7253,6 +7331,8 @@
                 <w lemma="sero3" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="38.4" pos="VER" rend="section">serito</w>
                 <w lemma="." msd="MORPH=empty" n="38.4" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:39" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:39.1" type="section">
                 <w lemma="ubi3" msd="MORPH=empty" n="39.1" pos="CONsub" rend="section">Ubi</w>
                 <w lemma="tempestas" msd="Case=Nom|Numb=Plur" n="39.1" pos="NOMcom" rend="section">tempestates</w>
@@ -7414,6 +7494,8 @@
                 <w lemma="sumptus?" msd="Case=Acc|Numb=Sing|Gend=Neut" n="39.2" pos="NOMcom" rend="section">sumptum</w>
                 <w lemma="sum1" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Fut|Voice=Act" n="39.2" pos="VER" rend="section">futurum</w>
                 <w lemma="." msd="MORPH=empty" n="39.2" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:40" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:40.1" type="section">
                 <w lemma="per" msd="MORPH=empty" n="40.1" pos="PRE" rend="section">Per</w>
@@ -7682,6 +7764,8 @@
                 <w lemma="noceo" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3" n="40.4" pos="VER" rend="section">noceat</w>
                 <w lemma="." msd="MORPH=empty" n="40.4" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:41" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:41.1" type="section">
                 <w lemma="uitis" msd="Case=Nom|Numb=Sing" n="41.1" pos="NOMcom" rend="section">Vitis</w>
                 <w lemma="insitio" msd="Case=Nom|Numb=Sing" n="41.1" pos="NOMcom" rend="section">insitio</w>
@@ -7866,6 +7950,8 @@
                 <w lemma="olea" msd="Case=Acc|Numb=Plur" n="41.4" pos="NOMcom" rend="section">oleas</w>
                 <w lemma="." msd="MORPH=empty" n="41.4" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:42" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:42.1" type="section">
                 <w lemma="ficus1" msd="Case=Acc|Numb=Plur" n="42.1" pos="NOMcom" rend="section">Ficos</w>
                 <w lemma="et2" msd="MORPH=empty" n="42.1" pos="CONcoo" rend="section">et</w>
@@ -7937,6 +8023,8 @@
                 <w lemma="ut4" msd="MORPH=empty" n="42.1" pos="CONsub" rend="section">uti</w>
                 <w lemma="cetera1" msd="Case=Acc|Numb=Plur" n="42.1" pos="NOMcom" rend="section">cetera</w>
                 <w lemma="." msd="MORPH=empty" n="42.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:43" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:43.1" type="section">
                 <w lemma="sulcus" msd="Case=Acc|Numb=Plur" n="43.1" pos="NOMcom" rend="section">Sulcos</w>
@@ -8067,6 +8155,8 @@
                 <w lemma="procuro" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="43.2" pos="VER" rend="section">procurato</w>
                 <w lemma="." msd="MORPH=empty" n="43.2" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:44" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:44.1" type="section">
                 <w lemma="oliuetum" msd="Case=Acc|Numb=Sing" n="44.1" pos="NOMcom" rend="section">Olivetum</w>
                 <w lemma="dies" msd="Case=Abl|Numb=Plur" n="44.1" pos="NOMcom" rend="section">diebus</w>
@@ -8128,6 +8218,8 @@
                 <w lemma="leuis1" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos" n="44.1" pos="ADJqua" rend="section">levis</w>
                 <w lemma="facio" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="44.1" pos="VER" rend="section">facito</w>
                 <w lemma="." msd="MORPH=empty" n="44.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:45" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:45.1" type="section">
                 <w lemma="taleo" msd="Case=Acc|Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=2" n="45.1" pos="NOMcom" rend="section">Taleas</w>
@@ -8273,6 +8365,8 @@
                 <w lemma="sero3" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="45.3" pos="VER" rend="section">serito</w>
                 <w lemma="." msd="MORPH=empty" n="45.3" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:46" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:46.1" type="section">
                 <w lemma="seminarium" msd="Case=Acc|Numb=Sing|Deg=Pos" n="46.1" pos="NOMcom" rend="section">Seminarium</w>
                 <w lemma="ad2" msd="MORPH=empty" n="46.1" pos="PRE" rend="section">ad</w>
@@ -8382,6 +8476,8 @@
                 <w lemma="sero3" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="46.2" pos="VER" rend="section">serito</w>
                 <w lemma="." msd="MORPH=empty" n="46.2" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:47" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:47.1" type="section">
                 <w lemma="arundo" msd="Case=Acc|Numb=Sing" n="47.1" pos="NOMcom" rend="section">Harundinem</w>
                 <w lemma="sic" msd="Deg=Pos" n="47.1" pos="ADV" rend="section">sic</w>
@@ -8450,6 +8546,8 @@
                 <w lemma="qui1" msd="Case=Acc|Numb=Sing|Gend=Neut" n="47.1" pos="PROrel" rend="section">quod</w>
                 <w lemma="eximo" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2" n="47.1" pos="VER" rend="section">eximas</w>
                 <w lemma="." msd="MORPH=empty" n="47.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:48" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:48.1" type="section">
                 <w lemma="pomarius1" msd="Case=Acc|Numb=Sing|Gend=MascNeut" n="48.1" pos="NOMcom" rend="section">Pomarium</w>
@@ -8598,6 +8696,8 @@
                 <w lemma="sero3" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="48.3" pos="VER" rend="section">serito</w>
                 <w lemma="." msd="MORPH=empty" n="48.3" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:49" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:49.1" type="section">
                 <w lemma="uinea" msd="Case=Acc|Numb=Sing" n="49.1" pos="NOMcom" rend="section">Vineam</w>
                 <w lemma="uetus" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos" n="49.1" pos="ADJqua" rend="section">veterem</w>
@@ -8671,6 +8771,8 @@
                 <w lemma="que" msd="MORPH=empty" n="49.2" pos="CON" rend="section">{crebroque}</w>
                 <w lemma="fodio" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="49.2" pos="VER" rend="section">fodito</w>
                 <w lemma="." msd="MORPH=empty" n="49.2" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:50" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:50.1" type="section">
                 <w lemma="pratum" msd="Case=Acc|Numb=Plur" n="50.1" pos="NOMcom" rend="section">Prata</w>
@@ -8779,6 +8881,8 @@
                 <w lemma="obduresco" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3" n="50.2" pos="VER" rend="section">obdurescant</w>
                 <w lemma="." msd="MORPH=empty" n="50.2" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:51" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:51.1" type="section">
                 <w lemma="propagatio" msd="Case=Nom|Numb=Sing" n="51.1" pos="NOMcom" rend="section">Propagatio</w>
                 <w lemma="pomum" msd="Case=Gen|Numb=Plur" n="51.1" pos="NOMcom" rend="section">pomorum</w>
@@ -8849,6 +8953,8 @@
                 <w lemma="modus" msd="Case=Abl|Numb=Sing" n="51.1" pos="NOMcom" rend="section">modo</w>
                 <w lemma="oportet" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="51.1" pos="VER" rend="section">oportet</w>
                 <w lemma="." msd="MORPH=empty" n="51.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:52" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:52.1" type="section">
                 <w lemma="qui1" msd="Case=Acc|Numb=Plur|Gend=Neut" n="52.1" pos="PROrel" rend="section">Quae</w>
@@ -8964,6 +9070,8 @@
                 <w lemma="propago2" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2" n="52.2" pos="VER" rend="section">propagabis</w>
                 <w lemma="." msd="MORPH=empty" n="52.2" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:53" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:53.1" type="section">
                 <w lemma="fenum" msd="Case=Nom|Numb=Sing" n="53.1" pos="NOMcom" rend="section">Faenum</w>
                 <w lemma="," msd="MORPH=empty" n="53.1" pos="PUNC" rend="section">,</w>
@@ -9007,6 +9115,8 @@
                 <w lemma="edo1" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3" n="53.1" pos="VER" rend="section">edint</w>
                 <w lemma="bos" msd="Case=Nom|Numb=Plur" n="53.1" pos="NOMcom" rend="section">boves</w>
                 <w lemma="." msd="MORPH=empty" n="53.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:54" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:54.1" type="section">
                 <w lemma="bos" msd="Case=Abl|Numb=Plur" n="54.1" pos="NOMcom" rend="section">Bubus</w>
@@ -9263,6 +9373,8 @@
                 <w lemma="aro" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="54.5" pos="VER" rend="section">arabunt</w>
                 <w lemma="." msd="MORPH=empty" n="54.5" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:55" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:55.1" type="section">
                 <w lemma="lignum" msd="Case=Acc|Numb=Plur" n="55.1" pos="NOMcom" rend="section">Ligna</w>
                 <w lemma="dominus" msd="Case=Abl|Numb=Sing" n="55.1" pos="NOMcom" rend="section">domino</w>
@@ -9281,6 +9393,8 @@
                 <w lemma="meta" msd="Case=Acc|Numb=Plur" n="55.1" pos="NOMcom" rend="section">metas</w>
                 <w lemma="facio" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="55.1" pos="VER" rend="section">facito</w>
                 <w lemma="." msd="MORPH=empty" n="55.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:56" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:56.1" type="section">
                 <w lemma="familia" msd="Case=Gen|Numb=Sing" n="56.1" pos="NOMcom" rend="section">Familiae</w>
@@ -9340,6 +9454,8 @@
                 <w lemma="iiius" msd="Case=Gen|Numb=Plur|Gend=Masc" n="56.1" pos="PROdem" rend="section">IIII</w>
                 <w lemma="redeo1" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="56.1" pos="VER" rend="section">redito</w>
                 <w lemma="." msd="MORPH=empty" n="56.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:57" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:57.1" type="section">
                 <w lemma="uinum" msd="Case=Acc|Numb=Sing" n="57.1" pos="NOMcom" rend="section">Vinum</w>
@@ -9452,6 +9568,8 @@
                 <w lemma="ebibo2" msd="Mood=Inf|Tense=Pres|Voice=Act" n="57.1" pos="VER" rend="section">ebibere</w>
                 <w lemma="." msd="MORPH=empty" n="57.1" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:58" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:58.1" type="section">
                 <w lemma="pulmentarium" msd="Case=Acc|Numb=Sing|Deg=Pos" n="58.1" pos="NOMcom" rend="section">Pulmentarium</w>
                 <w lemma="familia" msd="Case=Gen|Numb=Sing" n="58.1" pos="NOMcom" rend="section">familiae</w>
@@ -9512,6 +9630,8 @@
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="58.1" pos="VER" rend="section">est</w>
                 <w lemma="." msd="MORPH=empty" n="58.1" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:59" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:59.1" type="section">
                 <w lemma="uestimentum" msd="Case=Acc|Numb=Plur" n="59.1" pos="NOMcom" rend="section">Vestimenta</w>
                 <w lemma="familia" msd="Case=Gen|Numb=Sing" n="59.1" pos="NOMcom" rend="section">familiae</w>
@@ -9547,6 +9667,8 @@
                 <w lemma="do" msd="Mood=Inf|Tense=Pres|Voice=Act" n="59.1" pos="VER" rend="section">dare</w>
                 <w lemma="oportet" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="59.1" pos="VER" rend="section">oportet</w>
                 <w lemma="." msd="MORPH=empty" n="59.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:60" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:60.1" type="section">
                 <w lemma="bos" msd="Case=Abl|Numb=Plur" n="60.1" pos="NOMcom" rend="section">Bubus</w>
@@ -9597,6 +9719,8 @@
                 <w lemma="satio1" msd="Case=Acc|Numb=Plur" n="60.1" pos="NOMcom" rend="section">sationes</w>
                 <w lemma="facio" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="60.1" pos="VER" rend="section">facito</w>
                 <w lemma="." msd="MORPH=empty" n="60.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:61" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:61.1" type="section">
                 <w lemma="quis1" msd="Case=Nom|Numb=Sing|Gend=Neut" n="61.1" pos="PROint" rend="section">Quid</w>
@@ -9716,6 +9840,8 @@
                 <w lemma="uer" msd="Case=Acc|Numb=Sing" n="61.2" pos="NOMcom" rend="section">ver</w>
                 <w lemma="." msd="MORPH=empty" n="61.2" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:62" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:62.1" type="section">
                 <w lemma="quot2" msd="Case=Ind" n="62.1" pos="PROint" rend="section">Quot</w>
                 <w lemma="iugum" msd="Case=Acc|Numb=Plur" n="62.1" pos="NOMcom" rend="section">iuga</w>
@@ -9731,6 +9857,8 @@
                 <w lemma="sum1" msd="Mood=Inf|Tense=Pres|Voice=Act" n="62.1" pos="VER" rend="section">esse</w>
                 <w lemma="oportet" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="62.1" pos="VER" rend="section">oportet</w>
                 <w lemma="." msd="MORPH=empty" n="62.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:63" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:63.1" type="section">
                 <w lemma="funis" msd="Case=Acc|Numb=Sing" n="63.1" pos="NOMcom" rend="section">Funem</w>
@@ -9775,6 +9903,8 @@
                 <w lemma="pes" msd="Case=Acc|Numb=Plur" n="63.1" pos="NOMcom" rend="section">P.</w>
                 <w lemma="8" msd="MORPH=empty" n="63.1" pos="ADJcar" rend="section">VIII</w>
                 <w lemma="." msd="MORPH=empty" n="63.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:64" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:64.1" type="section">
                 <w lemma="olea" msd="Case=Nom|Numb=Sing" n="64.1" pos="NOMcom" rend="section">Olea</w>
@@ -9905,6 +10035,8 @@
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="64.2" pos="VER" rend="section">erit</w>
                 <w lemma="." msd="MORPH=empty" n="64.2" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:65" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:65.1" type="section">
                 <w lemma="oleum" msd="Case=Acc|Numb=Sing" n="65.1" pos="NOMcom" rend="section">Oleum</w>
                 <w lemma="uiridis" msd="Case=Voc|Numb=Sing|Gend=Neut|Deg=Pos" n="65.1" pos="ADJqua" rend="section">viride</w>
@@ -10000,6 +10132,8 @@
                 <w lemma="cella" msd="Case=Acc|Numb=Sing" n="65.1" pos="NOMcom" rend="section">cellam</w>
                 <w lemma="habeo" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="65.1" pos="VER" rend="section">habeto</w>
                 <w lemma="." msd="MORPH=empty" n="65.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:66" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:66.1" type="section">
                 <w lemma="custos" msd="Case=Gen|Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2" n="66.1" pos="VER" rend="section">Custodis</w>
@@ -10113,6 +10247,8 @@
                 <w lemma="deorior" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="66.2" pos="VER" rend="section">deorito</w>
                 <w lemma="." msd="MORPH=empty" n="66.2" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:67" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:67.1" type="section">
                 <w lemma="item" msd="Deg=Pos" n="67.1" pos="ADV" rend="section">Item</w>
                 <w lemma="custos" msd="Case=Gen|Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act" n="67.1" pos="VER" rend="section">custodis</w>
@@ -10206,6 +10342,8 @@
                 <w lemma="surripio" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3" n="67.2" pos="VER" rend="section">subripiatur</w>
                 <w lemma="." msd="MORPH=empty" n="67.2" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:68" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:68.1" type="section">
                 <w lemma="ubi3" msd="MORPH=empty" n="68.1" pos="CONsub" rend="section">Ubi</w>
                 <w lemma="uindemia" msd="Case=Nom|Numb=Sing" n="68.1" pos="NOMcom" rend="section">vindemia</w>
@@ -10259,6 +10397,8 @@
                 <w lemma="locus" msd="Case=Abl|Numb=Sing" n="68.1" pos="NOMcom" rend="section">loco</w>
                 <w lemma="repono" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="68.1" pos="VER" rend="section">reponito</w>
                 <w lemma="." msd="MORPH=empty" n="68.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:69" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:69.1" type="section">
                 <w lemma="dolium" msd="Case=Acc|Numb=Plur" n="69.1" pos="NOMcom" rend="section">Dolia</w>
@@ -10342,6 +10482,8 @@
                 <w lemma="satis1" msd="Case=Ind|Deg=Pos" n="69.2" pos="ADJqua" rend="section">satis</w>
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="69.2" pos="VER" rend="section">erit</w>
                 <w lemma="." msd="MORPH=empty" n="69.2" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:70" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:70.1" type="section">
                 <w lemma="bos" msd="Case=Dat|Numb=Plur" n="70.1" pos="NOMcom" rend="section">Bubus</w>
@@ -10456,6 +10598,8 @@
                 <w lemma="do" msd="Numb=Sing|Gend=MascNeut|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="70.1" pos="VER" rend="section">dato</w>
                 <w lemma="." msd="MORPH=empty" n="70.1" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:71" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:71.1" type="section">
                 <w lemma="bos" msd="Case=Nom|Numb=Sing" n="71.1" pos="NOMcom" rend="section">Bos</w>
                 <w lemma="si2" msd="MORPH=empty" n="71.1" pos="CONsub" rend="section">si</w>
@@ -10507,6 +10651,8 @@
                 <w lemma="do" msd="Numb=Sing|Gend=MascNeut|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="71.1" pos="VER" rend="section">dato</w>
                 <w lemma="." msd="MORPH=empty" n="71.1" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:72" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:72.1" type="section">
                 <w lemma="bos" msd="Case=Nom|Numb=Plur" n="72.1" pos="NOMcom" rend="section">Boves</w>
                 <w lemma="ne4" msd="MORPH=empty" n="72.1" pos="CONsub" rend="section">ne</w>
@@ -10525,6 +10671,8 @@
                 <w lemma="inferus" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Sup" n="72.1" pos="ADJqua" rend="section">infima</w>
                 <w lemma="ungo" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="72.1" pos="VER" rend="section">unguito</w>
                 <w lemma="." msd="MORPH=empty" n="72.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:73" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:73.1" type="section">
                 <w lemma="ubi3" msd="MORPH=empty" n="73.1" pos="CONsub" rend="section">Ubi</w>
@@ -10593,6 +10741,8 @@
                 <w lemma="refert" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="73.1" pos="VER" rend="section">refert</w>
                 <w lemma="." msd="MORPH=empty" n="73.1" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:74" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:74.1" type="section">
                 <w lemma="panis" msd="Case=Acc|Numb=Sing" n="74.1" pos="NOMcom" rend="section">Panem</w>
                 <w lemma="depsticius" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos" n="74.1" pos="ADJqua" rend="section">depsticium</w>
@@ -10627,6 +10777,8 @@
                 <w lemma="sub" msd="MORPH=empty" n="74.1" pos="PRE" rend="section">sub</w>
                 <w lemma="testu" msd="Case=Abl|Numb=Sing" n="74.1" pos="NOMcom" rend="section">testu</w>
                 <w lemma="." msd="MORPH=empty" n="74.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:75" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:75.1" type="section">
                 <w lemma="libum" msd="Case=Acc|Numb=Sing" n="75.1" pos="NOMcom" rend="section">Libum</w>
@@ -10689,6 +10841,8 @@
                 <w lemma="coquo" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="75.1" pos="VER" rend="section">coquito</w>
                 <w lemma="leniter" msd="Deg=Pos" n="75.1" pos="ADV" rend="section">leniter</w>
                 <w lemma="." msd="MORPH=empty" n="75.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:76" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:76.1" type="section">
                 <w lemma="placenta" msd="Case=Acc|Numb=Sing" n="76.1" pos="NOMcom" rend="section">Placentam</w>
@@ -11012,6 +11166,8 @@
                 <w lemma="semodialis" msd="Case=Nom|Numb=Sing|Deg=Pos" n="76.4" pos="ADJqua" rend="section">semodialis</w>
                 <w lemma="." msd="MORPH=empty" n="76.4" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:77" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:77.1" type="section">
                 <w lemma="spira" msd="Case=Acc|Numb=Sing" n="77.1" pos="NOMcom" rend="section">Spiram</w>
                 <w lemma="sic" msd="Deg=Pos" n="77.1" pos="ADV" rend="section">sic</w>
@@ -11072,6 +11228,8 @@
                 <w lemma="que" msd="MORPH=empty" n="77.1" pos="CON" rend="section">{coquitoque}</w>
                 <w lemma="." msd="MORPH=empty" n="77.1" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:78" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:78.1" type="section">
                 <w lemma="scriblita" msd="Case=Acc|Numb=Sing" n="78.1" pos="NOMcom" rend="section">Scriblitam</w>
                 <w lemma="sic" msd="Deg=Pos" n="78.1" pos="ADV" rend="section">sic</w>
@@ -11092,6 +11250,8 @@
                 <w lemma="sine" msd="MORPH=empty" n="78.1" pos="PRE" rend="section">sine</w>
                 <w lemma="mel" msd="Case=Abl|Numb=Sing" n="78.1" pos="NOMcom" rend="section">melle</w>
                 <w lemma="." msd="MORPH=empty" n="78.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:79" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:79.1" type="section">
                 <w lemma="globus" msd="Case=Acc|Numb=Plur" n="79.1" pos="NOMcom" rend="section">Globos</w>
@@ -11141,6 +11301,8 @@
                 <w lemma="ita" msd="Deg=Pos" n="79.1" pos="ADV" rend="section">ita</w>
                 <w lemma="pono" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="79.1" pos="VER" rend="section">ponito</w>
                 <w lemma="." msd="MORPH=empty" n="79.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:80" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:80.1" type="section">
                 <w lemma="encytus" msd="Case=Acc|Numb=Sing" n="80.1" pos="NOMcom" rend="section">Encytum</w>
@@ -11193,6 +11355,8 @@
                 <w lemma="appono" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="80.1" pos="VER" rend="section">adponito</w>
                 <w lemma="." msd="MORPH=empty" n="80.1" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:81" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:81.1" type="section">
                 <w lemma="erneus" msd="Case=Acc|Numb=Sing" n="81.1" pos="NOMcom" rend="section">Erneum</w>
                 <w lemma="sic" msd="Deg=Pos" n="81.1" pos="ADV" rend="section">sic</w>
@@ -11244,6 +11408,8 @@
                 <w lemma="pono" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="81.1" pos="VER" rend="section">ponito</w>
                 <w lemma="." msd="MORPH=empty" n="81.1" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:82" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:82.1" type="section">
                 <w lemma="spaerita" msd="Case=Acc|Numb=Sing" n="82.1" pos="NOMcom" rend="section">Spaeritam</w>
                 <w lemma="sic" msd="Deg=Pos" n="82.1" pos="ADV" rend="section">sic</w>
@@ -11281,6 +11447,8 @@
                 <w lemma="que" msd="MORPH=empty" n="82.1" pos="CON" rend="section">{itemque}</w>
                 <w lemma="coquo" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="82.1" pos="VER" rend="section">coquito</w>
                 <w lemma="." msd="MORPH=empty" n="82.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:83" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:83.1" type="section">
                 <w lemma="uotum" msd="Case=Acc|Numb=Sing" n="83.1" pos="NOMcom" rend="section">Votum</w>
@@ -11385,6 +11553,8 @@
                 <w lemma="uoueo" msd="Mood=Inf|Tense=Pres|Voice=Act" n="83.1" pos="VER" rend="section">vovere</w>
                 <w lemma="." msd="MORPH=empty" n="83.1" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:84" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:84.1" type="section">
                 <w lemma="sauillum" msd="Case=Acc|Numb=Sing" n="84.1" pos="NOMcom" rend="section">Savillum</w>
                 <w lemma="hic1" msd="Case=Abl|Numb=Sing|Gend=MascNeut" n="84.1" pos="PROdem" rend="section">hoc</w>
@@ -11466,6 +11636,8 @@
                 <w lemma="lingula" msd="Case=Nom|Numb=Sing" n="84.1" pos="NOMcom" rend="section">lingula</w>
                 <w lemma="." msd="MORPH=empty" n="84.1" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:85" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:85.1" type="section">
                 <w lemma="puls" msd="Case=Acc|Numb=Sing" n="85.1" pos="NOMcom" rend="section">Pultem</w>
                 <w lemma="punicus" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos" n="85.1" pos="ADJqua" rend="section">Punicam</w>
@@ -11513,6 +11685,8 @@
                 <w lemma="aula1" msd="Case=Acc|Numb=Sing" n="85.1" pos="NOMcom" rend="section">aulam</w>
                 <w lemma="nouus" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos" n="85.1" pos="ADJqua" rend="section">novam</w>
                 <w lemma="." msd="MORPH=empty" n="85.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:86" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:86.1" type="section">
                 <w lemma="granea" msd="Case=Acc|Numb=Sing" n="86.1" pos="NOMcom" rend="section">Graneam</w>
@@ -11564,6 +11738,8 @@
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="86.1" pos="VER" rend="section">erit</w>
                 <w lemma="facio" msd="Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass" n="86.1" pos="VER" rend="section">factus</w>
                 <w lemma="." msd="MORPH=empty" n="86.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:87" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:87.1" type="section">
                 <w lemma="amulus" msd="Case=Acc|Numb=Sing" n="87.1" pos="NOMcom" rend="section">Amulum</w>
@@ -11650,6 +11826,8 @@
                 <w lemma="lac" msd="Case=Abl|Numb=Sing" n="87.1" pos="NOMcom" rend="section">lacte</w>
                 <w lemma="coquo" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3" n="87.1" pos="VER" rend="section">coquat</w>
                 <w lemma="." msd="MORPH=empty" n="87.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:88" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:88.1" type="section">
                 <w lemma="sal" msd="Case=Acc|Numb=Sing" n="88.1" pos="NOMcom" rend="section">Salem</w>
@@ -11768,6 +11946,8 @@
                 <w lemma="pono" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="88.2" pos="VER" rend="section">ponito</w>
                 <w lemma="." msd="MORPH=empty" n="88.2" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:89" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:89.1" type="section">
                 <w lemma="gallina" msd="Case=Acc|Numb=Plur" n="89.1" pos="NOMcom" rend="section">Gallinas</w>
                 <w lemma="et2" msd="MORPH=empty" n="89.1" pos="CONcoo" rend="section">et</w>
@@ -11847,6 +12027,8 @@
                 <w lemma="bis" msd="MORPH=empty" n="89.1" pos="ADJadv.mul" rend="section">bis</w>
                 <w lemma="esca" msd="Case=Acc|Numb=Sing" n="89.1" pos="NOMcom" rend="section">escam</w>
                 <w lemma="." msd="MORPH=empty" n="89.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:90" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:90.1" type="section">
                 <w lemma="palumbus" msd="Case=Acc|Numb=Sing" n="90.1" pos="NOMcom" rend="section">Palumbum</w>
@@ -11941,6 +12123,8 @@
                 <w lemma="tempero" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="90.1" pos="VER" rend="section">temperato</w>
                 <w lemma="." msd="MORPH=empty" n="90.1" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:91" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:91.1" type="section">
                 <w lemma="area" msd="Case=Acc|Numb=Sing" n="91.1" pos="NOMcom" rend="section">Aream</w>
                 <w lemma="sic" msd="Deg=Pos" n="91.1" pos="ADV" rend="section">sic</w>
@@ -11989,6 +12173,8 @@
                 <w lemma="herba" msd="Case=Nom|Numb=Plur" n="91.1" pos="NOMcom" rend="section">herbae</w>
                 <w lemma="nascor" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Dep|Person=3" n="91.1" pos="VER" rend="section">nascentur</w>
                 <w lemma="." msd="MORPH=empty" n="91.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:92" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:92.1" type="section">
                 <w lemma="frumentum" msd="Case=Abl|Numb=Sing" n="92.1" pos="NOMcom" rend="section">Frumento</w>
@@ -12041,6 +12227,8 @@
                 <w lemma="non" msd="MORPH=empty" n="92.1" pos="ADVneg" rend="section">non</w>
                 <w lemma="noceo" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="92.1" pos="VER" rend="section">nocebit</w>
                 <w lemma="." msd="MORPH=empty" n="92.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:93" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:93.1" type="section">
                 <w lemma="olea" msd="Case=Nom|Numb=Sing" n="93.1" pos="NOMcom" rend="section">Olea</w>
@@ -12104,6 +12292,8 @@
                 <w lemma="addo" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=2" n="93.1" pos="VER" rend="section">addideris</w>
                 <w lemma="." msd="MORPH=empty" n="93.1" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:94" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:94.1" type="section">
                 <w lemma="ficus1" msd="Case=Nom|Numb=Sing" n="94.1" pos="NOMcom" rend="section">Fici</w>
                 <w lemma="ut4" msd="MORPH=empty" n="94.1" pos="VER" rend="section">uti</w>
@@ -12146,6 +12336,8 @@
                 <w lemma="ferax" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Comp" n="94.1" pos="ADJqua" rend="section">feraciores</w>
                 <w lemma="sum1" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="94.1" pos="VER" rend="section">erunt</w>
                 <w lemma="." msd="MORPH=empty" n="94.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:95" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:95.1" type="section">
                 <w lemma="conuoluulus" msd="Case=Nom|Numb=Sing|Gend=Masc" n="95.1" pos="VER" rend="section">Convolvulus</w>
@@ -12259,6 +12451,8 @@
                 <w lemma="nascor" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3" n="95.2" pos="VER" rend="section">nascetur</w>
                 <w lemma="." msd="MORPH=empty" n="95.2" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:96" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:96.1" type="section">
                 <w lemma="ouis" msd="Case=Nom|Numb=Plur" n="96.1" pos="NOMcom" rend="section">Oves</w>
                 <w lemma="ne4" msd="MORPH=empty" n="96.1" pos="CONsub" rend="section">ne</w>
@@ -12354,6 +12548,8 @@
                 <w lemma="sum1" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="96.2" pos="VER" rend="section">erunt</w>
                 <w lemma="." msd="MORPH=empty" n="96.2" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:97" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:97.1" type="section">
                 <w lemma="amurca" msd="Case=Abl|Numb=Sing" n="97.1" pos="NOMcom" rend="section">Amurca</w>
                 <w lemma="decoquo" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass" n="97.1" pos="VER" rend="section">decocta</w>
@@ -12370,6 +12566,8 @@
                 <w lemma="bonus" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Comp" n="97.1" pos="ADJqua" rend="section">meliora</w>
                 <w lemma="facio" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2" n="97.1" pos="VER" rend="section">facies</w>
                 <w lemma="." msd="MORPH=empty" n="97.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:98" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:98.1" type="section">
                 <w lemma="uestimentum" msd="Case=Nom|Numb=Plur" n="98.1" pos="NOMcom" rend="section">Vestimenta</w>
@@ -12459,6 +12657,8 @@
                 <w lemma="molestus" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos" n="98.2" pos="ADJqua" rend="section">molesta</w>
                 <w lemma="." msd="MORPH=empty" n="98.2" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:99" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:99.1" type="section">
                 <w lemma="ficus1" msd="Case=Voc|Numb=Sing" n="99.1" pos="NOMcom" rend="section">Fici</w>
                 <w lemma="aridus" msd="Case=Nom|Numb=Plur|Gend=Fem|Deg=Pos" n="99.1" pos="ADJqua" rend="section">aridae</w>
@@ -12478,6 +12678,8 @@
                 <w lemma="decoquo" msd="Case=Abl|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass" n="99.1" pos="VER" rend="section">decocta</w>
                 <w lemma="ungo" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="99.1" pos="VER" rend="section">unguito</w>
                 <w lemma="." msd="MORPH=empty" n="99.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:100" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:100.1" type="section">
                 <w lemma="oleum" msd="Case=Acc|Numb=Sing" n="100.1" pos="NOMcom" rend="section">Oleum</w>
@@ -12525,6 +12727,8 @@
                 <w lemma="firmus" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp" n="100.1" pos="ADJqua" rend="section">firmior</w>
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="100.1" pos="VER" rend="section">erit</w>
                 <w lemma="." msd="MORPH=empty" n="100.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:101" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:101.1" type="section">
                 <w lemma="uirga" msd="Case=Acc|Numb=Plur" n="101.1" pos="NOMcom" rend="section">Virgas</w>
@@ -12584,6 +12788,8 @@
                 <w lemma="plane" msd="Deg=Pos" n="101.1" pos="ADV" rend="section">plane</w>
                 <w lemma="." msd="MORPH=empty" n="101.1" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:102" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:102.1" type="section">
                 <w lemma="si2" msd="MORPH=empty" n="102.1" pos="CONsub" rend="section">Si</w>
                 <w lemma="bos" msd="Case=Acc|Numb=Sing" n="102.1" pos="NOMcom" rend="section">bovem</w>
@@ -12631,6 +12837,8 @@
                 <w lemma="homo" msd="Case=Dat|Numb=Sing" n="102.1" pos="NOMcom" rend="section">homini</w>
                 <w lemma="facio" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="102.1" pos="VER" rend="section">facito</w>
                 <w lemma="." msd="MORPH=empty" n="102.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:103" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:103.1" type="section">
                 <w lemma="bos" msd="Case=Nom|Numb=Plur" n="103.1" pos="NOMcom" rend="section">Boves</w>
@@ -12694,6 +12902,8 @@
                 <w lemma="morbus" msd="Case=Nom|Numb=Sing" n="103.1" pos="NOMcom" rend="section">morbus</w>
                 <w lemma="absum1" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="103.1" pos="VER" rend="section">aberit</w>
                 <w lemma="." msd="MORPH=empty" n="103.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:104" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:104.1" type="section">
                 <w lemma="uinum" msd="Case=Acc|Numb=Sing" n="104.1" pos="NOMcom" rend="section">Vinum</w>
@@ -12773,6 +12983,8 @@
                 <w lemma="pulcher" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Sup" n="104.1" pos="ADJqua" rend="section">pulcherrimum</w>
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="104.1" pos="VER" rend="section">erit</w>
                 <w lemma="." msd="MORPH=empty" n="104.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:105" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:105.1" type="section">
                 <w lemma="qui1" msd="Case=Nom|Numb=Sing|Gend=Masc" n="105.1" pos="PROrel" rend="section">Qui</w>
@@ -12901,6 +13113,8 @@
                 <w lemma="coum" msd="Case=Acc|Numb=Sing" n="105.2" pos="NOMcom" rend="section">Coum</w>
                 <w lemma="." msd="MORPH=empty" n="105.2" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:106" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:106.1" type="section">
                 <w lemma="aqua" msd="Case=Gen|Numb=Sing" n="106.1" pos="NOMcom" rend="section">Aquae</w>
                 <w lemma="marinus" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos" n="106.1" pos="ADJqua" rend="section">marinae</w>
@@ -12977,6 +13191,8 @@
                 <w lemma="omnis" msd="Case=Acc|Numb=Plur|Gend=Neut" n="106.1" pos="PROind" rend="section">omnia</w>
                 <w lemma="facio" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="106.1" pos="VER" rend="section">facito</w>
                 <w lemma="." msd="MORPH=empty" n="106.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:107" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:107.1" type="section">
                 <w lemma="quo3" msd="Gend=MascNeut" n="107.1" pos="PROrel" rend="section">Quo</w>
@@ -13071,6 +13287,8 @@
                 <w lemma="dolium" msd="Case=Gen|Numb=Plur" n="107.2" pos="NOMcom" rend="section">doliorum</w>
                 <w lemma="." msd="MORPH=empty" n="107.2" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:108" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:108.1" type="section">
                 <w lemma="uinum" msd="Case=Acc|Numb=Sing" n="108.1" pos="NOMcom" rend="section">Vinum</w>
                 <w lemma="si2" msd="MORPH=empty" n="108.1" pos="CONsub" rend="section">si</w>
@@ -13148,6 +13366,8 @@
                 <w lemma="duro" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="108.2" pos="VER" rend="section">durabit</w>
                 <w lemma="." msd="MORPH=empty" n="108.2" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:109" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:109.1" type="section">
                 <w lemma="uinum" msd="Case=Acc|Numb=Sing" n="109.1" pos="NOMcom" rend="section">Vinum</w>
                 <w lemma="asper" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos" n="109.1" pos="ADJqua" rend="section">asperum</w>
@@ -13213,6 +13433,8 @@
                 <w lemma="odoratus2" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos" n="109.1" pos="ADJqua" rend="section">odoratum</w>
                 <w lemma="." msd="MORPH=empty" n="109.1" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:110" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:110.1" type="section">
                 <w lemma="odor" msd="Case=Acc|Numb=Sing" n="110.1" pos="NOMcom" rend="section">Odorem</w>
                 <w lemma="deterior" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos" n="110.1" pos="ADJqua" rend="section">deteriorem</w>
@@ -13272,6 +13494,8 @@
                 <w lemma="demo" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=2" n="110.1" pos="VER" rend="section">dempseris</w>
                 <w lemma="." msd="MORPH=empty" n="110.1" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:111" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:111.1" type="section">
                 <w lemma="si2" msd="MORPH=empty" n="111.1" pos="CONsub" rend="section">Si</w>
                 <w lemma="uolo3" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2" n="111.1" pos="VER" rend="section">voles</w>
@@ -13318,6 +13542,8 @@
                 <w lemma="uas2" msd="Case=Nom|Numb=Sing" n="111.1" pos="NOMcom" rend="section">vas</w>
                 <w lemma="hederaceus" msd="Case=Nom|Numb=Sing|Gend=MascNeut|Deg=Pos" n="111.1" pos="ADJqua" rend="section">hederaceum</w>
                 <w lemma="." msd="MORPH=empty" n="111.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:112" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:112.1" type="section">
                 <w lemma="uinum" msd="Case=Acc|Numb=Sing" n="112.1" pos="NOMcom" rend="section">Vinum</w>
@@ -13549,6 +13775,8 @@
                 <w lemma="siccus" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos" n="112.3" pos="ADJqua" rend="section">sicca</w>
                 <w lemma="." msd="MORPH=empty" n="112.3" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:113" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:113.1" type="section">
                 <w lemma="ut4" msd="MORPH=empty" n="113.1" pos="CONsub" rend="section">Ut</w>
                 <w lemma="odoratus2" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos" n="113.1" pos="ADJqua" rend="section">odoratum</w>
@@ -13686,6 +13914,8 @@
                 <w lemma="instipo" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="113.2" pos="VER" rend="section">instipato</w>
                 <w lemma="." msd="MORPH=empty" n="113.2" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:114" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:114.1" type="section">
                 <w lemma="uinum" msd="Case=Acc|Numb=Sing" n="114.1" pos="NOMcom" rend="section">Vinum</w>
                 <w lemma="si2" msd="MORPH=empty" n="114.1" pos="CONsub" rend="section">si</w>
@@ -13797,6 +14027,8 @@
                 <w lemma="moueo" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="114.2" pos="VER" rend="section">movebit</w>
                 <w lemma="." msd="MORPH=empty" n="114.2" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:115" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:115.1" type="section">
                 <w lemma="in" msd="MORPH=empty" n="115.1" pos="PRE" rend="section">In</w>
                 <w lemma="uinum" msd="Case=Acc|Numb=Sing" n="115.1" pos="NOMcom" rend="section">vinum</w>
@@ -13883,6 +14115,8 @@
                 <w lemma="periculum" msd="Case=Abl|Numb=Sing" n="115.2" pos="NOMcom" rend="section">periculo</w>
                 <w lemma="." msd="MORPH=empty" n="115.2" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:116" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:116.1" type="section">
                 <w lemma="lens?" msd="Case=Acc|Numb=Sing|Deg=Pos" n="116.1" pos="ADJqua" rend="section">Lentim</w>
                 <w lemma="quis1" msd="Case=Abl|Numb=Sing|Gend=MascNeut" n="116.1" pos="PROint" rend="section">quo</w>
@@ -13916,6 +14150,8 @@
                 <w lemma="seruo" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3" n="116.1" pos="VER" rend="section">servabitur</w>
                 <w lemma="recte" msd="Deg=Pos" n="116.1" pos="ADV" rend="section">recte</w>
                 <w lemma="." msd="MORPH=empty" n="116.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:117" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:117.1" type="section">
                 <w lemma="olea" msd="Case=Nom|Numb=Plur" n="117.1" pos="NOMcom" rend="section">Oleae</w>
@@ -13990,6 +14226,8 @@
                 <w lemma="sumo" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="117.1" pos="VER" rend="section">sumito</w>
                 <w lemma="." msd="MORPH=empty" n="117.1" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:118" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:118.1" type="section">
                 <w lemma="olea" msd="Case=Acc|Numb=Sing" n="118.1" pos="NOMcom" rend="section">Oleam</w>
                 <w lemma="albus" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos" n="118.1" pos="ADJqua" rend="section">albam</w>
@@ -14020,6 +14258,8 @@
                 <w lemma="scribo" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass" n="118.1" pos="VER" rend="section">scriptum</w>
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="118.1" pos="VER" rend="section">est</w>
                 <w lemma="." msd="MORPH=empty" n="118.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:119" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:119.1" type="section">
                 <w lemma="epityrum" msd="Case=Acc|Numb=Sing" n="119.1" pos="NOMcom" rend="section">Epityrum</w>
@@ -14072,6 +14312,8 @@
                 <w lemma="utor" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="119.1" pos="VER" rend="section">utito</w>
                 <w lemma="." msd="MORPH=empty" n="119.1" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:120" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:120.1" type="section">
                 <w lemma="mustum" msd="Case=Acc|Numb=Sing" n="120.1" pos="NOMcom" rend="section">Mustum</w>
                 <w lemma="si2" msd="MORPH=empty" n="120.1" pos="CONsub" rend="section">si</w>
@@ -14102,6 +14344,8 @@
                 <w lemma="mustum" msd="Case=Nom|Numb=Sing" n="120.1" pos="NOMcom" rend="section">mustum</w>
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="120.1" pos="VER" rend="section">erit</w>
                 <w lemma="." msd="MORPH=empty" n="120.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:121" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:121.1" type="section">
                 <w lemma="mustaceus" msd="Case=Acc|Numb=Plur" n="121.1" pos="NOMcom" rend="section">Mustaceos</w>
@@ -14147,6 +14391,8 @@
                 <w lemma="cum3" msd="MORPH=empty" n="121.1" pos="CONsub" rend="section">cum</w>
                 <w lemma="coquo" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2" n="121.1" pos="VER" rend="section">coques</w>
                 <w lemma="." msd="MORPH=empty" n="121.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:122" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:122.1" type="section">
                 <w lemma="uinum" msd="Case=Acc|Numb=Sing" n="122.1" pos="NOMcom" rend="section">Vinum</w>
@@ -14196,6 +14442,8 @@
                 <w lemma="prosum1" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="122.1" pos="VER" rend="section">proderit</w>
                 <w lemma="." msd="MORPH=empty" n="122.1" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:123" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:123.1" type="section">
                 <w lemma="uinum" msd="Case=Acc|Numb=Sing" n="123.1" pos="NOMcom" rend="section">Vinum</w>
                 <w lemma="ad2" msd="MORPH=empty" n="123.1" pos="PRE" rend="section">ad</w>
@@ -14235,6 +14483,8 @@
                 <w lemma="prosum1" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="123.1" pos="VER" rend="section">proderit</w>
                 <w lemma="." msd="MORPH=empty" n="123.1" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:124" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:124.1" type="section">
                 <w lemma="canis" msd="Case=Acc|Numb=Plur" n="124.1" pos="NOMcom" rend="section">Canes</w>
                 <w lemma="interdiu" msd="Deg=Pos" n="124.1" pos="ADV" rend="section">interdiu</w>
@@ -14249,6 +14499,8 @@
                 <w lemma="uigilans" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Comp" n="124.1" pos="ADJqua" rend="section">vigilantiores</w>
                 <w lemma="sum1" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3" n="124.1" pos="VER" rend="section">sint</w>
                 <w lemma="." msd="MORPH=empty" n="124.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:125" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:125.1" type="section">
                 <w lemma="uinum" msd="Case=Acc|Numb=Sing" n="125.1" pos="NOMcom" rend="section">Vinum</w>
@@ -14303,6 +14555,8 @@
                 <w lemma="coeliacum" msd="Case=Acc|Numb=Sing" n="125.1" pos="NOMcom" rend="section">coeliacum</w>
                 <w lemma="." msd="MORPH=empty" n="125.1" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:126" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:126.1" type="section">
                 <w lemma="ad2" msd="MORPH=empty" n="126.1" pos="PRE" rend="section">Ad</w>
                 <w lemma="tormina" msd="Case=Acc|Numb=Plur" n="126.1" pos="NOMcom" rend="section">tormina</w>
@@ -14353,6 +14607,8 @@
                 <w lemma="hemina" msd="Case=Acc|Numb=Sing" n="126.1" pos="NOMcom" rend="section">heminam</w>
                 <w lemma="bibo2" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="126.1" pos="VER" rend="section">bibito</w>
                 <w lemma="." msd="MORPH=empty" n="126.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:127" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:127.1" type="section">
                 <w lemma="ad2" msd="MORPH=empty" n="127.1" pos="PRE" rend="section">Ad</w>
@@ -14465,6 +14721,8 @@
                 <w lemma="deambulo" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="127.2" pos="VER" rend="section">deambulet</w>
                 <w lemma="." msd="MORPH=empty" n="127.2" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:128" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:128.1" type="section">
                 <w lemma="habitatio" msd="Case=Acc|Numb=Sing" n="128.1" pos="NOMcom" rend="section">Habitationem</w>
                 <w lemma="deluto" msd="Mood=Inf|Tense=Pres|Voice=Act" n="128.1" pos="VER" rend="section">delutare</w>
@@ -14519,6 +14777,8 @@
                 <w lemma="sui1" msd="Case=Acc|Numb=Sing" n="128.1" pos="PROref" rend="section">se</w>
                 <w lemma="." msd="MORPH=empty" n="128.1" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:129" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:129.1" type="section">
                 <w lemma="area" msd="Case=Acc|Numb=Sing" n="129.1" pos="NOMcom" rend="section">Aream</w>
                 <w lemma="," msd="MORPH=empty" n="129.1" pos="PUNC" rend="section">,</w>
@@ -14567,6 +14827,8 @@
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="129.1" pos="VER" rend="section">erit</w>
                 <w lemma="." msd="MORPH=empty" n="129.1" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:130" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:130.1" type="section">
                 <w lemma="codicillus" msd="Case=Acc|Numb=Plur" n="130.1" pos="NOMcom" rend="section">Codicillos</w>
                 <w lemma="oleagineus" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos" n="130.1" pos="ADJqua" rend="section">oleagineos</w>
@@ -14592,6 +14854,8 @@
                 <w lemma="ardeo" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="130.1" pos="VER" rend="section">ardebunt</w>
                 <w lemma="bene" msd="Deg=Pos" n="130.1" pos="ADV" rend="section">bene</w>
                 <w lemma="." msd="MORPH=empty" n="130.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:131" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:131.1" type="section">
                 <w lemma="pirus" msd="Case=Abl|Numb=Sing|Deg=Pos" n="131.1" pos="NOMcom" rend="section">Piro</w>
@@ -14629,6 +14893,8 @@
                 <w lemma="posterius" msd="Deg=Sup" n="131.1" pos="ADV" rend="section">postremo</w>
                 <w lemma="aro" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act" n="131.1" pos="VER" rend="section">arato</w>
                 <w lemma="." msd="MORPH=empty" n="131.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:132" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:132.1" type="section">
                 <w lemma="daps" msd="Case=Acc|Numb=Sing" n="132.1" pos="NOMcom" rend="section">Dapem</w>
@@ -14747,6 +15013,8 @@
                 <w lemma="," msd="MORPH=empty" n="132.2" pos="PUNC" rend="section">,</w>
                 <w lemma="lens?" msd="Case=Acc|Numb=Sing" n="132.2" pos="ADJqua" rend="section">lentim</w>
                 <w lemma="." msd="MORPH=empty" n="132.2" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:133" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:133.1" type="section">
                 <w lemma="propagatio" msd="Case=Nom|Numb=Sing" n="133.1" pos="NOMcom" rend="section">Propagatio</w>
@@ -14926,6 +15194,8 @@
                 <w lemma="qualus" msd="Case=Abl|Numb=Sing" n="133.4" pos="NOMcom" rend="section">qualo</w>
                 <w lemma="sero3" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="133.4" pos="VER" rend="section">serito</w>
                 <w lemma="." msd="MORPH=empty" n="133.4" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:134" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:134.1" type="section">
                 <w lemma="priusquam" msd="MORPH=empty" n="134.1" pos="CONsub" rend="section">Priusquam</w>
@@ -15150,6 +15420,8 @@
                 <w lemma="uinum" msd="Case=Acc|Numb=Sing" n="134.4" pos="NOMcom" rend="section">vinum</w>
                 <w lemma="do" msd="Numb=Sing|Gend=MascNeut|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="134.4" pos="VER" rend="section">dato</w>
                 <w lemma="." msd="MORPH=empty" n="134.4" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:135" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:135.1" type="section">
                 <w lemma="roma" msd="Case=Gen|Numb=Sing" n="135.1" pos="NOMcom" rend="section">Romae</w>
@@ -15588,6 +15860,8 @@
                 <w lemma="que" msd="MORPH=empty" n="135.6" pos="CON" rend="section">{concinnatoque}</w>
                 <w lemma="." msd="MORPH=empty" n="135.6" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:136" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:136.1" type="section">
                 <w lemma="politio" msd="Case=Acc|Numb=Sing" n="136.1" pos="NOMcom" rend="section">Politionem</w>
                 <w lemma="quis1" msd="Case=Abl|Numb=Sing|Gend=MascNeut" n="136.1" pos="PROint" rend="section">quo</w>
@@ -15661,6 +15935,8 @@
                 <w lemma="diuido" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3" n="136.1" pos="VER" rend="section">dividat</w>
                 <w lemma="." msd="MORPH=empty" n="136.1" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:137" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:137.1" type="section">
                 <w lemma="uinea" msd="Case=Acc|Numb=Sing" n="137.1" pos="NOMcom" rend="section">Vineam</w>
                 <w lemma="curo" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass" n="137.1" pos="VER" rend="section">curandam</w>
@@ -15694,6 +15970,8 @@
                 <w lemma="pro1" msd="MORPH=empty" n="137.1" pos="PRE" rend="section">pro</w>
                 <w lemma="indiuisus" msd="Case=Abl|Numb=Sing" n="137.1" pos="ADJqua" rend="section">indiviso</w>
                 <w lemma="." msd="MORPH=empty" n="137.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:138" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:138.1" type="section">
                 <w lemma="bos" msd="Case=Acc|Numb=Plur" n="138.1" pos="NOMcom" rend="section">Boves</w>
@@ -15730,6 +16008,8 @@
                 <w lemma="familia" msd="Case=Abl|Numb=Sing" n="138.1" pos="NOMcom" rend="section">familia</w>
                 <w lemma="sum1" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="138.1" pos="VER" rend="section">sunt</w>
                 <w lemma="." msd="MORPH=empty" n="138.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:139" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:139.1" type="section">
                 <w lemma="lucus" msd="Case=Acc|Numb=Sing" n="139.1" pos="NOMcom" rend="section">Lucum</w>
@@ -15827,6 +16107,8 @@
                 <w lemma="." msd="MORPH=empty" n="139.1" pos="PUNC" rend="section">.</w>
                 <w lemma="&quot;" msd="MORPH=empty" n="139.1" pos="PUNC" rend="section">"</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:140" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:140.1" type="section">
                 <w lemma="si2" msd="MORPH=empty" n="140.1" pos="CONsub" rend="section">Si</w>
                 <w lemma="fodio" msd="Mood=Inf|Tense=Pres|Voice=Act" n="140.1" pos="VER" rend="section">fodere</w>
@@ -15869,6 +16151,8 @@
                 <w lemma="piaculum" msd="Case=Abl|Numb=Sing" n="140.1" pos="NOMcom" rend="section">piaculo</w>
                 <w lemma="facio" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="140.1" pos="VER" rend="section">facito</w>
                 <w lemma="." msd="MORPH=empty" n="140.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:141" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:141.1" type="section">
                 <w lemma="ager" msd="Case=Acc|Numb=Sing" n="141.1" pos="NOMcom" rend="section">Agrum</w>
@@ -16153,6 +16437,8 @@
                 <w lemma="." msd="MORPH=empty" n="141.4" pos="PUNC" rend="section">.</w>
                 <w lemma="&quot;" msd="MORPH=empty" n="141.4" pos="PUNC" rend="section">"</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:142" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:142.1" type="section">
                 <w lemma="uillicus1" msd="Case=Gen|Numb=Sing" n="142.1" pos="NOMcom" rend="section">Vilici</w>
                 <w lemma="officium" msd="Case=Acc|Numb=Plur" n="142.1" pos="NOMcom" rend="section">officia</w>
@@ -16225,6 +16511,8 @@
                 <w lemma="que" msd="MORPH=empty" n="142.1" pos="CON" rend="section">{curenturque}</w>
                 <w lemma="diligenter" msd="Deg=Pos" n="142.1" pos="ADV" rend="section">diligenter</w>
                 <w lemma="." msd="MORPH=empty" n="142.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:143" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:143.1" type="section">
                 <w lemma="uillica" msd="Case=Nom|Numb=Plur" n="143.1" pos="NOMcom" rend="section">Vilicae</w>
@@ -16440,6 +16728,8 @@
                 <w lemma="scio" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3" n="143.3" pos="VER" rend="section">sciat</w>
                 <w lemma="facio" msd="Mood=Inf|Tense=Pres|Voice=Act" n="143.3" pos="VER" rend="section">facere</w>
                 <w lemma="." msd="MORPH=empty" n="143.3" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:144" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:144.1" type="section">
                 <w lemma="olea" msd="Case=Acc|Numb=Sing" n="144.1" pos="NOMcom" rend="section">Oleam</w>
@@ -16764,6 +17054,8 @@
                 <w lemma="do" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Pass|Person=3" n="144.5" pos="VER" rend="section">dabuntur</w>
                 <w lemma="." msd="MORPH=empty" n="144.5" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:145" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:145.1" type="section">
                 <w lemma="olea" msd="Case=Acc|Numb=Sing" n="145.1" pos="NOMcom" rend="section">Oleam</w>
                 <w lemma="facio" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass" n="145.1" pos="VER" rend="section">faciundam</w>
@@ -16955,6 +17247,8 @@
                 <w lemma="." msd="MORPH=empty" n="145.3" pos="PUNC" rend="section">.</w>
                 <w lemma="2" msd="MORPH=empty" n="145.3" pos="ADJcar" rend="section">II</w>
                 <w lemma="." msd="MORPH=empty" n="145.3" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:146" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:146.1" type="section">
                 <w lemma="olea" msd="Case=Acc|Numb=Sing" n="146.1" pos="NOMcom" rend="section">Oleam</w>
@@ -17185,6 +17479,8 @@
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="146.2" pos="VER" rend="section">sunto</w>
                 <w lemma="." msd="MORPH=empty" n="146.2" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:147" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:147.1" type="section">
                 <w lemma="hic1" msd="Case=Abl|Numb=Sing|Gend=Fem" n="147.1" pos="PROdem" rend="section">Hac</w>
                 <w lemma="lex" msd="Case=Abl|Numb=Sing" n="147.1" pos="NOMcom" rend="section">lege</w>
@@ -17226,6 +17522,8 @@
                 <w lemma="olea" msd="Case=Gen|Numb=Sing" n="147.1" pos="NOMcom" rend="section">oleae</w>
                 <w lemma="pendeo" msd="Case=Dat|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act" n="147.1" pos="VER" rend="section">pendenti</w>
                 <w lemma="." msd="MORPH=empty" n="147.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:148" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:148.1" type="section">
                 <w lemma="uinum" msd="Case=Acc|Numb=Sing" n="148.1" pos="NOMcom" rend="section">Vinum</w>
@@ -17354,6 +17652,8 @@
                 <w lemma="olea" msd="Case=Gen|Numb=Sing" n="148.2" pos="NOMcom" rend="section">oleae</w>
                 <w lemma="pendeo" msd="Case=Dat|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act" n="148.2" pos="VER" rend="section">pendenti</w>
                 <w lemma="." msd="MORPH=empty" n="148.2" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:149" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:149.1" type="section">
                 <w lemma="quis1" msd="Case=Abl|Numb=Sing|Gend=Fem" n="149.1" pos="PROint" rend="section">Qua</w>
@@ -17503,6 +17803,8 @@
                 <w lemma="fio" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3" n="149.2" pos="VER" rend="section">fiat</w>
                 <w lemma="." msd="MORPH=empty" n="149.2" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:150" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:150.1" type="section">
                 <w lemma="fructus" msd="Case=Acc|Numb=Sing" n="150.1" pos="NOMcom" rend="section">Fructum</w>
                 <w lemma="ouis" msd="Case=Gen|Numb=Plur" n="150.1" pos="NOMcom" rend="section">ovium</w>
@@ -17612,6 +17914,8 @@
                 <w lemma="pignus" msd="Case=Dat|Numb=Sing" n="150.2" pos="NOMcom" rend="section">pignori</w>
                 <w lemma="sum1" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="150.2" pos="VER" rend="section">esto</w>
                 <w lemma="." msd="MORPH=empty" n="150.2" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:151" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:151.1" type="section">
                 <w lemma="semen1" msd="Case=Acc|Numb=Sing" n="151.1" pos="NOMcom" rend="section">Semen</w>
@@ -17870,6 +18174,8 @@
                 <w lemma="demo" msd="Mood=Inf|Tense=Pres|Voice=Pass" n="151.4" pos="VER" rend="section">demi</w>
                 <w lemma="." msd="MORPH=empty" n="151.4" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:152" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:152.1" type="section">
                 <w lemma="de" msd="MORPH=empty" n="152.1" pos="PRE" rend="section">De</w>
                 <w lemma="scopa" msd="Case=Abl|Numb=Plur" n="152.1" pos="NOMcom" rend="section">scopis</w>
@@ -17915,6 +18221,8 @@
                 <w lemma="adhaeresco" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3" n="152.1" pos="VER" rend="section">adhaerescat</w>
                 <w lemma="." msd="MORPH=empty" n="152.1" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:153" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:153.1" type="section">
                 <w lemma="uinum" msd="Case=Acc|Numb=Sing" n="153.1" pos="NOMcom" rend="section">Vinum</w>
                 <w lemma="faeco" msd="Case=Acc|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass" n="153.1" pos="VER" rend="section">faecatum</w>
@@ -17939,6 +18247,8 @@
                 <w lemma="exprimo" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="153.1" pos="VER" rend="section">exprimitoque</w>
                 <w lemma="que" msd="MORPH=empty" n="153.1" pos="CON" rend="section">{exprimitoque}</w>
                 <w lemma="." msd="MORPH=empty" n="153.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:154" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:154.1" type="section">
                 <w lemma="uinum" msd="Case=Acc|Numb=Sing" n="154.1" pos="NOMcom" rend="section">Vinum</w>
@@ -18013,6 +18323,8 @@
                 <w lemma="postea" msd="Deg=Pos" n="154.1" pos="ADV" rend="section">postea</w>
                 <w lemma="obturo" msd="Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass" n="154.1" pos="VER" rend="section">obturato</w>
                 <w lemma="." msd="MORPH=empty" n="154.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:155" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:155.1" type="section">
                 <w lemma="per" msd="MORPH=empty" n="155.1" pos="PRE" rend="section">Per</w>
@@ -18121,6 +18433,8 @@
                 <w lemma="que" msd="MORPH=empty" n="155.2" pos="CON" rend="section">{removerique}</w>
                 <w lemma="oportet" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="155.2" pos="VER" rend="section">oportet</w>
                 <w lemma="." msd="MORPH=empty" n="155.2" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:156" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:156.1" type="section">
                 <w lemma="de" msd="MORPH=empty" n="156.1" pos="PRE" rend="section">De</w>
@@ -18590,6 +18904,8 @@
                 <w lemma="is" msd="Case=Acc|Numb=Sing|Gend=Neut" n="156.7" pos="PROdem" rend="section">id</w>
                 <w lemma="facio" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="156.7" pos="VER" rend="section">facito</w>
                 <w lemma="." msd="MORPH=empty" n="156.7" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:157" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:157.1" type="section">
                 <w lemma="de" msd="MORPH=empty" n="157.1" pos="PRE" rend="section">De</w>
@@ -19746,6 +20062,8 @@
                 <w lemma="facio" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" n="157.16" pos="VER" rend="section">faciet</w>
                 <w lemma="." msd="MORPH=empty" n="157.16" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:158" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:158.1" type="section">
                 <w lemma="aluus" msd="Case=Acc|Numb=Sing" n="158.1" pos="NOMcom" rend="section">Alvum</w>
                 <w lemma="deicio" msd="Mood=Inf|Tense=Pres|Voice=Act" n="158.1" pos="VER" rend="section">deicere</w>
@@ -19924,6 +20242,8 @@
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="158.2" pos="VER" rend="section">est</w>
                 <w lemma="." msd="MORPH=empty" n="158.2" pos="PUNC" rend="section">.</w>
                 </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:159" type="book">
+                </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:159.1" type="section">
                 <w lemma="intertrigo" msd="Case=Gen|Numb=Sing" n="159.1" pos="NOMcom" rend="section">Intertrigini</w>
                 <w lemma="remedium" msd="Case=Acc|Numb=Sing" n="159.1" pos="NOMcom" rend="section">remedium</w>
@@ -19940,6 +20260,8 @@
                 <w lemma="anulus" msd="Case=Abl|Numb=Sing" n="159.1" pos="NOMcom" rend="section">anulo</w>
                 <w lemma="habeo" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2" n="159.1" pos="VER" rend="section">habeto</w>
                 <w lemma="." msd="MORPH=empty" n="159.1" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:160" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:160.1" type="section">
                 <w lemma="luxus1" msd="Case=Acc|Numb=Sing" n="160.1" pos="NOMcom" rend="section">Luxum</w>
@@ -20036,6 +20358,8 @@
                 <w lemma="dannaustra" msd="Case=Nom|Numb=Sing" n="160.1" pos="NOMcom" rend="section">dannaustra</w>
                 <w lemma="." msd="MORPH=empty" n="160.1" pos="PUNC" rend="section">.</w>
                 <w lemma="&quot;" msd="MORPH=empty" n="160.1" pos="PUNC" rend="section">"</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:161" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:161.1" type="section">
                 <w lemma="asparagus" msd="Case=Nom|Numb=Sing" n="161.1" pos="NOMcom" rend="section">Asparagus</w>
@@ -20316,6 +20640,8 @@
                 <w lemma="herba" msd="Case=Acc|Numb=Plur" n="161.4" pos="NOMcom" rend="section">herbas</w>
                 <w lemma="creo" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="161.4" pos="VER" rend="section">creat</w>
                 <w lemma="." msd="MORPH=empty" n="161.4" pos="PUNC" rend="section">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:162" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:phi0022.phi001.thayer-lat1:162.1" type="section">
                 <w lemma="salsura" msd="Case=Nom|Numb=Sing" n="162.1" pos="NOMcom" rend="section">Salsura</w>

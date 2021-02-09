@@ -4,7 +4,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Ad Nationes Libri Duo</title>
-                <author>Tertullian</author>
+                <author>Tertullian ca. 160-ca. 230</author>
             </titleStmt>
             <publicationStmt>
                 <publisher>
@@ -14,9 +14,9 @@
             <sourceDesc>
                 <bibl>
                     <idno>urn:cts:latinLit:stoa0275.stoa002.opp-lat2</idno>
-                    <link target="https://github.com/OpenGreekAndLatin/csel-dev/archive/1.0.89.zip"/>
+                    <link target="https://github.com/OpenGreekAndLatin/csel-dev/archive/1.0.109.zip"/>
                     <dim source="xml" type="md5-checksum">76d29a5bafca81d19519735a3da21928</dim>
-                    <dim source="plaintext-transformation" type="md5-checksum">da271e19d5e7a9e5957163a3a258f939</dim>
+                    <dim source="plaintext-transformation" type="md5-checksum">35c45ecb3e5a90d24b480a4f086edec6</dim>
                     <dim source="xsl" type="md5-checksum">22f0c529b7ecf86f9fc04cc8de63d204</dim>
                 </bibl>
             </sourceDesc>
@@ -25,7 +25,9 @@
     <text n="urn:cts:latinLit:stoa0275.stoa002.opp-lat2">
         <body>
             
-        <ab n="urn:cts:latinLit:stoa0275.stoa002.opp-lat2:1.1" type="chapter">
+        <ab n="urn:cts:latinLit:stoa0275.stoa002.opp-lat2:1" type="book">
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0275.stoa002.opp-lat2:1.1" type="chapter">
                 <w lemma="testimonium" msd="Case=Acc|Numb=Sing" n="1.1" pos="NOMcom" rend="chapter">Testimonium</w>
                 <w lemma="ignorantia" msd="Case=Gen|Numb=Sing" n="1.1" pos="NOMcom" rend="chapter">ignorantiae</w>
                 <w lemma="uester" msd="Case=Gen|Numb=Sing|Gend=Fem" n="1.1" pos="PROpos" rend="chapter">uestrae</w>
@@ -9532,6 +9534,8 @@
                 <w lemma="non" msd="MORPH=empty" n="1.20" pos="ADVneg" rend="chapter">non</w>
                 <w lemma="nosco" msd="Numb=Plur|Mood=Sub|Tense=Perf|Voice=Act|Person=2" n="1.20" pos="VER" rend="chapter">noueritis</w>
                 <w lemma="." msd="MORPH=empty" n="1.20" pos="PUNC" rend="chapter">.</w>
+                </ab>
+            <ab n="urn:cts:latinLit:stoa0275.stoa002.opp-lat2:2" type="book">
                 </ab>
             <ab n="urn:cts:latinLit:stoa0275.stoa002.opp-lat2:2.1" type="chapter">
                 <w lemma="nunc" msd="Deg=Pos" n="2.1" pos="ADV" rend="chapter">Nunc</w>
