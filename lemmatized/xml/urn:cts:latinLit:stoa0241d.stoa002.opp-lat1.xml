@@ -14,9 +14,9 @@
             <sourceDesc>
                 <bibl>
                     <idno>urn:cts:latinLit:stoa0241d.stoa002.opp-lat1</idno>
-                    <link target="https://github.com/OpenGreekAndLatin/csel-dev/archive/1.0.109.zip"/>
+                    <link target="https://github.com/OpenGreekAndLatin/csel-dev/archive/1.0.128.zip"/>
                     <dim source="xml" type="md5-checksum">3c16aab8f4dac19385c40103601c69d3</dim>
-                    <dim source="plaintext-transformation" type="md5-checksum">0db5576da7e318dfc0debae312182b4f</dim>
+                    <dim source="plaintext-transformation" type="md5-checksum">861d83e6c639a094f9c208ed1d125ff2</dim>
                     <dim source="xsl" type="md5-checksum">22f0c529b7ecf86f9fc04cc8de63d204</dim>
                 </bibl>
             </sourceDesc>
@@ -647,6 +647,11 @@
                 <w lemma="," msd="MORPH=empty" n="pr" pos="PUNC" rend="book">,</w>
                 <w lemma="inde" msd="Deg=Pos" n="pr" pos="ADV" rend="book">inde</w>
                 <w lemma="clipeus" msd="Case=Nom|Numb=Sing" n="pr" pos="NOMcom" rend="book">clipeus</w>
+                <w lemma="_" msd="_" n="pr" pos="_" rend="book">α̉ϰὸ</w>
+                <w lemma="_" msd="_" n="pr" pos="_" rend="book">τον̃</w>
+                <w lemma="_" msd="_" n="pr" pos="_" rend="book">ϰλὲπτειν</w>
+                <w lemma="_" msd="_" n="pr" pos="_" rend="book">τὰ</w>
+                <w lemma="choma" msd="Case=Nom|Numb=Plur" n="pr" pos="NOMcom" rend="book">ϭώματα</w>
                 <w lemma="furor2" msd="Case=Abl|Numb=Sing|Gend=Neut|Mood=Ger|Voice=Act" n="pr" pos="VER" rend="book">furando</w>
                 <w lemma="corpus" msd="Case=Acc|Numb=Plur" n="pr" pos="NOMcom" rend="book">corpora</w>
                 <w lemma="." msd="MORPH=empty" n="pr" pos="PUNC" rend="book">.</w>
@@ -3758,8 +3763,12 @@
                 <w lemma="graeci" msd="Case=Acc|Numb=Plur|Deg=Pos" n="1" pos="ADJqua" rend="book">graecos</w>
                 <w lemma="neuter" msd="Case=Nom|Numb=Sing|Gend=Masc" n="1" pos="PROind" rend="book">neutri</w>
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="1" pos="VER" rend="book">est</w>
+                <w lemma="_" msd="_" n="1" pos="_" rend="book">τον̃</w>
+                <w lemma="_" msd="_" n="1" pos="_" rend="book">ϰήτοας</w>
                 <w lemma="et2" msd="MORPH=empty" n="1" pos="CONcoo" rend="book">et</w>
                 <w lemma="pluraliter" msd="Deg=Pos" n="1" pos="ADV" rend="book">pluraliter</w>
+                <w lemma="_" msd="_" n="1" pos="_" rend="book">τὰ</w>
+                <w lemma="_" msd="_" n="1" pos="_" rend="book">ϰήτη</w>
                 <w lemma="," msd="MORPH=empty" n="1" pos="PUNC" rend="book">,</w>
                 <w lemma="inde" msd="Deg=Pos" n="1" pos="ADV" rend="book">inde</w>
                 <w lemma="coete" msd="Case=Abl|Numb=Sing" n="1" pos="NOMcom" rend="book">coete</w>
@@ -9612,6 +9621,7 @@
                 <w lemma="qui1" msd="Case=Nom|Numb=Sing|Gend=Fem" n="3" pos="PROrel" rend="book">quae</w>
                 <w lemma="graece" msd="Deg=Pos" n="3" pos="ADV" rend="book">graece</w>
                 <w lemma="dico2" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3" n="3" pos="VER" rend="book">dicitur</w>
+                <w lemma="_" msd="_" n="3" pos="_" rend="book">ϰοιυου̃</w>
                 <w lemma="." msd="MORPH=empty" n="3" pos="PUNC" rend="book">.</w>
                 <w lemma="ignotus" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos" n="3" pos="ADJqua" rend="book">Ignotos</w>
                 <w lemma="," msd="MORPH=empty" n="3" pos="PUNC" rend="book">,</w>
@@ -14020,8 +14030,9 @@
                 <w lemma="mora" msd="Case=Acc|Numb=Sing" n="5" pos="NOMcom" rend="book">moram</w>
                 <w lemma="." msd="MORPH=empty" n="5" pos="PUNC" rend="book">.</w>
                 <w lemma="pereo1" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Par|Tense=Fut|Voice=Act" n="5" pos="VER" rend="book">Perituros</w>
-                <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="5" pos="VER" rend="book">est</w>
-                <w lemma="figura" msd="Case=Nom|Numb=Sing" n="5" pos="NOMcom" rend="book">figura</w>
+                <w lemma="[Greek]" msd="MORPH=empty" n="5" pos="FOR" rend="book">άπὸ</w>
+                <w lemma="_" msd="_" n="5" pos="_" rend="book">ϰοιυου̃est</w>
+                <w lemma="figura" msd="Case=Abl|Numb=Sing" n="5" pos="NOMcom" rend="book">figura</w>
                 <w lemma="ab" msd="MORPH=empty" n="5" pos="PRE" rend="book">a</w>
                 <w lemma="commune" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos" n="5" pos="ADJqua" rend="book">communi</w>
                 <w lemma="." msd="MORPH=empty" n="5" pos="PUNC" rend="book">.</w>

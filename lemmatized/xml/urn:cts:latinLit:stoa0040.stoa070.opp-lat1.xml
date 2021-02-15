@@ -4,7 +4,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Locutiones in Heptateuchum</title>
-                <author>Augustinus, Aurelius</author>
+                <author>S. Aurelius Augustinus</author>
             </titleStmt>
             <publicationStmt>
                 <publisher>
@@ -14,9 +14,9 @@
             <sourceDesc>
                 <bibl>
                     <idno>urn:cts:latinLit:stoa0040.stoa070.opp-lat1</idno>
-                    <link target="https://github.com/OpenGreekAndLatin/csel-dev/archive/1.0.109.zip"/>
+                    <link target="https://github.com/OpenGreekAndLatin/csel-dev/archive/1.0.128.zip"/>
                     <dim source="xml" type="md5-checksum">111fd57a582c6a478d316cedccf21924</dim>
-                    <dim source="plaintext-transformation" type="md5-checksum">04a3cbd03067cc982e9e004dd2ba4c74</dim>
+                    <dim source="plaintext-transformation" type="md5-checksum">56fe39233e808d0fac19d41e8fae7896</dim>
                     <dim source="xsl" type="md5-checksum">22f0c529b7ecf86f9fc04cc8de63d204</dim>
                 </bibl>
             </sourceDesc>
@@ -1346,6 +1346,7 @@
                 <w lemma="qui1" msd="Case=Nom|Numb=Sing|Gend=Neut" n="1.30" pos="PROrel" rend="chapter">quod</w>
                 <w lemma="graece" msd="Deg=Pos" n="1.30" pos="ADV" rend="chapter">graece</w>
                 <w lemma="dico2" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3" n="1.30" pos="VER" rend="chapter">dicitur</w>
+                <w lemma="[Greek]" msd="MORPH=empty" n="1.30" pos="FOR" rend="chapter">ἐναντίον</w>
                 <w lemma="." msd="MORPH=empty" n="1.30" pos="PUNC" rend="chapter">.</w>
                 </ab>
             <ab n="urn:cts:latinLit:stoa0040.stoa070.opp-lat1:1.31" type="chapter">
@@ -3541,6 +3542,7 @@
                 <w lemma="," msd="MORPH=empty" n="1.97" pos="PUNC" rend="chapter">,</w>
                 <w lemma="is" msd="Case=Nom|Numb=Sing|Gend=Neut" n="1.97" pos="PROdem" rend="chapter">id</w>
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="1.97" pos="VER" rend="chapter">est</w>
+                <w lemma="[Greek]" msd="MORPH=empty" n="1.97" pos="FOR" rend="chapter">διαθήκην</w>
                 <w lemma="qui1" msd="Case=Acc|Numb=Sing|Gend=Neut" n="1.97" pos="PROrel" rend="chapter">quod</w>
                 <w lemma="latinus" msd="Case=Nom|Numb=Plur" n="1.97" pos="NOMcom" rend="chapter">latini</w>
                 <w lemma="habeo" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="1.97" pos="VER" rend="chapter">habent</w>
@@ -9668,6 +9670,8 @@
                 <w lemma="graecus" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos" n="2.26" pos="ADJqua" rend="chapter">graecus</w>
                 <w lemma="habeo" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="2.26" pos="VER" rend="chapter">habet</w>
                 <w lemma=":" msd="MORPH=empty" n="2.26" pos="PUNC" rend="chapter">:</w>
+                <w lemma="[Greek]" msd="MORPH=empty" n="2.26" pos="FOR" rend="chapter">καταδουλοῦνται</w>
+                <w lemma="[Greek]" msd="MORPH=empty" n="2.26" pos="FOR" rend="chapter">αὐτοὺς</w>
                 <w lemma="," msd="MORPH=empty" n="2.26" pos="PUNC" rend="chapter">,</w>
                 <w lemma="qui1" msd="Case=Acc|Numb=Sing|Gend=Neut" n="2.26" pos="PROrel" rend="chapter">quod</w>
                 <w lemma="interpretor" msd="Mood=Inf|Tense=Pres|Voice=Dep" n="2.26" pos="VER" rend="chapter">interpretari</w>
@@ -9728,6 +9732,7 @@
                 <w lemma="ad2" msd="MORPH=empty" n="2.28" pos="PRE" rend="chapter">ad</w>
                 <w lemma="dominus" msd="Case=Acc|Numb=Sing" n="2.28" pos="NOMcom" rend="chapter">dominum</w>
                 <w lemma="," msd="MORPH=empty" n="2.28" pos="PUNC" rend="chapter">,</w>
+                <w lemma="[Greek]" msd="MORPH=empty" n="2.28" pos="FOR" rend="chapter">ἄλογος</w>
                 <w lemma="dico2" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3" n="2.28" pos="VER" rend="chapter">dixit</w>
                 <w lemma="Graecus" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos" n="2.28" pos="ADJqua" rend="chapter">graecus</w>
                 <w lemma="," msd="MORPH=empty" n="2.28" pos="PUNC" rend="chapter">,</w>
@@ -9736,7 +9741,9 @@
                 <w lemma="imperitus" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos" n="2.28" pos="ADJqua" rend="chapter">inperitus</w>
                 <w lemma="&quot;" msd="MORPH=empty" n="2.28" pos="PUNC" rend="chapter">"</w>
                 <w lemma="quasi1" msd="MORPH=empty" n="2.28" pos="ADVrel" rend="chapter">quasi</w>
+                <w lemma="[Greek]" msd="MORPH=empty" n="2.28" pos="FOR" rend="chapter">ἀμαθής</w>
                 <w lemma="uel1" msd="MORPH=empty" n="2.28" pos="ADV" rend="chapter">uel</w>
+                <w lemma="[Greek]" msd="MORPH=empty" n="2.28" pos="FOR" rend="chapter">ἀπαίδευτος</w>
                 <w lemma="." msd="MORPH=empty" n="2.28" pos="PUNC" rend="chapter">.</w>
                 </ab>
             <ab n="urn:cts:latinLit:stoa0040.stoa070.opp-lat1:2.29" type="chapter">
@@ -10457,8 +10464,11 @@
                 <w lemma="dico2" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass" n="2.43" pos="VER" rend="chapter">dictum</w>
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="2.43" pos="VER" rend="chapter">est</w>
                 <w lemma=":" msd="MORPH=empty" n="2.43" pos="PUNC" rend="chapter">:</w>
-                <w lemma="to" msd="MORPH=empty" n="2.43" pos="ADV" rend="chapter">to</w>
-                <w lemma="conscribo" msd="Numb=Plur" n="2.43" pos="NOMcom" rend="chapter">c</w>
+                <w lemma="to" msd="MORPH=empty" n="2.43" pos="PROdem" rend="chapter">to</w>
+                <w lemma="[Greek]" msd="MORPH=empty" n="2.43" pos="FOR" rend="chapter">τό</w>
+                <w lemma="[Greek]" msd="MORPH=empty" n="2.43" pos="FOR" rend="chapter">χωμα</w>
+                <w lemma="[Greek]" msd="MORPH=empty" n="2.43" pos="FOR" rend="chapter">της</w>
+                <w lemma="_" msd="_" n="2.43" pos="_" rend="chapter">τηςc</w>
                 </ab>
             <ab n="urn:cts:latinLit:stoa0040.stoa070.opp-lat1:2.44" type="chapter">
                 <w lemma="facio" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3" n="2.44" pos="VER" rend="chapter">Fecerunt</w>
@@ -19726,6 +19736,8 @@
                 <w lemma="graece" msd="Deg=Pos" n="4.48" pos="ADV" rend="chapter">graece</w>
                 <w lemma="pono" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass" n="4.48" pos="VER" rend="chapter">positum</w>
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="4.48" pos="VER" rend="chapter">est</w>
+                <w lemma="[Greek]" msd="MORPH=empty" n="4.48" pos="FOR" rend="chapter">η</w>
+                <w lemma="[Greek]" msd="MORPH=empty" n="4.48" pos="FOR" rend="chapter">μήν</w>
                 <w lemma=";" msd="MORPH=empty" n="4.48" pos="PUNC" rend="chapter">;</w>
                 <w lemma="noster" msd="Case=Nom|Numb=Plur|Gend=Masc" n="4.48" pos="PROpos" rend="chapter">nostri</w>
                 <w lemma="enim2" msd="MORPH=empty" n="4.48" pos="CONcoo" rend="chapter">enim</w>
@@ -20192,6 +20204,8 @@
                 <w lemma="graecus" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos" n="4.58" pos="ADJqua" rend="chapter">graecus</w>
                 <w lemma="habeo" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="4.58" pos="VER" rend="chapter">habet</w>
                 <w lemma=":" msd="MORPH=empty" n="4.58" pos="PUNC" rend="chapter">:</w>
+                <w lemma="[Greek]" msd="MORPH=empty" n="4.58" pos="FOR" rend="chapter">δόμα</w>
+                <w lemma="[Greek]" msd="MORPH=empty" n="4.58" pos="FOR" rend="chapter">δεδομένον</w>
                 <w lemma="." msd="MORPH=empty" n="4.58" pos="PUNC" rend="chapter">.</w>
                 <w lemma="quod1" msd="MORPH=empty" n="4.58" pos="CONcoo" rend="chapter">quod</w>
                 <w lemma="si2" msd="MORPH=empty" n="4.58" pos="CONsub" rend="chapter">si</w>
@@ -20208,6 +20222,7 @@
                 <w lemma="," msd="MORPH=empty" n="4.58" pos="PUNC" rend="chapter">,</w>
                 <w lemma="quia" msd="MORPH=empty" n="4.58" pos="CONsub" rend="chapter">quia</w>
                 <w lemma="et2" msd="MORPH=empty" n="4.58" pos="CONcoo" rend="chapter">et</w>
+                <w lemma="[Greek]" msd="MORPH=empty" n="4.58" pos="FOR" rend="chapter">δόμα</w>
                 <w lemma="do" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass" n="4.58" pos="VER" rend="chapter">datum</w>
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="4.58" pos="VER" rend="chapter">est</w>
                 <w lemma="—" msd="MORPH=empty" n="4.58" pos="PUNC" rend="chapter">—</w>
@@ -20228,6 +20243,7 @@
                 <w lemma="qui1" msd="Case=Nom|Numb=Sing|Gend=Neut" n="4.58" pos="PROrel" rend="chapter">quod</w>
                 <w lemma="in" msd="MORPH=empty" n="4.58" pos="PRE" rend="chapter">in</w>
                 <w lemma="graecus" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos" n="4.58" pos="ADJqua" rend="chapter">graeco</w>
+                <w lemma="[Greek]" msd="MORPH=empty" n="4.58" pos="FOR" rend="chapter">δεδομένον</w>
                 <w lemma="scribo" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass" n="4.58" pos="VER" rend="chapter">scriptum</w>
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="4.58" pos="VER" rend="chapter">est</w>
                 <w lemma="," msd="MORPH=empty" n="4.58" pos="PUNC" rend="chapter">,</w>
@@ -20244,6 +20260,7 @@
                 <w lemma="graecus" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos" n="4.58" pos="ADJqua" rend="chapter">graecus</w>
                 <w lemma="habeo" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="4.58" pos="VER" rend="chapter">habet</w>
                 <w lemma=":" msd="MORPH=empty" n="4.58" pos="PUNC" rend="chapter">:</w>
+                <w lemma="[Greek]" msd="MORPH=empty" n="4.58" pos="FOR" rend="chapter">δόματα</w>
                 <w lemma="," msd="MORPH=empty" n="4.58" pos="PUNC" rend="chapter">,</w>
                 <w lemma="et2" msd="MORPH=empty" n="4.58" pos="CONcoo" rend="chapter">et</w>
                 <w lemma="in" msd="MORPH=empty" n="4.58" pos="PRE" rend="chapter">in</w>
@@ -20256,11 +20273,13 @@
                 <w lemma="filius" msd="Case=Dat|Numb=Plur" n="4.58" pos="NOMcom" rend="chapter">filiis</w>
                 <w lemma="uester" msd="Case=Dat|Numb=Plur|Gend=Com" n="4.58" pos="PROpos" rend="chapter">uestris</w>
                 <w lemma="," msd="MORPH=empty" n="4.58" pos="PUNC" rend="chapter">,</w>
+                <w lemma="[Greek]" msd="MORPH=empty" n="4.58" pos="FOR" rend="chapter">δόματα</w>
                 <w lemma="sum1" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="4.58" pos="VER" rend="chapter">est</w>
                 <w lemma="in" msd="MORPH=empty" n="4.58" pos="PRE" rend="chapter">in</w>
                 <w lemma="graecus" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos" n="4.58" pos="ADJqua" rend="chapter">graeco</w>
                 <w lemma="—" msd="MORPH=empty" n="4.58" pos="PUNC" rend="chapter">—</w>
                 <w lemma="et2" msd="MORPH=empty" n="4.58" pos="CONcoo" rend="chapter">et</w>
+                <w lemma="[Greek]" msd="MORPH=empty" n="4.58" pos="FOR" rend="chapter">δεδομένον</w>
                 <w lemma="&quot;" msd="MORPH=empty" n="4.58" pos="PUNC" rend="chapter">"</w>
                 <w lemma="do" msd="Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass" n="4.58" pos="VER" rend="chapter">datum</w>
                 <w lemma="&quot;" msd="MORPH=empty" n="4.58" pos="PUNC" rend="chapter">"</w>
@@ -20305,9 +20324,11 @@
                 <w lemma="sed" msd="MORPH=empty" n="4.58" pos="CONcoo" rend="chapter">sed</w>
                 <w lemma="donum" msd="Case=Nom|Numb=Sing" n="4.58" pos="NOMcom" rend="chapter">donum</w>
                 <w lemma="graece" msd="Deg=Pos" n="4.58" pos="ADV" rend="chapter">graece</w>
+                <w lemma="[Greek]" msd="MORPH=empty" n="4.58" pos="FOR" rend="chapter">δῶρον</w>
                 <w lemma="dico2" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3" n="4.58" pos="VER" rend="chapter">dicitur</w>
                 <w lemma="," msd="MORPH=empty" n="4.58" pos="PUNC" rend="chapter">,</w>
                 <w lemma="non" msd="MORPH=empty" n="4.58" pos="ADVneg" rend="chapter">non</w>
+                <w lemma="[Greek]" msd="MORPH=empty" n="4.58" pos="FOR" rend="chapter">δόμα</w>
                 <w lemma="." msd="MORPH=empty" n="4.58" pos="PUNC" rend="chapter">.</w>
                 <w lemma="unde2" msd="MORPH=empty" n="4.58" pos="ADVint" rend="chapter">unde</w>
                 <w lemma="hic1" msd="Case=Abl|Numb=Sing|Gend=MascNeut" n="4.58" pos="PROdem" rend="chapter">hoc</w>
@@ -21512,6 +21533,8 @@
                 <w lemma="hic1" msd="Case=Nom|Numb=Sing|Gend=Masc" n="4.87" pos="PROdem" rend="chapter">hic</w>
                 <w lemma="graecus" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos" n="4.87" pos="ADJqua" rend="chapter">graecus</w>
                 <w lemma="habeo" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="4.87" pos="VER" rend="chapter">habet</w>
+                <w lemma="[Greek]" msd="MORPH=empty" n="4.87" pos="FOR" rend="chapter">ἡμέρα</w>
+                <w lemma="[Greek]" msd="MORPH=empty" n="4.87" pos="FOR" rend="chapter">μία</w>
                 <w lemma="." msd="MORPH=empty" n="4.87" pos="PUNC" rend="chapter">.</w>
                 <w lemma="unde1" msd="MORPH=empty" n="4.87" pos="ADVrel" rend="chapter">unde</w>
                 <w lemma="quidam" msd="Case=Nom|Numb=Plur|Gend=Masc" n="4.87" pos="PROind" rend="chapter">quidam</w>
@@ -23990,6 +24013,10 @@
                 <w lemma="qui1" msd="Case=Acc|Numb=Sing|Gend=Neut" n="5.32" pos="PROrel" rend="chapter">quod</w>
                 <w lemma="ille" msd="Case=Dat|Numb=Plur|Gend=Masc" n="5.32" pos="PROdem" rend="chapter">illi</w>
                 <w lemma="dico2" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="5.32" pos="VER" rend="chapter">dicunt</w>
+                <w lemma="[Greek]" msd="MORPH=empty" n="5.32" pos="FOR" rend="chapter">δ</w>
+                <w lemma="\" msd="MORPH=empty" n="5.32" pos="PUNC" rend="chapter">\</w>
+                <w lemma="'" msd="MORPH=empty" n="5.32" pos="PUNC" rend="chapter">'</w>
+                <w lemma="[Greek]" msd="MORPH=empty" n="5.32" pos="FOR" rend="chapter">ψιμον</w>
                 <w lemma="tamen" msd="Deg=Pos" n="5.32" pos="ADV" rend="chapter">tamen</w>
                 <w lemma="etiam" msd="Deg=Pos" n="5.32" pos="ADV" rend="chapter">etiam</w>
                 <w lemma="in" msd="MORPH=empty" n="5.32" pos="PRE" rend="chapter">in</w>
@@ -26045,16 +26072,16 @@
                 <w lemma="hic1" msd="Case=Nom|Numb=Sing|Gend=Neut" n="6.4" pos="PROdem" rend="chapter">hoc</w>
                 <w lemma="appello1" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3" n="6.4" pos="VER" rend="chapter">appellatur</w>
                 <w lemma="graece" msd="Deg=Pos" n="6.4" pos="ADV" rend="chapter">graece</w>
-                <w lemma="cem" msd="MORPH=empty" n="6.4" pos="PRE" rend="chapter">Ce1</w>
+                <w lemma="ceo" msd="Case=Nom|Numb=Sing" n="6.4" pos="NOMcom" rend="chapter">Ceό1</w>
                 <w lemma="\" msd="MORPH=empty" n="6.4" pos="PUNC" rend="chapter">\</w>
                 <w lemma="'" msd="MORPH=empty" n="6.4" pos="PUNC" rend="chapter">'</w>
-                <w lemma="is" msd="Case=Nom|Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act" n="6.4" pos="VER" rend="chapter">Į</w>
+                <w lemma="eo1" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act" n="6.4" pos="VER" rend="chapter">Į</w>
                 <w lemma="-" msd="MORPH=empty" n="6.4" pos="PUNC" rend="chapter">-</w>
-                <w lemma="ux" msd="Case=Nom|Numb=Sing" n="6.4" pos="NOMcom" rend="chapter">UX</w>
+                <w lemma="ux" msd="Case=Nom" n="6.4" pos="NOMcom" rend="chapter">UX</w>
                 <w lemma="xatio" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="6.4" pos="VER" rend="chapter">xat</w>
                 <w lemma="\" msd="MORPH=empty" n="6.4" pos="PUNC" rend="chapter">\</w>
                 <w lemma="'" msd="MORPH=empty" n="6.4" pos="PUNC" rend="chapter">'</w>
-                <w lemma="ixxetum" msd="Case=Abl|Numb=Sing" n="6.4" pos="NOMcom" rend="chapter">IXXeta</w>
+                <w lemma="ixxetum" msd="Case=Nom|Numb=Sing" n="6.4" pos="NOMcom" rend="chapter">IXXeta</w>
                 <w lemma="." msd="MORPH=empty" n="6.4" pos="PUNC" rend="chapter">.</w>
                 <w lemma="ualeo" msd="Case=Abl|Numb=Sing" n="6.4" pos="NOMcom" rend="chapter">v</w>
                 <w lemma="." msd="MORPH=empty" n="6.4" pos="PUNC" rend="chapter">.</w>

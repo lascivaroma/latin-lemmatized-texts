@@ -14,9 +14,9 @@
             <sourceDesc>
                 <bibl>
                     <idno>urn:cts:latinLit:stoa0104p.stoa009.opp-lat1</idno>
-                    <link target="https://github.com/OpenGreekAndLatin/csel-dev/archive/1.0.109.zip"/>
+                    <link target="https://github.com/OpenGreekAndLatin/csel-dev/archive/1.0.128.zip"/>
                     <dim source="xml" type="md5-checksum">3e96da953da7d30cc80711243044b470</dim>
-                    <dim source="plaintext-transformation" type="md5-checksum">f5cb12038850970b95b48a44c3a50a92</dim>
+                    <dim source="plaintext-transformation" type="md5-checksum">60b40ca8f8ba4b08491ff375e2e6d712</dim>
                     <dim source="xsl" type="md5-checksum">22f0c529b7ecf86f9fc04cc8de63d204</dim>
                 </bibl>
             </sourceDesc>
@@ -2504,6 +2504,7 @@
                 <w lemma="." msd="MORPH=empty" n="10" pos="PUNC" rend="section">.</w>
                 <w lemma="ex" msd="MORPH=empty" n="10" pos="PRE" rend="section">e</w>
                 <w lemma="." msd="MORPH=empty" n="10" pos="PUNC" rend="section">.</w>
+                <w lemma="[Greek]" msd="MORPH=empty" n="10" pos="FOR" rend="section">ιη</w>
                 <w lemma="in" msd="MORPH=empty" n="10" pos="PRE" rend="section">in</w>
                 <w lemma="nomen" msd="Case=Abl|Numb=Sing" n="10" pos="NOMcom" rend="section">nomine</w>
                 <w lemma="Iesus" msd="Case=Abl|Numb=Sing" n="10" pos="NOMpro" rend="section">Iesu</w>
@@ -4107,10 +4108,12 @@
                 <w lemma="is" msd="Case=Gen|Numb=Sing|Gend=Com" n="16" pos="PROdem" rend="section">eius</w>
                 <w lemma="dico2" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3" n="16" pos="VER" rend="section">dicitur</w>
                 <w lemma="alpha" msd="Case=Nom|Numb=Sing" n="16" pos="NOMcom" rend="section">alpha</w>
+                <w lemma="[Greek]" msd="MORPH=empty" n="16" pos="FOR" rend="section">μια</w>
                 <w lemma="," msd="MORPH=empty" n="16" pos="PUNC" rend="section">,</w>
                 <w lemma="secundus2" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos" n="16" pos="ADJord" rend="section">secunda</w>
                 <w lemma="autem" msd="MORPH=empty" n="16" pos="CONcoo" rend="section">autem</w>
                 <w lemma="delo" msd="Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass" n="16" pos="VER" rend="section">delta</w>
+                <w lemma="_" msd="_" n="16" pos="_" rend="section">τέϭϭαϱες</w>
                 <w lemma="," msd="MORPH=empty" n="16" pos="PUNC" rend="section">,</w>
                 <w lemma="tertius" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos" n="16" pos="ADJord" rend="section">tertia</w>
                 <w lemma="iterum" msd="Deg=Pos" n="16" pos="ADV" rend="section">iterum</w>
@@ -4119,6 +4122,7 @@
                 <w lemma="et2" msd="MORPH=empty" n="16" pos="CONcoo" rend="section">et</w>
                 <w lemma="quartus" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos" n="16" pos="ADJord" rend="section">quarta</w>
                 <w lemma="ego" msd="Case=Dat|Numb=Sing" n="16" pos="PROpos" rend="section">mi</w>
+                <w lemma="_" msd="_" n="16" pos="_" rend="section">τεϭϭαϱάϰοντα</w>
                 <w lemma="et2" msd="MORPH=empty" n="16" pos="CONcoo" rend="section">et</w>
                 <w lemma="sic" msd="Deg=Pos" n="16" pos="ADV" rend="section">sic</w>
                 <w lemma="fio" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" n="16" pos="VER" rend="section">fit</w>
@@ -5585,7 +5589,7 @@
                 <w lemma="ad2" msd="MORPH=empty" n="22" pos="PRE" rend="section">ad</w>
                 <w lemma="passio" msd="Case=Acc|Numb=Sing" n="22" pos="NOMcom" rend="section">passionem</w>
                 <w lemma="annus" msd="Case=Gen|Numb=Sing" n="22" pos="NOMcom" rend="section">anni</w>
-                <w lemma="dloxuiium" msd="Case=Gen|Numb=Sing" n="22" pos="ADJqua" rend="section">DLXXVIIII.</w>
+                <w lemma="_" msd="_" n="22" pos="_" rend="section">Ι̅DLXXVIIII.</w>
                 <w lemma="ab" msd="MORPH=empty" n="22" pos="PRE" rend="section">a</w>
                 <w lemma="qui1" msd="Case=Abl|Numb=Sing|Gend=MascNeut" n="22" pos="PROrel" rend="section">quo</w>
                 <w lemma="tempus1" msd="Case=Abl|Numb=Sing" n="22" pos="NOMcom" rend="section">tempore</w>
@@ -5611,6 +5615,7 @@
                 <w lemma="autem" msd="MORPH=empty" n="22" pos="CONcoo" rend="section">autem</w>
                 <w lemma="omnis" msd="Case=Nom|Numb=Plur|Gend=MascFem" n="22" pos="PROind" rend="section">omnes</w>
                 <w lemma="annus" msd="Case=Nom|Numb=Plur" n="22" pos="NOMcom" rend="section">anni</w>
+                <w lemma="_" msd="_" n="22" pos="_" rend="section">Ι̅</w>
                 <w lemma="dicchiuis" msd="Case=Gen|Numb=Plur|Gend=Masc|Deg=Pos" n="22" pos="ADJqua" rend="section">DCCXCIIII.</w>
                 </ab>
             <ab n="urn:cts:latinLit:stoa0104p.stoa009.opp-lat1:23" type="section">
