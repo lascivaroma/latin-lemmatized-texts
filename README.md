@@ -24,21 +24,23 @@ This corpus contains the whole set of Capitains compliant classical and late Lat
 
 | Name                                                                            | Version | Project you need to cite                       |  
 | ------------------------------------------------------------------------------- | ------- | ---------------------------------------------- | 
-| [PerseusDL/canonical-latinLit](https://github.com/PerseusDL/canonical-latinLit) | 0.0.644 | https://www.perseus.org                        |
-| [OpenGreekAndLatin/csel-dev](https://github.com/OpenGreekAndLatin/csel-dev)     | 1.0.77  | https://www.perseus.org                        |
+| [PerseusDL/canonical-latinLit](https://github.com/PerseusDL/canonical-latinLit) | 0.0.752 | https://www.perseus.org                        |
+| [OpenGreekAndLatin/csel-dev](https://github.com/OpenGreekAndLatin/csel-dev)     | 1.0.174  | https://www.perseus.org                        |
 | [OpenGreekAndLatin/Latin](https://github.com/OpenGreekAndLatin/Latin)           | v1.10.0 | https://www.perseus.org                        |
-| [ponteineptique/digiliblt](https://github.com/ponteineptique/digiliblt)         | 0.0.37  | https://digiliblt.uniupo.it                    |
+| [ponteineptique/digiliblt](https://github.com/ponteineptique/digiliblt)         | 0.0.41  | https://digiliblt.uniupo.it                    |
 | [lascivaroma/priapeia](https://github.com/lascivaroma/priapeia)                 | 1.1.18  | [Lasciva Roma](https://github.com/lascivaroma) |
-| [lascivaroma/additional-texts](https://github.com/lascivaroma/additional-texts) | 1.0.136 | [Lasciva Roma](https://github.com/lascivaroma) |
+| [lascivaroma/additional-texts](https://github.com/lascivaroma/additional-texts) | 1.0.174 | [Lasciva Roma](https://github.com/lascivaroma) |
 
 
 The texts are distributed using the same licence as the original, annotation are CC-BY-SA 4.0. 
 
-**Number of tokens**: 15,396,256 (according to `grep -roh '<w' . | wc -l`)
+<!--START-NB-->
+**Number of tokens**: 18,197,895 (15,328,354 without punctuation)
+<!--END-NB-->
 
 ## Information about the model
 
-They were tagged with Pie-Extended LASLA model using the [0.0.5a](https://github.com/PonteIneptique/latin-lasla-models/releases/tag/0.0.5a) LASLA + model (trained with aligned PROIEL Vulgate as well as Priapea and a Late Latin Corpus to be published soon).
+They were tagged with Pie-Extended LASLA model using the [0.0.5b](https://github.com/PonteIneptique/latin-lasla-models/releases/tag/0.0.5b) LASLA + model (trained with aligned PROIEL Vulgate as well as Priapea and a Late Latin Corpus to be published soon).
 
 
 *Note:* the model is currently being fine-tuned in the context of my PhD. I'll fill this part when it will be done.
@@ -109,3 +111,44 @@ Tokens use the standard TEI annotation elements `@pos`, `@msd` and `@lemma`:
 | VER        | Verbe                           | Verb                             | VERB   |                                                  |
 | VERaux     | Verbe auxiliaire                | Auxiliary Verb                   | AUX    |                                                  |
 | FOR        | Termes étrangers                | Foreign words                    | X      |                                                  |
+
+## Statistics
+
+<!---START-STATS--->
+| POS        |   Tokens |
+|------------|----------|
+|            |      215 |
+| ADJadv.mul |     7268 |
+| ADJadv.ord |    15817 |
+| ADJcar     |   131813 |
+| ADJdis     |    11371 |
+| ADJmul     |     2917 |
+| ADJord     |    51409 |
+| ADJqua     |  1201253 |
+| ADV        |   884831 |
+| ADVint     |    56339 |
+| ADVint.neg |     2790 |
+| ADVneg     |   243532 |
+| ADVrel     |   150913 |
+| CON        |   159572 |
+| CONcoo     |  1113789 |
+| CONsub     |   530250 |
+| FOR        |    32472 |
+| INJ        |    22126 |
+| NOMcom     |  4011711 |
+| NOMpro     |    90235 |
+| PRE        |  1028976 |
+| PROdem     |   679766 |
+| PROind     |   330402 |
+| PROint     |    69531 |
+| PROper     |   218913 |
+| PROpos     |   119635 |
+| PROpos.ref |    71283 |
+| PROref     |    70724 |
+| PROrel     |   467447 |
+| PUNC       |  2869541 |
+| UNK        |      450 |
+| VER        |  3548356 |
+| _          |     2248 |
+
+<!---END-STATS--->
