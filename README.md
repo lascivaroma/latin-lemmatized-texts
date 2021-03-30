@@ -22,20 +22,21 @@ Cite this corpus using the following:
 
 This corpus contains the whole set of Capitains compliant classical and late Latin texts avaialable out there. The latest version of the corpus is based on the following corpora:
 
+
 | Name                                                                            | Version | Project you need to cite                       |  
 | ------------------------------------------------------------------------------- | ------- | ---------------------------------------------- | 
-| [PerseusDL/canonical-latinLit](https://github.com/PerseusDL/canonical-latinLit) | 0.0.752 | https://www.perseus.org                        |
-| [OpenGreekAndLatin/csel-dev](https://github.com/OpenGreekAndLatin/csel-dev)     | 1.0.174  | https://www.perseus.org                        |
+| [PerseusDL/canonical-latinLit](https://github.com/PerseusDL/canonical-latinLit) | 0.0.767 | https://www.perseus.org                        |
+| [OpenGreekAndLatin/csel-dev](https://github.com/OpenGreekAndLatin/csel-dev)     | 1.0.209 | https://www.perseus.org                        |
 | [OpenGreekAndLatin/Latin](https://github.com/OpenGreekAndLatin/Latin)           | v1.10.0 | https://www.perseus.org                        |
 | [ponteineptique/digiliblt](https://github.com/ponteineptique/digiliblt)         | 0.0.41  | https://digiliblt.uniupo.it                    |
 | [lascivaroma/priapeia](https://github.com/lascivaroma/priapeia)                 | 1.1.18  | [Lasciva Roma](https://github.com/lascivaroma) |
-| [lascivaroma/additional-texts](https://github.com/lascivaroma/additional-texts) | 1.0.174 | [Lasciva Roma](https://github.com/lascivaroma) |
+| [lascivaroma/additional-texts](https://github.com/lascivaroma/additional-texts) | 1.0.175 | [Lasciva Roma](https://github.com/lascivaroma) |
 
 
 The texts are distributed using the same licence as the original, annotation are CC-BY-SA 4.0. 
 
 <!--START-NB-->
-**Number of tokens**: 18,197,895 (15,328,354 without punctuation)
+**Number of tokens**: 18,354,654 (15,468,906 without punctuation)
 <!--END-NB-->
 
 ## Information about the model
@@ -117,38 +118,38 @@ Tokens use the standard TEI annotation elements `@pos`, `@msd` and `@lemma`:
 <!---START-STATS--->
 | POS        |   Tokens |
 |------------|----------|
-|            |      215 |
-| ADJadv.mul |     7268 |
-| ADJadv.ord |    15817 |
-| ADJcar     |   131813 |
-| ADJdis     |    11371 |
-| ADJmul     |     2917 |
-| ADJord     |    51409 |
-| ADJqua     |  1201253 |
-| ADV        |   884831 |
-| ADVint     |    56339 |
-| ADVint.neg |     2790 |
-| ADVneg     |   243532 |
-| ADVrel     |   150913 |
-| CON        |   159572 |
-| CONcoo     |  1113789 |
-| CONsub     |   530250 |
+|            |      217 |
+| ADJadv.mul |     7248 |
+| ADJadv.ord |    15923 |
+| ADJcar     |   133042 |
+| ADJdis     |    11426 |
+| ADJmul     |     2883 |
+| ADJord     |    51862 |
+| ADJqua     |  1177675 |
+| ADV        |   886380 |
+| ADVint     |    56591 |
+| ADVint.neg |     2811 |
+| ADVneg     |   245781 |
+| ADVrel     |   151991 |
+| CON        |   160274 |
+| CONcoo     |  1128780 |
+| CONsub     |   534346 |
 | FOR        |    32472 |
-| INJ        |    22126 |
-| NOMcom     |  4011711 |
-| NOMpro     |    90235 |
-| PRE        |  1028976 |
-| PROdem     |   679766 |
-| PROind     |   330402 |
-| PROint     |    69531 |
-| PROper     |   218913 |
-| PROpos     |   119635 |
-| PROpos.ref |    71283 |
-| PROref     |    70724 |
-| PROrel     |   467447 |
-| PUNC       |  2869541 |
-| UNK        |      450 |
-| VER        |  3548356 |
+| INJ        |    21697 |
+| NOMcom     |  3903996 |
+| NOMpro     |   281365 |
+| PRE        |  1041131 |
+| PROdem     |   685608 |
+| PROind     |   333076 |
+| PROint     |    69999 |
+| PROper     |   220702 |
+| PROpos     |   121255 |
+| PROpos.ref |    72595 |
+| PROref     |    71250 |
+| PROrel     |   470985 |
+| PUNC       |  2885748 |
+| UNK        |      475 |
+| VER        |  3572822 |
 | _          |     2248 |
 
 <!---END-STATS--->
