@@ -30,6 +30,7 @@ with open("README.md", "r") as f:
 		
 		if line.startswith("<!---START-STATS--->"):
 			out.append(stats+"\n")
+			ignore = True
 		elif line.startswith("<!--START-NB-->"):
 			out.append(f"**Number of tokens**: {tokens:,} ({tokens_nopunct:,} without punctuation)\n")
 
