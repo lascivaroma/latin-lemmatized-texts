@@ -4,17 +4,16 @@
 
 Cite this corpus using the following:
 
-
 ```tex
 @software{thibault_clerice_2020_corpus_latin,
   author       = {Clérice, Thibault},
   title        = {Corpus Latin antiquité et antiquité tardive lemmatisé},
-  month        = dec,
-  year         = 2020,
+  month        = apr,
+  year         = 2021,
   publisher    = {Zenodo},
-  version      = {0.0.1},
-  doi          = {10.5281/zenodo.4337146},
-  url          = {https://doi.org/10.5281/zenodo.4337146}
+  version      = {0.1.0},
+  doi          = {10.5281/zenodo.4337145},
+  url          = {https://doi.org/10.5281/zenodo.4337145}
 }
 ```
 
@@ -28,20 +27,20 @@ This corpus contains the whole set of Capitains compliant classical and late Lat
 | [PerseusDL/canonical-latinLit](https://github.com/PerseusDL/canonical-latinLit) | 0.0.767 | https://www.perseus.org                        |
 | [OpenGreekAndLatin/csel-dev](https://github.com/OpenGreekAndLatin/csel-dev)     | 1.0.209 | https://www.perseus.org                        |
 | [OpenGreekAndLatin/Latin](https://github.com/OpenGreekAndLatin/Latin)           | v1.10.0 | https://www.perseus.org                        |
-| [ponteineptique/digiliblt](https://github.com/ponteineptique/digiliblt)         | 0.0.41  | https://digiliblt.uniupo.it                    |
+| [ponteineptique/digiliblt](https://github.com/ponteineptique/digiliblt)         | 0.0.47  | https://digiliblt.uniupo.it                    |
 | [lascivaroma/priapeia](https://github.com/lascivaroma/priapeia)                 | 1.1.18  | [Lasciva Roma](https://github.com/lascivaroma) |
-| [lascivaroma/additional-texts](https://github.com/lascivaroma/additional-texts) | 1.0.175 | [Lasciva Roma](https://github.com/lascivaroma) |
+| [lascivaroma/additional-texts](https://github.com/lascivaroma/additional-texts) | 1.0.184 | [Lasciva Roma](https://github.com/lascivaroma) |
 
 
 The texts are distributed using the same licence as the original, annotation are CC-BY-SA 4.0. 
 
 <!--START-NB-->
-**Number of tokens**: 19,040,425 (16,046,260 without punctuation)
+**Number of tokens**: 19,042,944 (16,048,779 without punctuation)
 <!--END-NB-->
 
 ## Information about the model
 
-They were tagged with Pie-Extended LASLA model using the [0.0.5b](https://github.com/PonteIneptique/latin-lasla-models/releases/tag/0.0.5b) LASLA + model (trained with aligned PROIEL Vulgate as well as Priapea and a Late Latin Corpus to be published soon).
+They were tagged with Pie-Extended LASLA model using the [0.0.6](https://github.com/PonteIneptique/latin-lasla-models/releases/tag/0.0.6) LASLA + model (trained with aligned PROIEL Vulgate as well as Priapea and a Late Latin Corpus to be published soon).
 
 
 *Note:* the model is currently being fine-tuned in the context of my PhD. I'll fill this part when it will be done.
@@ -118,37 +117,38 @@ Tokens use the standard TEI annotation elements `@pos`, `@msd` and `@lemma`:
 <!---START-STATS--->
 | POS        |   Tokens |
 |------------|----------|
-|            |      225 |
-| ADJadv.mul |     7409 |
-| ADJadv.ord |    16479 |
-| ADJcar     |   145952 |
-| ADJdis     |    11758 |
-| ADJmul     |     2936 |
-| ADJord     |    56737 |
-| ADJqua     |  1215932 |
-| ADV        |   912772 |
-| ADVint     |    57856 |
-| ADVint.neg |     2830 |
-| ADVneg     |   254270 |
-| ADVrel     |   156026 |
-| CON        |   163772 |
-| CONcoo     |  1167821 |
-| CONsub     |   552984 |
+|            |      270 |
+| ADJadv.mul |     6746 |
+| ADJadv.ord |    19353 |
+| ADJcar     |   139176 |
+| ADJdis     |    12551 |
+| ADJmul     |     3604 |
+| ADJord     |    54735 |
+| ADJqua     |  1174059 |
+| ADV        |   912962 |
+| ADVint     |    60245 |
+| ADVint.neg |     3088 |
+| ADVneg     |   256478 |
+| ADVrel     |   164697 |
+| CON        |   163710 |
+| CONcoo     |  1164981 |
+| CONsub     |   550454 |
 | FOR        |    33280 |
-| INJ        |    22327 |
-| NOMcom     |  4039441 |
-| NOMpro     |   335511 |
-| PRE        |  1083662 |
-| PROdem     |   707919 |
-| PROind     |   345959 |
-| PROint     |    71505 |
-| PROper     |   226401 |
-| PROpos     |   125765 |
-| PROpos.ref |    75105 |
-| PROref     |    73260 |
-| PROrel     |   485318 |
+| INJ        |    25754 |
+| NOM        |       26 |
+| NOMcom     |  3872338 |
+| NOMpro     |   576738 |
+| PRE        |  1083170 |
+| PROdem     |   708712 |
+| PROind     |   346985 |
+| PROint     |    73925 |
+| PROper     |   226792 |
+| PROpos     |   125045 |
+| PROpos.ref |    75929 |
+| PROref     |    72418 |
+| PROrel     |   465611 |
 | PUNC       |  2994165 |
-| UNK        |      493 |
-| VER        |  3692306 |
+| UNK        |      677 |
+| VER        |  3672021 |
 | _          |     2249 |
 <!---END-STATS--->
