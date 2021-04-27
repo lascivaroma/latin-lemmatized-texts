@@ -24,18 +24,18 @@ This corpus contains the whole set of Capitains compliant classical and late Lat
 
 | Name                                                                            | Version | Project you need to cite                       |  
 | ------------------------------------------------------------------------------- | ------- | ---------------------------------------------- | 
-| [PerseusDL/canonical-latinLit](https://github.com/PerseusDL/canonical-latinLit) | 0.0.767 | https://www.perseus.org                        |
-| [OpenGreekAndLatin/csel-dev](https://github.com/OpenGreekAndLatin/csel-dev)     | 1.0.209 | https://www.perseus.org                        |
+| [PerseusDL/canonical-latinLit](https://github.com/PerseusDL/canonical-latinLit) | 0.0.843 | https://www.perseus.org                        |
+| [OpenGreekAndLatin/csel-dev](https://github.com/OpenGreekAndLatin/csel-dev)     | 1.0.211 | https://www.perseus.org                        |
 | [OpenGreekAndLatin/Latin](https://github.com/OpenGreekAndLatin/Latin)           | v1.10.0 | https://www.perseus.org                        |
-| [ponteineptique/digiliblt](https://github.com/ponteineptique/digiliblt)         | 0.0.47  | https://digiliblt.uniupo.it                    |
+| [lascivaroma/digiliblt](https://github.com/lascivaroma/digiliblt)         | 0.0.62  | https://digiliblt.uniupo.it                    |
 | [lascivaroma/priapeia](https://github.com/lascivaroma/priapeia)                 | 1.1.18  | [Lasciva Roma](https://github.com/lascivaroma) |
-| [lascivaroma/additional-texts](https://github.com/lascivaroma/additional-texts) | 1.0.184 | [Lasciva Roma](https://github.com/lascivaroma) |
+| [lascivaroma/additional-texts](https://github.com/lascivaroma/additional-texts) | 1.0.192 | [Lasciva Roma](https://github.com/lascivaroma) |
 
 
 The texts are distributed using the same licence as the original, annotation are CC-BY-SA 4.0. 
 
 <!--START-NB-->
-**Number of tokens**: 19,042,944 (16,048,779 without punctuation)
+**Number of tokens**: 20,505,245 (17,205,071 without punctuation)
 <!--END-NB-->
 
 ## Information about the model
@@ -117,38 +117,38 @@ Tokens use the standard TEI annotation elements `@pos`, `@msd` and `@lemma`:
 <!---START-STATS--->
 | POS        |   Tokens |
 |------------|----------|
-|            |      270 |
-| ADJadv.mul |     6746 |
-| ADJadv.ord |    19353 |
-| ADJcar     |   139176 |
-| ADJdis     |    12551 |
-| ADJmul     |     3604 |
-| ADJord     |    54735 |
-| ADJqua     |  1174059 |
-| ADV        |   912962 |
-| ADVint     |    60245 |
-| ADVint.neg |     3088 |
-| ADVneg     |   256478 |
-| ADVrel     |   164697 |
-| CON        |   163710 |
-| CONcoo     |  1164981 |
-| CONsub     |   550454 |
-| FOR        |    33280 |
-| INJ        |    25754 |
-| NOM        |       26 |
-| NOMcom     |  3872338 |
-| NOMpro     |   576738 |
-| PRE        |  1083170 |
-| PROdem     |   708712 |
-| PROind     |   346985 |
-| PROint     |    73925 |
-| PROper     |   226792 |
-| PROpos     |   125045 |
-| PROpos.ref |    75929 |
-| PROref     |    72418 |
-| PROrel     |   465611 |
-| PUNC       |  2994165 |
-| UNK        |      677 |
-| VER        |  3672021 |
-| _          |     2249 |
+|            |      274 |
+| ADJadv.mul |     7336 |
+| ADJadv.ord |    20543 |
+| ADJcar     |   158149 |
+| ADJdis     |    13445 |
+| ADJmul     |     3912 |
+| ADJord     |    58668 |
+| ADJqua     |  1256850 |
+| ADV        |   969879 |
+| ADVint     |    64136 |
+| ADVint.neg |     3279 |
+| ADVneg     |   271514 |
+| ADVrel     |   178543 |
+| CON        |   171893 |
+| CONcoo     |  1248073 |
+| CONsub     |   585788 |
+| FOR        |    35381 |
+| INJ        |    28799 |
+| NOM        |       28 |
+| NOMcom     |  4135950 |
+| NOMpro     |   661178 |
+| PRE        |  1163671 |
+| PROdem     |   755853 |
+| PROind     |   366737 |
+| PROint     |    77899 |
+| PROper     |   238727 |
+| PROpos     |   132758 |
+| PROpos.ref |    81081 |
+| PROref     |    77243 |
+| PROrel     |   499688 |
+| PUNC       |  3300174 |
+| UNK        |      734 |
+| VER        |  3934784 |
+| _          |     2278 |
 <!---END-STATS--->
