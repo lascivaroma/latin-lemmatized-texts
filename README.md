@@ -35,7 +35,7 @@ This corpus contains the whole set of Capitains compliant classical and late Lat
 The texts are distributed using the same licence as the original, annotation are CC-BY-SA 4.0. 
 
 <!--START-NB-->
-**Number of tokens**: 20,505,245 (17,205,071 without punctuation)
+**Number of tokens**: 21,222,911 (17,804,769 without punctuation)
 <!--END-NB-->
 
 ## Information about the model
@@ -117,38 +117,38 @@ Tokens use the standard TEI annotation elements `@pos`, `@msd` and `@lemma`:
 <!---START-STATS--->
 | POS        |   Tokens |
 |------------|----------|
-|            |      274 |
-| ADJadv.mul |     7336 |
-| ADJadv.ord |    20543 |
-| ADJcar     |   158149 |
-| ADJdis     |    13445 |
-| ADJmul     |     3912 |
-| ADJord     |    58668 |
-| ADJqua     |  1256850 |
-| ADV        |   969879 |
-| ADVint     |    64136 |
-| ADVint.neg |     3279 |
-| ADVneg     |   271514 |
-| ADVrel     |   178543 |
-| CON        |   171893 |
-| CONcoo     |  1248073 |
-| CONsub     |   585788 |
-| FOR        |    35381 |
-| INJ        |    28799 |
-| NOM        |       28 |
-| NOMcom     |  4135950 |
-| NOMpro     |   661178 |
-| PRE        |  1163671 |
-| PROdem     |   755853 |
-| PROind     |   366737 |
-| PROint     |    77899 |
-| PROper     |   238727 |
-| PROpos     |   132758 |
-| PROpos.ref |    81081 |
-| PROref     |    77243 |
-| PROrel     |   499688 |
-| PUNC       |  3300174 |
-| UNK        |      734 |
-| VER        |  3934784 |
-| _          |     2278 |
+|            |      277 |
+| ADJadv.mul |     7552 |
+| ADJadv.ord |    20979 |
+| ADJcar     |   166840 |
+| ADJdis     |    13946 |
+| ADJmul     |     4069 |
+| ADJord     |    61220 |
+| ADJqua     |  1306665 |
+| ADV        |   999425 |
+| ADVint     |    65373 |
+| ADVint.neg |     3406 |
+| ADVneg     |   276097 |
+| ADVrel     |   184487 |
+| CON        |   179121 |
+| CONcoo     |  1289510 |
+| CONsub     |   602726 |
+| FOR        |    43801 |
+| INJ        |    29551 |
+| NOM        |       29 |
+| NOMcom     |  4280591 |
+| NOMpro     |   712007 |
+| PRE        |  1203684 |
+| PROdem     |   776658 |
+| PROind     |   378232 |
+| PROint     |    79374 |
+| PROper     |   241477 |
+| PROpos     |   134255 |
+| PROpos.ref |    83421 |
+| PROref     |    79985 |
+| PROrel     |   514888 |
+| PUNC       |  3418142 |
+| UNK        |      839 |
+| VER        |  4061999 |
+| _          |     2285 |
 <!---END-STATS--->
