@@ -11,7 +11,7 @@ Cite this corpus using the following:
   month        = apr,
   year         = 2021,
   publisher    = {Zenodo},
-  version      = {0.1.0},
+  version      = {0.1.3},
   doi          = {10.5281/zenodo.4337145},
   url          = {https://doi.org/10.5281/zenodo.4337145}
 }
@@ -27,7 +27,7 @@ This corpus contains the whole set of Capitains compliant classical and late Lat
 | [PerseusDL/canonical-latinLit](https://github.com/PerseusDL/canonical-latinLit) | 0.0.843 | https://www.perseus.org                        |
 | [OpenGreekAndLatin/csel-dev](https://github.com/OpenGreekAndLatin/csel-dev)     | 1.0.211 | https://www.perseus.org                        |
 | [OpenGreekAndLatin/Latin](https://github.com/OpenGreekAndLatin/Latin)           | v1.10.0 | https://www.perseus.org                        |
-| [lascivaroma/digiliblt](https://github.com/lascivaroma/digiliblt)         | 0.0.62  | https://digiliblt.uniupo.it                    |
+| [lascivaroma/digiliblt](https://github.com/lascivaroma/digiliblt)               | 0.0.64  | https://digiliblt.uniupo.it                    |
 | [lascivaroma/priapeia](https://github.com/lascivaroma/priapeia)                 | 1.1.18  | [Lasciva Roma](https://github.com/lascivaroma) |
 | [lascivaroma/additional-texts](https://github.com/lascivaroma/additional-texts) | 1.0.192 | [Lasciva Roma](https://github.com/lascivaroma) |
 
@@ -35,7 +35,7 @@ This corpus contains the whole set of Capitains compliant classical and late Lat
 The texts are distributed using the same licence as the original, annotation are CC-BY-SA 4.0. 
 
 <!--START-NB-->
-**Number of tokens**: 21,222,911 (17,804,769 without punctuation)
+**Number of tokens**: 21,327,783 (17,885,059 without punctuation)
 <!--END-NB-->
 
 ## Information about the model
@@ -118,37 +118,37 @@ Tokens use the standard TEI annotation elements `@pos`, `@msd` and `@lemma`:
 | POS        |   Tokens |
 |------------|----------|
 |            |      277 |
-| ADJadv.mul |     7552 |
-| ADJadv.ord |    20979 |
-| ADJcar     |   166840 |
-| ADJdis     |    13946 |
-| ADJmul     |     4069 |
-| ADJord     |    61220 |
-| ADJqua     |  1306665 |
-| ADV        |   999425 |
-| ADVint     |    65373 |
-| ADVint.neg |     3406 |
-| ADVneg     |   276097 |
-| ADVrel     |   184487 |
-| CON        |   179121 |
-| CONcoo     |  1289510 |
-| CONsub     |   602726 |
-| FOR        |    43801 |
-| INJ        |    29551 |
+| ADJadv.mul |     7748 |
+| ADJadv.ord |    21012 |
+| ADJcar     |   168392 |
+| ADJdis     |    14022 |
+| ADJmul     |     4185 |
+| ADJord     |    61518 |
+| ADJqua     |  1313643 |
+| ADV        |  1003398 |
+| ADVint     |    65600 |
+| ADVint.neg |     3414 |
+| ADVneg     |   276761 |
+| ADVrel     |   185454 |
+| CON        |   179855 |
+| CONcoo     |  1295347 |
+| CONsub     |   604806 |
+| FOR        |    44232 |
+| INJ        |    30000 |
 | NOM        |       29 |
-| NOMcom     |  4280591 |
-| NOMpro     |   712007 |
-| PRE        |  1203684 |
-| PROdem     |   776658 |
-| PROind     |   378232 |
-| PROint     |    79374 |
-| PROper     |   241477 |
-| PROpos     |   134255 |
-| PROpos.ref |    83421 |
-| PROref     |    79985 |
-| PROrel     |   514888 |
-| PUNC       |  3418142 |
-| UNK        |      839 |
-| VER        |  4061999 |
-| _          |     2285 |
+| NOMcom     |  4301213 |
+| NOMpro     |   714746 |
+| PRE        |  1208858 |
+| PROdem     |   780450 |
+| PROind     |   379789 |
+| PROint     |    79845 |
+| PROper     |   242527 |
+| PROpos     |   134720 |
+| PROpos.ref |    83633 |
+| PROref     |    80269 |
+| PROrel     |   516713 |
+| PUNC       |  3442724 |
+| UNK        |      843 |
+| VER        |  4079470 |
+| _          |     2290 |
 <!---END-STATS--->
